@@ -1,0 +1,691 @@
+MIME-Version: 1.0
+Date: Fri, 30 Jan 2026 16:46:14 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, Pidge Tech <pidge.tech@pidge.in>
+Message-ID: <CAFuJ3p7ukrTsQcXQDL34WX+fUa54YuOXcAxxpBw4qFNNaMT3nA@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IENsZWFuZXIgRnVsZmlsbG1lbnQgTUlTIFJlcA==?=
+	=?UTF-8?B?b3J0?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000f82a8c06499919e5"
+
+--000000000000f82a8c06499919e5
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+*Introducing Partner Fulfillment MIS Report*
+
+
+As billing complexity increases, so does the need for precise, auditable
+data, especially when multiple fulfilment partners and execution paths are
+involved.
+
+
+With this release, we=E2=80=99re introducing a new* Fulfillment MIS report*=
+ that
+provides a clean, order-level view of all billable fulfilment transactions
+executed by partners.
+
+
+This report is designed to give finance and operations teams a clearer,
+more reliable foundation for reconciliation, audits, and downstream billing
+workflows.
+Why We Built This
+
+The existing transactions download offered a single, default report that
+mixed different transaction contexts and made it harder to isolate
+fulfilment-level charges, particularly when orders moved across partners or
+were partially cancelled.
+
+This led to:
+
+   -
+
+   Difficulty reconciling partner invoices
+   -
+
+   Noise from zero-value or irrelevant entries
+   -
+
+   Limited visibility into fulfilment-specific charges
+
+
+The new MIS report addresses this by focusing only on *non-zero,
+order-level fulfilment transactions specific to each partner request* =E2=
+=80=94
+nothing more, nothing less.
+What=E2=80=99s New
+
+
+A Dedicated MIS Report
+
+When downloading transactions from the *Billing* page, you now have the
+option to select *Partner Fulfilment* instead of the default download.
+
+This report:
+
+   -
+
+   Contains *only non-zero entries*
+   -
+
+   Includes *only orders fulfilled by partners (3PL/PPN)*
+   -
+
+   Is generated at an *order fulfilment level*, not a generic transaction
+   level
+
+How Entries Are Created
+
+The report reflects *each fulfilment request created*, not just each order.
+
+For example:
+
+   -
+
+   If 100 orders are completed in a day and *60 are fulfilled by partners*,
+   the report will contain *entries for 60 orders *(can be more basis
+   number of fulfillment per order)
+   -
+
+   Orders fulfilled by captive riders are excluded
+   -
+
+   If an order is first booked with one partner, cancelled with a charge,
+   and then re-booked with another partner, *each fulfilment attempt
+   appears as a separate entry*
+
+
+This ensures every billable interaction with a partner is captured
+accurately.
+What This Means For You
+
+You now get a report that reflects *exactly what needs to be billed or
+reconciled*.
+
+This means:
+
+   -
+
+   Cleaner billing data with no zero-value clutter
+   -
+
+   Accurate visibility into partner fulfilment charges
+   -
+
+   Easier reconciliation when orders involve cancellations or re-bookings
+   -
+
+   A report structure that aligns directly with finance workflows
+
+
+Whether you=E2=80=99re reviewing daily execution or closing monthly books, =
+the data
+is now easier to trust and easier to use.
+What=E2=80=99s Next
+
+We=E2=80=99re continuing to strengthen reporting and financial transparency=
+, making
+it easier to move from execution data to billing-ready insights.
+
+Expect deeper control, richer breakdowns, and smarter reporting flows ahead=
+.
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE
+<https://us17.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&xid=
+=3D05a9683202&uid=3D248089116&iid=3D2506f0a27e&pool=3Dcts&v=3D2&c=3D1769153=
+389&h=3D6c1c4ade0b8c6937468d523e1785112c273f1e734058f6c3d073eec644961fcd>
+
+--000000000000f82a8c06499919e5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_-6843147085651812582root" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse:col=
+lapse"><tbody><tr><td valign=3D"top" align=3D"center" style=3D"word-break:b=
+reak-word;background-color:transparent"><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-c=
+ollapse:collapse;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"wo=
+rd-break:break-word"><table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-col=
+lapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-wor=
+d;background-position:center center;background-repeat:no-repeat;background-=
+size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-68=
+43147085651812582mceColumnId--10" colspan=3D"12" width=3D"100%" style=3D"wo=
+rd-break:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" s=
+tyle=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"ce=
+nter" id=3D"m_-6843147085651812582b38" style=3D"word-break:break-word;paddi=
+ng:0px;border:0px;border-radius:0px"><div></div><table align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presen=
+tation" style=3D"margin:0px;vertical-align:top;max-width:100%;width:660px;h=
+eight:auto"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;bo=
+rder:0px;border-radius:0px"><img alt=3D"image placeholder" src=3D"https://m=
+cusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c=
+48a94a4b0b1.png" width=3D"660" height=3D"auto" class=3D"m_-6843147085651812=
+582mceImage gmail-CToWUd" style=3D"border: 0px; height: auto; outline: none=
+; display: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody><=
+/table><div></div><div></div></td></tr><tr><td valign=3D"top" align=3D"cent=
+er" id=3D"m_-6843147085651812582b39" style=3D"word-break:break-word;padding=
+:0px;border:0px;border-radius:0px"><div></div><table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"margin:0px;vertical-align:top;max-width:100%;width:660px;hei=
+ght:auto"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;bord=
+er:0px;border-radius:0px"><img alt=3D"image placeholder" src=3D"https://mcu=
+sercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a2=
+8b8cc0795.png" width=3D"660" height=3D"auto" class=3D"m_-684314708565181258=
+2mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: pointer; =
+outline: none; border: 0px; height: auto; display: block; max-width: 100%; =
+border-radius: 0px;"></td></tr></tbody></table><div></div><div></div></td><=
+/tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody><tbody><tr><td valign=3D"top" alig=
+n=3D"center" style=3D"word-break:break-word;background-color:transparent"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse;max-width:660px"><tbody=
+><tr><td valign=3D"top" style=3D"word-break:break-word"><table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-684=
+3147085651812582mceColumn" id=3D"m_-6843147085651812582mceColumnId--11" col=
+span=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;p=
+adding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tb=
+ody><tr><td valign=3D"top" id=3D"m_-6843147085651812582gutterContainerId-33=
+" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr>=
+<td valign=3D"top" id=3D"m_-6843147085651812582b33" style=3D"word-break:bre=
+ak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" sty=
+le=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><tr=
+><td class=3D"m_-6843147085651812582mceTextBlockContainer" style=3D"word-br=
+eak:break-word;padding:12px 16px"><div class=3D"m_-6843147085651812582mceTe=
+xt" id=3D"m_-6843147085651812582d33" style=3D"font-family:&quot;Helvetica N=
+eue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:624.258=
+px"><h1 style=3D"margin:0px;padding:0px;font-size:31px;line-height:1.5;lett=
+er-spacing:0px;direction:ltr"><strong><span style=3D"font-size:26px">Introd=
+ucing Partner Fulfillment MIS Report</span></strong></h1><p style=3D"margin=
+:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;letter-=
+spacing:0px;direction:ltr"><br></p><p style=3D"margin:0.75rem 0px 0px;paddi=
+ng:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr">=
+<span style=3D"color:rgb(71,71,71)">As billing complexity increases, so doe=
+s the need for precise, auditable data, especially when multiple fulfilment=
+ partners and execution paths are involved.</span></p><p style=3D"margin:0p=
+x;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;directio=
+n:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;fon=
+t-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,7=
+1)">With this release, we=E2=80=99re introducing a new</span><strong><span =
+style=3D"color:rgb(71,71,71)">=C2=A0</span>Fulfillment MIS report</strong><=
+span style=3D"color:rgb(71,71,71)">=C2=A0that provides a clean, order-level=
+ view of all billable fulfilment transactions executed by partners.</span><=
+/p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;=
+line-height:1.5;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><span st=
+yle=3D"color:rgb(71,71,71)">This report is designed to give finance and ope=
+rations teams a clearer, more reliable foundation for reconciliation, audit=
+s, and downstream billing workflows.</span></p></div></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-684=
+3147085651812582b41" style=3D"word-break:break-word;background-color:transp=
+arent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-bre=
+ak:break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" i=
+d=3D"m_-6843147085651812582b23" style=3D"word-break:break-word;background-c=
+olor:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"b=
+order-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" align=3D"center" id=3D"m_-6843147085651812582b4" style=3D"word-b=
+reak:break-word;padding:12px 0px;border:0px;border-radius:0px"><div></div><=
+table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"95%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max=
+-width:95%;width:626.992px;height:auto"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=3D"" src=
+=3D"https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/98c2e7b9-a68=
+e-239d-ea81-1e8efc6681a2.png" width=3D"627" height=3D"auto" class=3D"m_-684=
+3147085651812582mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cu=
+rsor: pointer; outline: none; border: 0px; height: auto; display: block; ma=
+x-width: 100%; border-radius: 0px;"></td></tr></tbody></table><div></div><d=
+iv></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody><tbody><tr><td vali=
+gn=3D"top" align=3D"center" style=3D"word-break:break-word;background-color=
+:transparent"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse;max-width=
+:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word"><tabl=
+e align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" style=3D"word-break:break-word;background-position:ce=
+nter center;background-repeat:no-repeat;background-size:cover"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" clas=
+s=3D"m_-6843147085651812582mceColumn" id=3D"m_-6843147085651812582mceColumn=
+Id--12" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;paddin=
+g-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:co=
+llapse"><tbody><tr><td valign=3D"top" id=3D"m_-6843147085651812582gutterCon=
+tainerId-18" style=3D"word-break:break-word;padding:0px"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation">=
+<tbody><tr><td valign=3D"top" id=3D"m_-6843147085651812582b18" style=3D"wor=
+d-break:break-word;padding:0px;border:0px;border-radius:0px"><table width=
+=3D"100%" style=3D"border:0px;background-color:transparent;border-radius:0p=
+x"><tbody><tr><td class=3D"m_-6843147085651812582mceTextBlockContainer" sty=
+le=3D"word-break:break-word;padding:12px 24px 12px 16px"><div class=3D"m_-6=
+843147085651812582mceText" id=3D"m_-6843147085651812582d18" style=3D"font-f=
+amily:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:r=
+gb(0,0,0);width:616.26px"><h3 class=3D"m_-6843147085651812582mcePastedConte=
+nt" id=3D"m_-6843147085651812582Why-We-Built-This" style=3D"margin:1.31249e=
+m 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:ltr"><span s=
+tyle=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"><span style=
+=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,Blin=
+kMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-=
+serif">Why We Built This</span></span></span></h3><p style=3D"margin:0.75re=
+m 0px 0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;=
+direction:ltr"><span style=3D"color:rgb(71,71,71)">The existing transaction=
+s download offered a single, default report that mixed different transactio=
+n contexts and made it harder to isolate fulfilment-level charges, particul=
+arly when orders moved across partners or were partially cancelled.</span><=
+/p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;=
+line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">This led=
+ to:</span></p><ul style=3D"margin-bottom:0px"><li style=3D"margin-left:15p=
+x"><p class=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;=
+padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spa=
+cing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Difficulty reco=
+nciling partner invoices</span></p></li><li style=3D"margin-left:15px"><p c=
+lass=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;padding=
+:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0p=
+x;direction:ltr"><span style=3D"color:rgb(71,71,71)">Noise from zero-value =
+or irrelevant entries</span></p></li><li style=3D"margin-left:15px"><p clas=
+s=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;padding:0p=
+x;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr"><span style=3D"color:rgb(71,71,71)">Limited visibility into f=
+ulfilment-specific charges</span></p></li></ul><p class=3D"m_-6843147085651=
+812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p=
+><p class=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">The new MIS repor=
+t addresses this by focusing only on=C2=A0</span><strong>non-zero, order-le=
+vel fulfilment transactions specific to each partner request</strong><span =
+style=3D"color:rgb(71,71,71)">=C2=A0=E2=80=94 nothing more, nothing less.</=
+span></p></div></td></tr></tbody></table></td></tr></tbody></table></td></t=
+r><tr><td valign=3D"top" id=3D"m_-6843147085651812582gutterContainerId-46" =
+style=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"=
+top" id=3D"m_-6843147085651812582b46" style=3D"word-break:break-word;paddin=
+g:12px 0px 0px;border:0px;border-radius:0px"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" id=3D"m_-6843147085651812582section_0210b6e0b72779d536c0bff6783e885d" =
+style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"w=
+ord-break:break-word;background-position:center center;background-repeat:no=
+-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:c=
+ollapse"><tbody><tr><td valign=3D"top" class=3D"m_-6843147085651812582mceCo=
+lumn" id=3D"m_-6843147085651812582mceColumnId--13" colspan=3D"12" width=3D"=
+100%" style=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-col=
+lapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"m_-684=
+3147085651812582b-5" style=3D"word-break:break-word;border:0px;border-radiu=
+s:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background=
+-position:center center;background-repeat:no-repeat;background-size:cover">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-684314708565181=
+2582mceColumnId--17" colspan=3D"12" width=3D"100%" style=3D"word-break:brea=
+k-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" id=3D"m_-6843147085651812582b45" style=3D"word-break:break-=
+word;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-b=
+reak:break-word;background-position:center center;background-repeat:no-repe=
+at;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"24" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"center" class=3D"m_-6843147085651812582mceCol=
+umn" id=3D"m_-6843147085651812582mceColumnId-44" colspan=3D"12" width=3D"10=
+0%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"t=
+op" id=3D"m_-6843147085651812582gutterContainerId-20" style=3D"word-break:b=
+reak-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=
+=3D"m_-6843147085651812582b20" style=3D"word-break:break-word;padding:0px;b=
+order:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;back=
+ground-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_-6843=
+147085651812582mceTextBlockContainer" style=3D"word-break:break-word;paddin=
+g:12px 24px 8px 16px"><div class=3D"m_-6843147085651812582mceText" id=3D"m_=
+-6843147085651812582d20" style=3D"font-family:&quot;Helvetica Neue&quot;,He=
+lvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 class=
+=3D"m_-6843147085651812582mcePastedContent" id=3D"m_-6843147085651812582Wha=
+t=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20=
+px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)"><span=
+ style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian San=
+s&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;=
+,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What=E2=80=99s New</span></s=
+pan></span></h3><p style=3D"margin:0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(41,42,46)"><br></span><span style=3D"color:rgb(77,34,178)"><s=
+pan style=3D"font-size:18px">A Dedicated MIS Report</span><br></span><span =
+style=3D"color:rgb(71,71,71)"><br>When downloading transactions from the=C2=
+=A0</span><strong>Billing</strong><span style=3D"color:rgb(71,71,71)">=C2=
+=A0page, you now have the option to select=C2=A0</span><strong>Partner Fulf=
+ilment</strong><span style=3D"color:rgb(71,71,71)">=C2=A0instead of the def=
+ault download.</span></p><p style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:r=
+gb(71,71,71)">This report:</span></p><ul style=3D"margin-bottom:0px"><li cl=
+ass=3D"m_-6843147085651812582mcePastedContent" style=3D"margin-left:15px;co=
+lor:rgb(71,71,71)"><p class=3D"m_-6843147085651812582mcePastedContent" styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-siz=
+e:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"col=
+or:rgb(71,71,71)">Contains=C2=A0</span><strong>only non-zero entries</stron=
+g></p></li><li class=3D"m_-6843147085651812582mcePastedContent" style=3D"ma=
+rgin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-6843147085651812582mcePa=
+stedContent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rg=
+b(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><=
+span style=3D"color:rgb(71,71,71)">Includes=C2=A0</span><strong>only orders=
+ fulfilled by partners (3PL/PPN)</strong></p></li><li class=3D"m_-684314708=
+5651812582mcePastedContent" style=3D"margin-left:15px;color:rgb(71,71,71)">=
+<p class=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;pad=
+ding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:=
+1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">I=
+s generated at an=C2=A0</span><strong>order fulfilment level</strong><span =
+style=3D"color:rgb(71,71,71)">, not a generic transaction level</span></p><=
+/li></ul></div></td></tr></tbody></table></td></tr></tbody></table></td></t=
+r><tr><td valign=3D"top" id=3D"m_-6843147085651812582b72" style=3D"word-bre=
+ak:break-word;background-color:transparent;border:0px;border-radius:0px"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" i=
+d=3D"m_-6843147085651812582gutterContainerId-92" style=3D"word-break:break-=
+word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-684314708565=
+1812582b92" style=3D"word-break:break-word;padding:8px 0px;border:0px;borde=
+r-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation" id=3D"m_-68431470856518125=
+82section_b2ca18d70ea37dc5da156641c94f36ee" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background=
+-position:center center;background-repeat:no-repeat;background-size:cover">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-684314708565181=
+2582mceColumnId--15" colspan=3D"12" width=3D"100%" style=3D"word-break:brea=
+k-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" align=3D"center" id=3D"m_-6843147085651812582b-9" style=3D"=
+word-break:break-word;border:0px;border-radius:0px"><table align=3D"center"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top=
+" style=3D"word-break:break-word;background-position:center center;backgrou=
+nd-repeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-68431470856=
+51812582mceColumn" id=3D"m_-6843147085651812582mceColumnId--19" colspan=3D"=
+12" width=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-684314=
+7085651812582b91" style=3D"word-break:break-word;border:0px;border-radius:0=
+px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background-posi=
+tion:center center;background-repeat:no-repeat;background-size:cover"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"=
+presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"t=
+op" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-6843147085651812582m=
+ceColumnId-90" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word=
+;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-coll=
+apse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"m_-6843=
+147085651812582b66" style=3D"word-break:break-word;background-color:transpa=
+rent;padding:12px 16px;border:0px;border-radius:0px"><div></div><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-width:10=
+0%;width:628.008px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word=
+-break:break-word;border:0px;border-radius:0px"><img alt=3D"" src=3D"https:=
+//mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/1ef189f7-0342-6ef1-ae8=
+d-e52a3696ccfa.png" width=3D"628" height=3D"auto" class=3D"m_-6843147085651=
+812582mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: poin=
+ter; outline: none; border: 0px; height: auto; display: block; max-width: 1=
+00%; border-radius: 0px;"></td></tr></tbody></table><div></div><div></div><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_=
+-6843147085651812582gutterContainerId-75" style=3D"word-break:break-word"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-684314708565181258=
+2b75" style=3D"word-break:break-word;padding:12px 0px 0px;border:0px;border=
+-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" id=3D"m_-684314708565181258=
+2section_7599fca11b38bf637e6060b7e244b0a0" style=3D"border-collapse:collaps=
+e"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background-=
+position:center center;background-repeat:no-repeat;background-size:cover"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-684314708565181=
+2582mceColumnId--14" colspan=3D"12" width=3D"100%" style=3D"word-break:brea=
+k-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" align=3D"center" id=3D"m_-6843147085651812582b-7" style=3D"=
+word-break:break-word;border:0px;border-radius:0px"><table align=3D"center"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top=
+" style=3D"word-break:break-word;background-position:center center;backgrou=
+nd-repeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-68431470856=
+51812582mceColumn" id=3D"m_-6843147085651812582mceColumnId--18" colspan=3D"=
+12" width=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-684314=
+7085651812582b81" style=3D"word-break:break-word;border:0px;border-radius:0=
+px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background-posi=
+tion:center center;background-repeat:no-repeat;background-size:cover"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"=
+presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"c=
+enter" class=3D"m_-6843147085651812582mceColumn" id=3D"m_-68431470856518125=
+82mceColumnId-78" colspan=3D"12" width=3D"100%" style=3D"word-break:break-w=
+ord;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-c=
+ollapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-684314708565181258=
+2gutterContainerId-100" style=3D"word-break:break-word;padding:0px"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pre=
+sentation"><tbody><tr><td valign=3D"top" id=3D"m_-6843147085651812582b100" =
+style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><t=
+able width=3D"100%" style=3D"border:0px;background-color:transparent;border=
+-radius:0px"><tbody><tr><td class=3D"m_-6843147085651812582mceTextBlockCont=
+ainer" style=3D"word-break:break-word;padding:12px 24px 12px 16px"><div cla=
+ss=3D"m_-6843147085651812582mceText" id=3D"m_-6843147085651812582d100" styl=
+e=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-se=
+rif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_-6843147085651812582mce=
+PastedContent" id=3D"m_-6843147085651812582Why-We-Built-This" style=3D"marg=
+in:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:l=
+tr"><span style=3D"font-size:24px">How Entries Are Created</span></h3><p st=
+yle=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">The =
+report reflects </span><strong>each fulfilment request created</strong><spa=
+n style=3D"color:rgb(71,71,71)">, not just each order.</span></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">For example:</span>=
+</p><ul style=3D"margin-bottom:0px"><li style=3D"margin-left:15px"><p class=
+=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;padding:0px=
+;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;di=
+rection:ltr"><span style=3D"color:rgb(71,71,71)">If 100 orders are complete=
+d in a day and=C2=A0</span><strong>60 are fulfilled by partners</strong><sp=
+an style=3D"color:rgb(71,71,71)">, the report will contain=C2=A0</span><str=
+ong>entries for 60 orders </strong>(can be more basis number of fulfillment=
+ per order)</p></li><li style=3D"margin-left:15px"><p class=3D"m_-684314708=
+5651812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><sp=
+an style=3D"color:rgb(71,71,71)">Orders fulfilled by captive riders are exc=
+luded</span></p></li><li style=3D"margin-left:15px"><p class=3D"m_-68431470=
+85651812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><s=
+pan style=3D"color:rgb(71,71,71)">If an order is first booked with one part=
+ner, cancelled with a charge, and then re-booked with another partner,=C2=
+=A0</span><strong>each fulfilment attempt appears as a separate entry</stro=
+ng></p></li></ul><p class=3D"m_-6843147085651812582mcePastedContent" style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_-6843147085651=
+812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span s=
+tyle=3D"color:rgb(71,71,71)">This ensures every billable interaction with a=
+ partner is captured accurately.</span></p></div></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr><tr><td valign=3D"top" align=3D"center"=
+ id=3D"m_-6843147085651812582b102" style=3D"word-break:break-word;backgroun=
+d-color:transparent;padding:12px 16px;border:0px;border-radius:0px"><div></=
+div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbod=
+y></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></t=
+body></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=
+=3D"m_-6843147085651812582gutterContainerId-68" style=3D"word-break:break-w=
+ord;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-6=
+843147085651812582b68" style=3D"word-break:break-word;padding:0px;border:0p=
+x;border-radius:0px"><table width=3D"100%" style=3D"border:0px;background-c=
+olor:transparent;border-radius:0px"><tbody><tr><td class=3D"m_-684314708565=
+1812582mceTextBlockContainer" style=3D"word-break:break-word;padding:12px 2=
+4px 12px 16px"><div class=3D"m_-6843147085651812582mceText" id=3D"m_-684314=
+7085651812582d68" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica=
+,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_-=
+6843147085651812582mcePastedContent" id=3D"m_-6843147085651812582Why-We-Bui=
+lt-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-=
+height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)"><span style=
+=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian Sans&quot=
+;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubunt=
+u,&quot;Helvetica Neue&quot;,sans-serif">What This Means For You</span></sp=
+an></span></h3><p style=3D"margin:0.75rem 0px 0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"color=
+:rgb(71,71,71)">You now get a report that reflects </span><strong>exactly w=
+hat needs to be billed or reconciled</strong>.</p><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:lt=
+r"><span style=3D"color:rgb(71,71,71)">This means:</span></p><ul style=3D"m=
+argin-bottom:0px"><li style=3D"margin-left:15px"><p class=3D"m_-68431470856=
+51812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-=
+word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span=
+ style=3D"color:rgb(71,71,71)">Cleaner billing data with no zero-value clut=
+ter</span></p></li><li style=3D"margin-left:15px"><p class=3D"m_-6843147085=
+651812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><spa=
+n style=3D"color:rgb(71,71,71)">Accurate visibility into partner fulfilment=
+ charges</span></p></li><li style=3D"margin-left:15px"><p class=3D"m_-68431=
+47085651812582mcePastedContent" style=3D"margin:0px;padding:0px;word-break:=
+break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"=
+><span style=3D"color:rgb(71,71,71)">Easier reconciliation when orders invo=
+lve cancellations or re-bookings</span></p></li><li style=3D"margin-left:15=
+px"><p class=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px=
+;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-sp=
+acing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">A report struc=
+ture that aligns directly with finance workflows</span></p></li></ul><p cla=
+ss=3D"m_-6843147085651812582mcePastedContent" style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><br></p><p class=3D"m_-6843147085651812582mcePastedContent" =
+style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-h=
+eight:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,=
+71)">Whether you=E2=80=99re reviewing daily execution or closing monthly bo=
+oks, the data is now easier to trust and easier to use.</span></p></div></t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" id=3D"m_-6843147085651812582gutterContainerId-101" style=3D"word-b=
+reak:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top=
+" id=3D"m_-6843147085651812582b101" style=3D"word-break:break-word;padding:=
+0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px=
+;background-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_=
+-6843147085651812582mceTextBlockContainer" style=3D"word-break:break-word;p=
+adding:12px 24px 12px 16px"><div class=3D"m_-6843147085651812582mceText" id=
+=3D"m_-6843147085651812582d101" style=3D"font-family:&quot;Helvetica Neue&q=
+uot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h=
+3 class=3D"m_-6843147085651812582mcePastedContent" id=3D"m_-684314708565181=
+2582Why-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-s=
+ize:20px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)"=
+><span style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassi=
+an Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI=
+&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What=E2=80=99s Next</s=
+pan></span></span></h3><p style=3D"margin:0.75rem 0px 0px;padding:0px;word-=
+break:break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=
+=3D"color:rgb(71,71,71)">We=E2=80=99re continuing to strengthen reporting a=
+nd financial transparency, making it easier to move from execution data to =
+billing-ready insights.</span></p><p style=3D"margin:0.75rem 0px 0px;paddin=
+g:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><=
+span style=3D"color:rgb(71,71,71)">Expect deeper control, richer breakdowns=
+, and smarter reporting flows ahead.</span></p></div></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-684=
+3147085651812582b28" style=3D"word-break:break-word;background-color:transp=
+arent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-bre=
+ak:break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" i=
+d=3D"m_-6843147085651812582b29" style=3D"word-break:break-word;background-c=
+olor:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"b=
+order-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" align=3D"center" id=3D"m_-6843147085651812582b42" style=3D"word-=
+break:break-word;padding:0px;border:0px;border-radius:0px"><div></div><tabl=
+e align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-=
+width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"=
+word-break:break-word;border:0px;border-radius:0px"><img alt=3D"image place=
+holder" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a=
+6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" clas=
+s=3D"m_-6843147085651812582mceImage gmail-CToWUd" style=3D"border: 0px; hei=
+ght: auto; outline: none; display: block; max-width: 100%; border-radius: 0=
+px;"></td></tr></tbody></table><div></div><div></div></td></tr><tr><td vali=
+gn=3D"top" id=3D"m_-6843147085651812582b11" style=3D"word-break:break-word;=
+padding:8px;border:0px;border-radius:0px"><table align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation=
+" id=3D"m_-6843147085651812582section_85e3b9e8afad1e94f9423a541d2b895e" cla=
+ss=3D"m_-6843147085651812582mceFooterSection" style=3D"border-collapse:coll=
+apse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;backgrou=
+nd-position:center center;background-repeat:no-repeat;background-size:cover=
+;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"12" width=3D"100%" role=3D"presentation" style=3D"border-col=
+lapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-68431470856518125=
+82mceColumn" id=3D"m_-6843147085651812582mceColumnId--3" colspan=3D"12" wid=
+th=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0=
+px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td val=
+ign=3D"top" id=3D"m_-6843147085651812582gutterContainerId-9" style=3D"word-=
+break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"to=
+p" align=3D"center" id=3D"m_-6843147085651812582b9" style=3D"word-break:bre=
+ak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" sty=
+le=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><tr=
+><td class=3D"m_-6843147085651812582mceTextBlockContainer" style=3D"word-br=
+eak:break-word;padding:12px 16px"><div class=3D"m_-6843147085651812582mceTe=
+xt" id=3D"m_-6843147085651812582d9" style=3D"font-family:&quot;Helvetica Ne=
+ue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);display:inline=
+-block;width:608.262px"><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;text-align:center;letter-spacing:0px;d=
+irection:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:=
+11px">M3M Urbana Business Park, Sector 67</span></span></p><p style=3D"marg=
+in:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;tex=
+t-align:center;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(7=
+1,71,71)"><span style=3D"font-size:11px">Gurugram , Haryana (122101)<br><br=
+></span></span><a href=3D"https://us17.mailchimp.com/mctx/clicks?url=3Dhttp=
+%3A%2F%2Fwww.pidge.in&amp;xid=3D05a9683202&amp;uid=3D248089116&amp;iid=3D25=
+06f0a27e&amp;pool=3Dcts&amp;v=3D2&amp;c=3D1769153389&amp;h=3D6c1c4ade0b8c69=
+37468d523e1785112c273f1e734058f6c3d073eec644961fcd" target=3D"_blank" style=
+=3D"color:rgb(153,153,153);word-break:break-word;direction:ltr"><span style=
+=3D"font-size:11px">VISIT WEBSITE</span></a></p></div></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></div>
+
+--000000000000f82a8c06499919e5--

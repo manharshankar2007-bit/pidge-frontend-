@@ -1,0 +1,475 @@
+MIME-Version: 1.0
+Date: Fri, 15 May 2026 10:12:22 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, Pidge Tech <pidge.tech@pidge.in>, 
+	BD Rockstars <bdrockstars@r-indventures.com>, 
+	Customer Success <customersuccess@r-indventures.com>, Network Ops <netops@pidge.in>
+Message-ID: <CAFuJ3p6VLVSPdLCLy=F4oM5uYPtdnppZH0uewppa4AVGS6d+cg@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IFJpZGVyIEFjdGl2ZSBUYXNrIFdlYmhvb2s=?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000baa3860651d3d6cf"
+
+--000000000000baa3860651d3d6cf
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+
+
+*Rider Active Task Webhook*
+
+
+
+Bridge the gap between dispatch and execution with real-time, event-driven
+visibility into your riders=E2=80=99 active tasks.
+
+
+You can now subscribe to webhooks that provide structured updates on a
+rider=E2=80=99s ongoing task sequence=E2=80=94enabling your systems to stay=
+ in sync without
+relying on live tracking UI.
+What=E2=80=99s New
+
+   -
+
+   *Real-Time Task Visibility*
+   Get structured updates on all active tasks assigned to your riders,
+   including deliveries and admin tasks.
+
+
+   -
+
+   *Task Sequence Clarity*
+   Understand not just what the rider is doing, but also their current
+   stage and upcoming tasks in the execution journey.
+
+
+   -
+
+   *SLA Risk Monitoring*
+   Identify potential delays early with continuous updates on active task
+   execution.
+
+Go to *Settings =E2=86=92 Communications =E2=86=92 Rider*
+
+   1.
+
+   Select *Rider Active Task* trigger
+   2.
+
+   Enable the webhook configuration
+   3.
+
+   Add:
+   -
+
+      Webhook URL
+      -
+
+      Auth Token
+      4.
+
+   Test the webhook
+   5.
+
+   Save the configuration once the test is successful
+
+Why This Matters To You
+
+
+
+   -
+
+   *System-Level Integration*
+   Easily integrate rider task data into your internal systems using
+   webhook-based updates.
+
+
+   -
+
+   *Clean & Relevant Data*
+   Webhook payloads include only active/ongoing tasks. Completed or
+   terminal tasks are excluded to ensure signal over noise.
+
+What changes?
+
+1. Nothing changes in day to day operations
+
+2. New Webhook (completely optional) can be subscribed
+
+3. Updated SLAs include the actual time spent in each order (including
+pre-decided waiting times for both pickup and drop-off).
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+--000000000000baa3860651d3d6cf
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_3551362892410192520m_-2768713604414986682m_=
+-5901756248296818441m_5110064566200328667root" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-c=
+ollapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" style=3D"w=
+ord-break:break-word;background-color:transparent"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td valign=3D"top"=
+ style=3D"word-break:break-word"><table align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-b=
+reak:break-word;background-position:center center;background-repeat:no-repe=
+at;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" id=3D"m_3551362892410192520m_-27687136044=
+14986682m_-5901756248296818441m_5110064566200328667mceColumnId--4" colspan=
+=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;paddi=
+ng-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody>=
+<tr><td valign=3D"top" align=3D"center" id=3D"m_3551362892410192520m_-27687=
+13604414986682m_-5901756248296818441m_5110064566200328667b38" style=3D"word=
+-break:break-word;padding:0px;border:0px;border-radius:0px"><div></div><tab=
+le align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-=
+width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"=
+word-break:break-word;border:0px;border-radius:0px"><img alt=3D"image place=
+holder" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a=
+6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" clas=
+s=3D"gmail-CToWUd" style=3D"border: 0px; height: auto; outline: none; displ=
+ay: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table>=
+<div></div><div></div></td></tr><tr><td valign=3D"top" align=3D"center" id=
+=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5110=
+064566200328667b39" style=3D"word-break:break-word;padding:0px;border:0px;b=
+order-radius:0px"><div></div><table align=3D"center" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"ma=
+rgin:0px;vertical-align:top;max-width:100%;width:660px;height:auto"><tbody>=
+<tr><td valign=3D"top" style=3D"word-break:break-word;border:0px;border-rad=
+ius:0px"><img alt=3D"image placeholder" src=3D"https://mcusercontent.com/22=
+4f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png" wi=
+dth=3D"660" height=3D"auto" class=3D"gmail-CToWUd gmail-a6T" tabindex=3D"0"=
+ style=3D"cursor: pointer; outline: none; border: 0px; height: auto; displa=
+y: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table><=
+div></div><div></div></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><tbody>=
+<tr><td valign=3D"top" align=3D"center" style=3D"word-break:break-word;back=
+ground-color:transparent"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:break=
+-word"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background=
+-position:center center;background-repeat:no-repeat;background-size:cover">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-59017562482968=
+18441m_5110064566200328667mceColumnId--5" colspan=3D"12" width=3D"100%" sty=
+le=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"present=
+ation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=
+=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5110=
+064566200328667gutterContainerId-102" style=3D"word-break:break-word;paddin=
+g:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_355136289241=
+0192520m_-2768713604414986682m_-5901756248296818441m_5110064566200328667b10=
+2" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"=
+><table width=3D"100%" style=3D"border:0px;background-color:transparent;bor=
+der-radius:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px =
+24px 12px 16px"><div id=3D"m_3551362892410192520m_-2768713604414986682m_-59=
+01756248296818441m_5110064566200328667d102" style=3D"font-family:&quot;Helv=
+etica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:=
+616.26px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-siz=
+e:16px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"><b=
+r></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong><span style=3D=
+"color:rgb(34,34,34)"><span style=3D"font-size:26px"><span style=3D"font-fa=
+mily:Arial,Helvetica,sans-serif"><span style=3D"background-color:transparen=
+t">Rider Active Task Webhook</span></span></span></span></strong></p><table=
+ style=3D"border-collapse:collapse"><tbody><tr><td colspan=3D"1" rowspan=3D=
+"1" style=3D"word-break:break-word;padding:12px 16px"><p style=3D"margin:0p=
+x;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-align=
+:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:0;text-align:cen=
+ter;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;paddin=
+g:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0=
+px;direction:ltr">Bridge the gap between dispatch and execution with real-t=
+ime, event-driven visibility into your riders=E2=80=99 active tasks.</p><p =
+style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-h=
+eight:1.5;letter-spacing:0px;direction:ltr"><br>You can now subscribe to we=
+bhooks that provide structured updates on a rider=E2=80=99s ongoing task se=
+quence=E2=80=94enabling your systems to stay in sync without relying on liv=
+e tracking UI.</p></td></tr></tbody></table></div></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_3551362=
+892410192520m_-2768713604414986682m_-5901756248296818441m_51100645662003286=
+67gutterContainerId-103" style=3D"word-break:break-word;padding:0px"><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation"><tbody><tr><td valign=3D"top" id=3D"m_3551362892410192520m_-276=
+8713604414986682m_-5901756248296818441m_5110064566200328667b103" style=3D"w=
+ord-break:break-word;padding:0px;border:0px;border-radius:0px"><table width=
+=3D"100%" style=3D"border:0px;background-color:transparent;border-radius:0p=
+x"><tbody><tr><td style=3D"word-break:break-word;padding:12px 24px 12px 16p=
+x"><div id=3D"m_3551362892410192520m_-2768713604414986682m_-590175624829681=
+8441m_5110064566200328667d103" style=3D"font-family:&quot;Helvetica Neue&qu=
+ot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3=
+ id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5=
+110064566200328667m_4352628628550240122m_5793255849488048215Why-We-Built-Th=
+is" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-heigh=
+t:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46=
+)"><span style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlas=
+sian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe =
+UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif"><span style=3D"backg=
+round-color:transparent">What=E2=80=99s New</span></span></span></span></h3=
+><table style=3D"border-collapse:collapse"><tbody><tr><td colspan=3D"1" row=
+span=3D"1" style=3D"word-break:break-word;padding:12px 16px"><table style=
+=3D"border-collapse:collapse"><tbody><tr><td colspan=3D"1" rowspan=3D"1" st=
+yle=3D"word-break:break-word;padding:0px 24px 12px 16px"><ul style=3D"margi=
+n-bottom:0px"><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding=
+:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0p=
+x;direction:ltr"><strong>Real-Time Task Visibility</strong><br>Get structur=
+ed updates on all active tasks assigned to your riders, including deliverie=
+s and admin tasks.</p><p style=3D"margin:0px;padding:0px;word-break:break-w=
+ord;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></=
+p></li><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px;wo=
+rd-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direc=
+tion:ltr"><strong>Task Sequence Clarity</strong><br>Understand not just wha=
+t the rider is doing, but also their current stage and upcoming tasks in th=
+e execution journey.</p><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br>=
+</p></li><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><strong>SLA Risk Monitoring</strong><br>Identify potential dela=
+ys early with continuous updates on active task execution.</p></li></ul></t=
+d></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" align=3D"c=
+enter" id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818=
+441m_5110064566200328667b105" style=3D"word-break:break-word;background-col=
+or:transparent;padding:12px 24px;border:0px;border-radius:0px"><div></div><=
+table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;ma=
+x-width:100%;width:612.012px;height:auto"><tbody><tr><td valign=3D"top" sty=
+le=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=3D"" src=
+=3D"https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/1cf982d8-46f=
+7-0f19-aad3-7779b060345e.png" width=3D"612" height=3D"auto" class=3D"gmail-=
+CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: pointer; outline: none; b=
+order: 0px; height: auto; display: block; max-width: 100%; border-radius: 0=
+px;"></td></tr></tbody></table><div></div><div></div></td></tr><tr><td vali=
+gn=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-590175624829=
+6818441m_5110064566200328667b41" style=3D"word-break:break-word;background-=
+color:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"=
+border-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody><tbody><tr><td valign=3D"top" align=3D"center" sty=
+le=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:col=
+lapse;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:br=
+eak-word"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;backgroun=
+d-position:center center;background-repeat:no-repeat;background-size:cover"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-59017562482968=
+18441m_5110064566200328667mceColumnId--6" colspan=3D"12" width=3D"100%" sty=
+le=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"present=
+ation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=
+=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5110=
+064566200328667gutterContainerId-108" style=3D"word-break:break-word;paddin=
+g:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_355136289241=
+0192520m_-2768713604414986682m_-5901756248296818441m_5110064566200328667b10=
+8" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"=
+><table width=3D"100%" style=3D"border:0px;background-color:rgb(247,247,247=
+);border-radius:10px"><tbody><tr><td style=3D"word-break:break-word;padding=
+:12px 24px 12px 16px"><div id=3D"m_3551362892410192520m_-276871360441498668=
+2m_-5901756248296818441m_5110064566200328667d108" style=3D"font-family:&quo=
+t;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);=
+width:616.26px"><table style=3D"border-collapse:collapse"><tbody><tr><td co=
+lspan=3D"1" rowspan=3D"1" style=3D"word-break:break-word;padding:12px 24px =
+12px 16px"><table style=3D"border-collapse:collapse"><tbody><tr><td colspan=
+=3D"1" rowspan=3D"1" style=3D"word-break:break-word;padding:12px 24px 12px =
+16px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:r=
+gb(29,28,29)"><span style=3D"background-color:transparent">Go to=C2=A0</spa=
+n></span><em><strong><span style=3D"color:rgb(29,28,29)"><span style=3D"bac=
+kground-color:transparent">Settings =E2=86=92 Communications =E2=86=92 Ride=
+r</span></span></strong></em><span style=3D"color:rgb(29,28,29)"><span styl=
+e=3D"background-color:transparent"><br></span></span></p><ol style=3D"margi=
+n:4px 0px 4px 24px;padding:0px;list-style-position:outside"><li style=3D"ma=
+rgin:2px 0px;padding:0px;color:rgb(29,28,29)"><p style=3D"margin:0px;paddin=
+g:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5=
+;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)"><spa=
+n style=3D"background-color:transparent">Select=C2=A0</span></span><strong>=
+<span style=3D"color:rgb(29,28,29)"><span style=3D"background-color:transpa=
+rent">Rider Active Task</span></span></strong><span style=3D"color:rgb(29,2=
+8,29)"><span style=3D"background-color:transparent">=C2=A0trigger</span></s=
+pan></p></li><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><=
+p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);fo=
+nt-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(29,28,29)"><span style=3D"background-color:transparent">Enabl=
+e the webhook configuration</span></span></p></li><li style=3D"margin:2px 0=
+px;padding:0px;color:rgb(29,28,29)"><p style=3D"margin:0px;padding:0px;word=
+-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-sp=
+acing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)"><span style=3D=
+"background-color:transparent">Add:</span></span></p><ul style=3D"margin-bo=
+ttom:0px"><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px=
+;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;lett=
+er-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)"><span sty=
+le=3D"background-color:transparent">Webhook URL</span></span></p></li><li s=
+tyle=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><span style=3D"color:rgb(29,28,29)"><span style=3D"backgroun=
+d-color:transparent">Auth Token</span></span></p></li></ul></li><li style=
+=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p style=3D"margin:0px;=
+padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-heig=
+ht:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)=
+"><span style=3D"background-color:transparent">Test the webhook</span></spa=
+n></p></li><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p =
+style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font=
+-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D=
+"color:rgb(29,28,29)"><span style=3D"background-color:transparent">Save the=
+ configuration once the test is successful</span></span></p></li></ol></td>=
+</tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_3551=
+362892410192520m_-2768713604414986682m_-5901756248296818441m_51100645662003=
+28667gutterContainerId-101" style=3D"word-break:break-word;padding:0px"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation"><tbody><tr><td valign=3D"top" id=3D"m_3551362892410192520m_-=
+2768713604414986682m_-5901756248296818441m_5110064566200328667b101" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><table =
+width=3D"100%" style=3D"border:0px;background-color:transparent;border-radi=
+us:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px 24px 12p=
+x 16px"><div id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248=
+296818441m_5110064566200328667d101" style=3D"font-family:&quot;Helvetica Ne=
+ue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px=
+"><table style=3D"border-collapse:collapse"><tbody><tr><td colspan=3D"1" ro=
+wspan=3D"1" style=3D"word-break:break-word;padding:12px 24px 12px 16px"><h3=
+ id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5=
+110064566200328667m_4352628628550240122m_5793255849488048215Why-We-Built-Th=
+is" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-heigh=
+t:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46=
+)"><span style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlas=
+sian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe =
+UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif"><span style=3D"backg=
+round-color:transparent">Why This Matters To You</span></span></span></span=
+></h3><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"><br></=
+p><ul style=3D"margin-bottom:0px"><li style=3D"margin-left:15px"><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><strong>System-Level Integration</st=
+rong><br>Easily integrate rider task data into your internal systems using =
+webhook-based updates.</p><p style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><b=
+r></p></li><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding:0p=
+x;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr"><strong>Clean &amp; Relevant Data</strong><br>Webhook payload=
+s include only active/ongoing tasks. Completed or terminal tasks are exclud=
+ed to ensure signal over noise.</p></li></ul></td></tr></tbody></table></di=
+v></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td val=
+ign=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-59017562482=
+96818441m_5110064566200328667gutterContainerId-107" style=3D"word-break:bre=
+ak-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"=
+m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_51100645=
+66200328667b107" style=3D"word-break:break-word;padding:0px;border:0px;bord=
+er-radius:0px"><table width=3D"100%" style=3D"border:0px;background-color:t=
+ransparent;border-radius:0px"><tbody><tr><td style=3D"word-break:break-word=
+;padding:12px 24px 12px 16px"><div id=3D"m_3551362892410192520m_-2768713604=
+414986682m_-5901756248296818441m_5110064566200328667d107" style=3D"font-fam=
+ily:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb=
+(0,0,0);width:616.26px"><table style=3D"border-collapse:collapse"><tbody><t=
+r></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr><tr><td valign=3D"top" id=3D"m_3551362892410192520m_-276871=
+3604414986682m_-5901756248296818441m_5110064566200328667gutterContainerId-1=
+04" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><t=
+r><td valign=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-59=
+01756248296818441m_5110064566200328667b104" style=3D"word-break:break-word;=
+padding:0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"bo=
+rder:0px;background-color:transparent;border-radius:0px"><tbody><tr><td sty=
+le=3D"word-break:break-word;padding:12px 24px 12px 16px"><div id=3D"m_35513=
+62892410192520m_-2768713604414986682m_-5901756248296818441m_511006456620032=
+8667d104" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,V=
+erdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 id=3D"m_355136289241=
+0192520m_-2768713604414986682m_-5901756248296818441m_5110064566200328667Why=
+-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20p=
+x;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:=
+rgb(41,42,46)"><span style=3D"font-size:1.142em"><span style=3D"font-family=
+:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,=
+&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What cha=
+nges?</span></span></span></h3><p style=3D"margin:0.75rem 0px 0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr;white=
+-space:pre-wrap">1. Nothing changes in day to day operations</p><p style=3D=
+"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:16px;li=
+ne-height:1.5;direction:ltr;white-space:pre-wrap">2. New Webhook (completel=
+y optional) can be subscribed</p><p style=3D"margin:0.75rem 0px 0px;padding=
+:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr;whi=
+te-space:pre-wrap">3. Updated SLAs include the actual time spent in each or=
+der (including pre-decided waiting times for both pickup and drop-off).</p>=
+</div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td=
+ valign=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756=
+248296818441m_5110064566200328667b28" style=3D"word-break:break-word;backgr=
+ound-color:transparent;border:0px;border-radius:0px"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" =
+style=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td=
+ valign=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756=
+248296818441m_5110064566200328667b29" style=3D"word-break:break-word;backgr=
+ound-color:transparent;border:0px;border-radius:0px"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" =
+style=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td=
+ valign=3D"top" align=3D"center" id=3D"m_3551362892410192520m_-276871360441=
+4986682m_-5901756248296818441m_5110064566200328667b42" style=3D"word-break:=
+break-word;padding:0px;border:0px;border-radius:0px"><div></div><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-width:10=
+0%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word-bre=
+ak:break-word;border:0px;border-radius:0px"><img alt=3D"image placeholder" =
+src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-=
+8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" class=3D"gma=
+il-CToWUd" style=3D"border: 0px; height: auto; outline: none; display: bloc=
+k; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table><div></d=
+iv><div></div></td></tr><tr><td valign=3D"top" id=3D"m_3551362892410192520m=
+_-2768713604414986682m_-5901756248296818441m_5110064566200328667b11" style=
+=3D"word-break:break-word;padding:8px;border:0px;border-radius:0px"><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" id=3D"m_3551362892410192520m_-27687136044149866=
+82m_-5901756248296818441m_5110064566200328667section_d137781f0c84303965b6a0=
+0a2d965d5b" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top=
+" style=3D"word-break:break-word;background-position:center center;backgrou=
+nd-repeat:no-repeat;background-size:cover;padding-top:0px;padding-bottom:0p=
+x"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"12" width=3D"100%" =
+role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td val=
+ign=3D"top" id=3D"m_3551362892410192520m_-2768713604414986682m_-59017562482=
+96818441m_5110064566200328667mceColumnId--3" colspan=3D"12" width=3D"100%" =
+style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+id=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_51=
+10064566200328667gutterContainerId-9" style=3D"word-break:break-word;paddin=
+g:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"center" id=
+=3D"m_3551362892410192520m_-2768713604414986682m_-5901756248296818441m_5110=
+064566200328667b9" style=3D"word-break:break-word;padding:0px;border:0px;bo=
+rder-radius:0px"><table width=3D"100%" style=3D"border:0px;background-color=
+:transparent;border-radius:0px"><tbody><tr><td style=3D"word-break:break-wo=
+rd;padding:12px 16px"><div id=3D"m_3551362892410192520m_-276871360441498668=
+2m_-5901756248296818441m_5110064566200328667d9" style=3D"font-family:&quot;=
+Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);di=
+splay:inline-block;width:608.262px"><p style=3D"margin:0px;padding:0px;word=
+-break:break-word;font-size:16px;line-height:1.5;text-align:center;letter-s=
+pacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=
+=3D"font-size:11px">M3M Urbana Business Park, Sector 67</span></span></p><p=
+ style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-=
+height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(71,71,71)"><span style=3D"font-size:11px">Gurugram , Haryana =
+(122101)</span></span></p></div></td></tr></tbody></table></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody></table></td></tr></tbody></table></div>
+
+--000000000000baa3860651d3d6cf--

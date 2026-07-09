@@ -1,0 +1,692 @@
+MIME-Version: 1.0
+Date: Mon, 30 Mar 2026 15:25:32 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, Pidge Tech <pidge.tech@pidge.in>, 
+	Abhishek Suresh <abhishek.suresh@pidge.in>
+Message-ID: <CAFuJ3p5u8Kwb9YNBEFXEPA9Q-aWzOigzRDVTevVOmGke0caFZg@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IE9yZGVyIENhdGVnb3JpZXM=?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="00000000000006650e064e3ada9d"
+
+--00000000000006650e064e3ada9d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+
+
+
+Gemini said
+
+
+
+*Sort Smarter, Not Harder!*
+
+
+
+
+
+To ensure every order is delivered by the most suitable network, we=E2=80=
+=99re
+introducing *Order Categories* =E2=80=94 enabling smarter routing, better
+operational alignment, and improved delivery outcomes.
+
+
+What=E2=80=99s New
+
+
+
+
+*Order Categories Across Business & Network*
+You can now define Order Categories at both:
+
+   -
+
+   *Business Level*
+   -
+
+      Parcel *(Default)*
+      -
+
+      Food
+      -
+
+   *Network Level*
+   -
+
+      Any *(Default =E2=80=93 category agnostic)*
+      -
+
+      Parcel
+      -
+
+      Food
+
+
+*Smart Network Mapping*
+
+   -
+
+   Orders are now matched only with *eligible networks based on category*
+   -
+
+   Networks set to *=E2=80=9CAny=E2=80=9D* remain universally visible
+   -
+
+   Category-specific networks will only appear for matching orders
+
+
+
+
+*Order Creation API Support*
+Order category can now be passed directly during order creation via API
+using:
+
+   -
+
+   *Key:* order_category
+   -
+
+   *Values:* parcel, food
+   If not provided then the system falls back to Business defaults
+   -
+
+
+*Serviceability Control *Network visibility in the *serviceability modal* i=
+s
+   now governed by Order Category
+   Only relevant networks are shown during order allocation
+   Ensures *accurate routing and reduced operational errors*
+
+What This Means To You
+
+
+
+
+   -
+
+   *Better Operational Alignment*
+   -
+
+      Food deliveries can be routed to networks optimized for *speed &
+      perishability*
+      -
+
+      Parcel deliveries can be assigned to networks optimized for *cost &
+      batching*
+
+
+      -
+
+   *Improved Delivery Accuracy*
+   -
+
+      Eliminates incorrect network selection during order creation
+      -
+
+      Reduces manual intervention and routing errors
+
+
+      -
+
+   *Standardized Workflow via API*
+   -
+
+      External systems can now directly control order categorization
+      -
+
+      Ensures seamless integration with SOPs and 3PL requirements
+
+
+      View Documentation
+      <https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3c63-=
+e0d2-4e3f-9ac3-ca677ea8f6a8>
+
+
+
+*Important Notes*
+
+   1.
+
+   If no category is configured anywhere, the system defaults to *Parcel.*
+   2.
+
+   Category selection directly impacts *network visibility and eligibility*
+
+
+What=E2=80=99s Next
+
+Something exciting is coming soon - Stay tuned !!
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE
+<https://us5.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&xid=
+=3D7f12bc1837&uid=3D249415005&iid=3D75d9fee684&pool=3Dcts&v=3D2&c=3D1774338=
+259&h=3D55f2e0f559743dd7378234f8a96090f69aa7f03d24864c49983a2a2207e8d330>
+
+--00000000000006650e064e3ada9d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_4232271324520234562root" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center=
+" style=3D"word-break:break-word;background-color:transparent"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td val=
+ign=3D"top" style=3D"word-break:break-word"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;background-position:center center;background-repe=
+at:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_4232271324520234562m=
+ceColumn" id=3D"m_4232271324520234562mceColumnId--6" colspan=3D"12" width=
+=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ro=
+le=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valig=
+n=3D"top" align=3D"center" id=3D"m_4232271324520234562b38" style=3D"word-br=
+eak:break-word;padding:0px;border:0px;border-radius:0px"><div></div><table =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-widt=
+h:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word=
+-break:break-word;border:0px;border-radius:0px"><img alt=3D"image placehold=
+er" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a32=
+98b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" class=3D=
+"m_4232271324520234562mceImage gmail-CToWUd" style=3D"border: 0px; height: =
+auto; outline: none; display: block; max-width: 100%; border-radius: 0px;">=
+</td></tr></tbody></table><div></div><div></div></td></tr><tr><td valign=3D=
+"top" align=3D"center" id=3D"m_4232271324520234562b39" style=3D"word-break:=
+break-word;padding:0px;border:0px;border-radius:0px"><div></div><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-width:10=
+0%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word-bre=
+ak:break-word;border:0px;border-radius:0px"><img alt=3D"image placeholder" =
+src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-=
+bd0f-dfd4-6832-7a28b8cc0795.png" width=3D"660" height=3D"auto" class=3D"m_4=
+232271324520234562mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"=
+cursor: pointer; outline: none; border: 0px; height: auto; display: block; =
+max-width: 100%; border-radius: 0px;"></td></tr></tbody></table><div></div>=
+<div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr></tbody><tbody><tr><td va=
+lign=3D"top" align=3D"center" style=3D"word-break:break-word;background-col=
+or:transparent"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse;max-wid=
+th:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word"><ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" style=3D"word-break:break-word;background-position:ce=
+nter center;background-repeat:no-repeat;background-size:cover"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" clas=
+s=3D"m_4232271324520234562mceColumn" id=3D"m_4232271324520234562mceColumnId=
+--7" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-t=
+op:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234562gutterContain=
+erId-33" style=3D"word-break:break-word;padding:0px"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbo=
+dy><tr><td valign=3D"top" id=3D"m_4232271324520234562b33" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100=
+%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbo=
+dy><tr><td class=3D"m_4232271324520234562mceTextBlockContainer" style=3D"wo=
+rd-break:break-word;padding:12px 16px"><div class=3D"m_4232271324520234562m=
+ceText" id=3D"m_4232271324520234562d33" style=3D"font-family:&quot;Helvetic=
+a Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:624.=
+258px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"mar=
+gin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;lett=
+er-spacing:0px;direction:ltr"><br></p><h2 class=3D"m_4232271324520234562mce=
+PastedContent" style=3D"margin:0px;padding:0px;font-size:25px;line-height:1=
+.5;direction:ltr;border:0px;height:1px;overflow:hidden;width:1px;outline:0p=
+x"><span style=3D"color:rgb(31,31,31)"><span style=3D"font-family:Times">Ge=
+mini said</span></span></h2><p style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:0;letter-spacing:0px;direction:ltr"><b=
+r></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_42=
+32271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-bre=
+ak:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:l=
+tr"><strong><span style=3D"font-size:26px">Sort Smarter, Not Harder!</span>=
+</strong></p><h3 class=3D"m_4232271324520234562mcePastedContent" style=3D"m=
+argin:0px 0px 8px;padding:0px;font-size:20px;line-height:24px;direction:ltr=
+"></h3><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"mar=
+gin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;lett=
+er-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;wo=
+rd-break:break-word;font-size:16px;line-height:0;letter-spacing:0px;directi=
+on:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p cla=
+ss=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0p=
+x;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr">To ensure every order is delivered by the most suitable netwo=
+rk, we=E2=80=99re introducing=C2=A0<strong>Order Categories</strong>=C2=A0=
+=E2=80=94 enabling smarter routing, better operational alignment, and impro=
+ved delivery outcomes.</p><p class=3D"m_4232271324520234562mcePastedContent=
+" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line=
+-height:1.5;letter-spacing:0px;direction:ltr"><br></p></div></td></tr></tbo=
+dy></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody><tbody><tr><td valign=3D"top" align=3D"center" style=3D"word-break=
+:break-word;background-color:transparent"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse;max-width:660px"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word"><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:bre=
+ak-word;background-position:center center;background-repeat:no-repeat;backg=
+round-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbo=
+dy><tr><td valign=3D"top" class=3D"m_4232271324520234562mceColumn" id=3D"m_=
+4232271324520234562mceColumnId--8" colspan=3D"12" width=3D"100%" style=3D"w=
+ord-break:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" =
+style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"c=
+enter" id=3D"m_4232271324520234562b132" style=3D"word-break:break-word;back=
+ground-color:transparent;padding:12px 16px;border:0px;border-radius:0px"><d=
+iv></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-al=
+ign:top;max-width:100%;width:628.008px;height:auto"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img =
+alt=3D"" src=3D"https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/=
+2681946b-9589-c66c-a99c-164a3f85dc32.jpg" width=3D"628" height=3D"auto" cla=
+ss=3D"m_4232271324520234562mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" =
+style=3D"cursor: pointer; outline: none; border: 0px; height: auto; display=
+: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table><d=
+iv></div><div></div></td></tr><tr><td valign=3D"top" id=3D"m_42322713245202=
+34562gutterContainerId-143" style=3D"word-break:break-word"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234562b143" style=
+=3D"word-break:break-word;padding:8px 0px;border:0px;border-radius:0px"><ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" id=3D"m_4232271324520234562section_58061f2c=
+e7b8ebe72622f2e09d03a4d3" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" style=3D"word-break:break-word;background-position:center c=
+enter;background-repeat:no-repeat;background-size:cover"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" =
+style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m=
+_4232271324520234562mceColumn" id=3D"m_4232271324520234562mceColumnId--9" c=
+olspan=3D"12" width=3D"100%" style=3D"word-break:break-word"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=
+=3D"center" id=3D"m_4232271324520234562b-5" style=3D"word-break:break-word;=
+border:0px;border-radius:0px"><table align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"b=
+order-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:=
+break-word;background-position:center center;background-repeat:no-repeat;ba=
+ckground-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" class=3D"m_4232271324520234562mceColumn" id=3D=
+"m_4232271324520234562mceColumnId--11" colspan=3D"12" width=3D"100%" style=
+=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234562b142" style=
+=3D"word-break:break-word;border:0px;border-radius:0px"><table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"center" class=3D"m_4=
+232271324520234562mceColumn" id=3D"m_4232271324520234562mceColumnId-141" co=
+lspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;=
+padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><t=
+body><tr><td valign=3D"top" id=3D"m_4232271324520234562gutterContainerId-13=
+6" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr=
+><td valign=3D"top" id=3D"m_4232271324520234562b136" style=3D"word-break:br=
+eak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" st=
+yle=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><t=
+r><td class=3D"m_4232271324520234562mceTextBlockContainer" style=3D"word-br=
+eak:break-word;padding:0px 24px 12px 16px"><div class=3D"m_4232271324520234=
+562mceText" id=3D"m_4232271324520234562d136" style=3D"font-family:&quot;Hel=
+vetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width=
+:616.26px"><h3 class=3D"m_4232271324520234562mcePastedContent" id=3D"m_4232=
+271324520234562Why-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding=
+:0px;font-size:20px;line-height:1.5;direction:ltr"><span style=3D"color:rgb=
+(41,42,46)"><span style=3D"font-size:1.142em"><span style=3D"font-family:&q=
+uot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&qu=
+ot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What=E2=80=
+=99s New</span></span></span></h3><p class=3D"m_4232271324520234562mcePaste=
+dContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p style=3D"m=
+argin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;te=
+xt-align:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margi=
+n:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-a=
+lign:center;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4232271=
+324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><=
+strong><span style=3D"color:rgb(29,28,29)">Order Categories Across Business=
+ &amp; Network</span></strong><span style=3D"color:rgb(29,28,29)"><br>You c=
+an now define Order Categories at both:<br></span></p><ul style=3D"margin:4=
+px 0px 4px 24px;padding:0px;list-style-position:outside"><li style=3D"margi=
+n:2px 0px;padding:0px;color:rgb(29,28,29)"><p class=3D"m_423227132452023456=
+2mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;co=
+lor:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:=
+ltr"><strong><span style=3D"color:rgb(29,28,29)">Business Level</span></str=
+ong></p><ul style=3D"margin:4px 0px 4px 24px;padding:0px;list-style-positio=
+n:outside"><li style=3D"margin:2px 0px;padding:0px"><p class=3D"m_423227132=
+4520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr"><span style=3D"color:rgb(29,28,29)">Parcel=C2=A0</span><em><s=
+pan style=3D"color:rgb(29,28,29)">(Default)</span></em></p></li><li style=
+=3D"margin:2px 0px;padding:0px"><p class=3D"m_4232271324520234562mcePastedC=
+ontent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0=
+,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span =
+style=3D"color:rgb(29,28,29)">Food<br></span></p></li></ul></li><li style=
+=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p class=3D"m_423227132=
+4520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr"><strong><span style=3D"color:rgb(29,28,29)">Network Level</sp=
+an></strong></p><ul style=3D"margin:4px 0px 4px 24px;padding:0px;list-style=
+-position:outside"><li style=3D"margin:2px 0px;padding:0px"><p class=3D"m_4=
+232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">Any=C2=A0</span><=
+em><span style=3D"color:rgb(29,28,29)">(Default =E2=80=93 category agnostic=
+)</span></em></p></li><li style=3D"margin:2px 0px;padding:0px"><p class=3D"=
+m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word=
+-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-sp=
+acing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">Parcel</span><=
+/p></li><li style=3D"margin:2px 0px;padding:0px"><p class=3D"m_423227132452=
+0234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-w=
+ord;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;dire=
+ction:ltr"><span style=3D"color:rgb(29,28,29)">Food</span></p></li></ul></l=
+i></ul><strong style=3D"background-color:transparent;letter-spacing:0px;fon=
+t-size:16px"><span style=3D"color:rgb(29,28,29)"><div class=3D"m_4232271324=
+520234562mceText" id=3D"m_4232271324520234562d136" style=3D"font-family:&qu=
+ot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0)=
+;width:616.26px"><strong style=3D"background-color:transparent;letter-spaci=
+ng:0px;font-size:16px"><span style=3D"color:rgb(29,28,29)"><br></span></str=
+ong></div>Smart Network Mapping</span></strong><br><ul style=3D"margin:4px =
+0px 4px 24px;padding:0px;list-style-position:outside"><li><p class=3D"m_423=
+2271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-brea=
+k:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:lt=
+r;display:inline!important"><span style=3D"color:rgb(29,28,29)">Orders are =
+now matched only with=C2=A0</span><strong><span style=3D"color:rgb(29,28,29=
+)">eligible networks based on category</span></strong></p></li><li style=3D=
+"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p class=3D"m_423227132452=
+0234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-w=
+ord;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;dire=
+ction:ltr"><span style=3D"color:rgb(29,28,29)">Networks set to=C2=A0</span>=
+<strong><span style=3D"color:rgb(29,28,29)">=E2=80=9CAny=E2=80=9D</span></s=
+trong><span style=3D"color:rgb(29,28,29)">=C2=A0remain universally visible<=
+/span></p></li><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"=
+><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;pad=
+ding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:=
+1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">C=
+ategory-specific networks will only appear for matching orders</span></p><p=
+ class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;paddin=
+g:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5=
+;letter-spacing:0px;direction:ltr"><br style=3D"letter-spacing:0px;backgrou=
+nd-color:transparent"></p></li></ul><strong style=3D"background-color:trans=
+parent;letter-spacing:0px;font-size:16px"><span style=3D"color:rgb(29,28,29=
+)"><div class=3D"m_4232271324520234562mceText" id=3D"m_4232271324520234562d=
+136" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdan=
+a,sans-serif;color:rgb(0,0,0);width:616.26px"><strong style=3D"background-c=
+olor:transparent;letter-spacing:0px;font-size:16px"><span style=3D"color:rg=
+b(29,28,29)"><br></span></strong></div></span></strong><p class=3D"m_423227=
+1324520234562mcePastedContent" style=3D"background-color:transparent;letter=
+-spacing:0px;margin:0px;padding:0px;word-break:break-word;font-size:16px;li=
+ne-height:1.5;direction:ltr;display:inline!important"><b>Order Creation API=
+ Support</b><br><span style=3D"color:rgb(29,28,29)">Order category can now =
+be passed directly during order creation via API using:</span></p><ul style=
+=3D"background-color:transparent;margin:4px 0px 4px 24px;padding:0px;list-s=
+tyle-position:outside"><li style=3D"margin:2px 0px;padding:0px"><p class=3D=
+"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-s=
+pacing:0px;direction:ltr"><strong><span style=3D"color:rgb(29,28,29)">Key:<=
+/span></strong><span style=3D"color:rgb(29,28,29)">=C2=A0</span><code><span=
+ style=3D"color:rgb(29,28,29)"><span style=3D"font-size:12px"><span style=
+=3D"font-family:Monaco,Menlo,Consolas,&quot;Courier New&quot;,monospace"><s=
+pan style=3D"background-color:rgb(248,248,248)">order_category</span></span=
+></span></span></code></p></li><li style=3D"margin:2px 0px;padding:0px"><p =
+class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding=
+:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;=
+letter-spacing:0px;direction:ltr"><strong><span style=3D"color:rgb(29,28,29=
+)">Values:</span></strong><span style=3D"color:rgb(29,28,29)">=C2=A0</span>=
+<code><span style=3D"color:rgb(29,28,29)"><span style=3D"font-size:12px"><s=
+pan style=3D"font-family:Monaco,Menlo,Consolas,&quot;Courier New&quot;,mono=
+space"><span style=3D"background-color:rgb(248,248,248)">parcel</span></spa=
+n></span></span></code><span style=3D"color:rgb(29,28,29)">,=C2=A0</span><c=
+ode><span style=3D"color:rgb(29,28,29)"><span style=3D"font-size:12px"><spa=
+n style=3D"font-family:Monaco,Menlo,Consolas,&quot;Courier New&quot;,monosp=
+ace"><span style=3D"background-color:rgb(248,248,248)">food<br></span></spa=
+n></span></span></code><span style=3D"color:rgb(29,28,29)">If not <span cla=
+ss=3D"Q6ibn ng">provided then</span> the system falls back to Business defa=
+ults</span></p></li><li style=3D"margin:2px 0px;padding:0px"><p class=3D"m_=
+4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-b=
+reak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr"><span style=3D"background-color:transparent;letter-s=
+pacing:0px"><span style=3D"color:rgb(29,28,29)"><b>Serviceability Control<b=
+r></b></span></span><span style=3D"background-color:transparent;letter-spac=
+ing:0px;color:rgb(29,28,29)">Network visibility in the=C2=A0</span><strong =
+style=3D"background-color:transparent;letter-spacing:0px"><span style=3D"co=
+lor:rgb(29,28,29)">serviceability modal</span></strong><span style=3D"backg=
+round-color:transparent;letter-spacing:0px;color:rgb(29,28,29)">=C2=A0is no=
+w governed by Order Category<br></span><span style=3D"color:rgb(29,28,29);l=
+etter-spacing:0px;background-color:transparent">Only relevant networks are =
+shown during order allocation<br></span><span style=3D"letter-spacing:0px;b=
+ackground-color:transparent;color:rgb(29,28,29)">Ensures=C2=A0</span><stron=
+g style=3D"letter-spacing:0px;background-color:transparent"><span style=3D"=
+color:rgb(29,28,29)">accurate routing and reduced operational errors</span>=
+</strong></p></li></ul></div></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" a=
+lign=3D"center" id=3D"m_4232271324520234562b144" style=3D"word-break:break-=
+word;background-color:transparent;padding:12px 16px;border:0px;border-radiu=
+s:0px"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;ve=
+rtical-align:top;max-width:100%;width:628.008px;height:auto"><tbody><tr><td=
+ valign=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px=
+"><img alt=3D"" src=3D"https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/=
+images/278996f6-bcbc-c13e-1ec3-59ab588edb50.png" width=3D"628" height=3D"au=
+to" class=3D"m_4232271324520234562mceImage gmail-CToWUd gmail-a6T" tabindex=
+=3D"0" style=3D"cursor: pointer; outline: none; border: 0px; height: auto; =
+display: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></t=
+able><div></div><div></div></td></tr><tr><td valign=3D"top" id=3D"m_4232271=
+324520234562gutterContainerId-68" style=3D"word-break:break-word;padding:0p=
+x"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" r=
+ole=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234=
+562b68" style=3D"word-break:break-word;padding:0px;border:0px;border-radius=
+:0px"><table width=3D"100%" style=3D"border:0px;background-color:transparen=
+t;border-radius:0px"><tbody><tr><td class=3D"m_4232271324520234562mceTextBl=
+ockContainer" style=3D"word-break:break-word;padding:12px 24px 12px 16px"><=
+div class=3D"m_4232271324520234562mceText" id=3D"m_4232271324520234562d68" =
+style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,san=
+s-serif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_4232271324520234562=
+mcePastedContent" id=3D"m_4232271324520234562Why-We-Built-This" style=3D"ma=
+rgin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction=
+:ltr"><span style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"=
+><span style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple=
+-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue=
+&quot;,sans-serif">What This Means To You</span></span></span></h3><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:0;text-align:center;letter-spacing:0px;direction:ltr"><br></p><p class=3D"=
+m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word=
+-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;directi=
+on:ltr"><br></p><ul style=3D"margin-bottom:0px"><li style=3D"margin-left:15=
+px"><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;=
+padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spa=
+cing:0px;direction:ltr"><strong><span style=3D"color:rgb(29,28,29)">Better =
+Operational Alignment</span></strong></p><ul style=3D"margin:4px 0px 4px 24=
+px;padding:0px;list-style-position:outside"><li style=3D"margin:2px 0px;pad=
+ding:0px;color:rgb(29,28,29)"><p class=3D"m_4232271324520234562mcePastedCon=
+tent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0=
+);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span st=
+yle=3D"color:rgb(29,28,29)">Food deliveries can be routed to networks optim=
+ized for=C2=A0</span><strong><span style=3D"color:rgb(29,28,29)">speed &amp=
+; perishability</span></strong></p></li><li style=3D"margin:2px 0px;padding=
+:0px;color:rgb(29,28,29)"><p class=3D"m_4232271324520234562mcePastedContent=
+" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);fo=
+nt-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(29,28,29)">Parcel deliveries can be assigned to networks opti=
+mized for=C2=A0</span><strong><span style=3D"color:rgb(29,28,29)">cost &amp=
+; batching</span></strong></p><p class=3D"m_4232271324520234562mcePastedCon=
+tent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0=
+);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p>=
+</li></ul></li><li style=3D"margin-left:15px"><p class=3D"m_423227132452023=
+4562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong><=
+span style=3D"color:rgb(29,28,29)">Improved Delivery Accuracy</span></stron=
+g></p><ul style=3D"margin:4px 0px 4px 24px;padding:0px;list-style-position:=
+outside"><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p cl=
+ass=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0=
+px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;le=
+tter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">Elimina=
+tes incorrect network selection during order creation</span></p></li><li st=
+yle=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p class=3D"m_423227=
+1324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0p=
+x;direction:ltr"><span style=3D"color:rgb(29,28,29)">Reduces manual interve=
+ntion and routing errors</span></p><p class=3D"m_4232271324520234562mcePast=
+edContent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(=
+0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br=
+></p></li></ul></li><li style=3D"margin-left:15px"><p class=3D"m_4232271324=
+520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><str=
+ong><span style=3D"color:rgb(29,28,29)">Standardized Workflow via API</span=
+></strong></p><ul style=3D"margin:4px 0px 4px 24px;padding:0px;list-style-p=
+osition:outside"><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29=
+)"><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;p=
+adding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-heigh=
+t:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)"=
+>External systems can now directly control order categorization</span></p><=
+/li><li style=3D"margin:2px 0px;padding:0px;color:rgb(29,28,29)"><p class=
+=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;lette=
+r-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">Ensures se=
+amless integration with SOPs and 3PL requirements</span></p><p class=3D"m_4=
+232271324520234562mcePastedContent" style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><br></p><p class=3D"m_4232271324520234562mcePastedCon=
+tent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0=
+);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><a href=
+=3D"https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3c63-e0d=
+2-4e3f-9ac3-ca677ea8f6a8" target=3D"_blank" style=3D"color:rgb(107,76,178);=
+word-break:break-word;direction:ltr">View Documentation</a></p></li></ul></=
+li></ul><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:=
+0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter=
+-spacing:0px;direction:ltr"><br></p></div></td></tr></tbody></table></td></=
+tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_423227132452023=
+4562gutterContainerId-145" style=3D"word-break:break-word;padding:0px"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234562b145=
+" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px">=
+<table width=3D"100%" style=3D"border:0px;background-color:rgb(251,251,251)=
+;border-radius:10px"><tbody><tr><td class=3D"m_4232271324520234562mceTextBl=
+ockContainer" style=3D"word-break:break-word;padding:12px 24px 12px 16px"><=
+div class=3D"m_4232271324520234562mceText" id=3D"m_4232271324520234562d145"=
+ style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sa=
+ns-serif;color:rgb(0,0,0);width:616.26px"><p class=3D"m_4232271324520234562=
+mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;fon=
+t-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p cl=
+ass=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><strong><span style=3D"color:rgb(29,28,29)">Important Notes<=
+/span></strong></p><ol style=3D"margin-bottom:0px"><li style=3D"margin-left=
+:15px"><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0=
+px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-=
+spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">If no catego=
+ry is configured anywhere, the system defaults to=C2=A0</span><strong><span=
+ style=3D"color:rgb(29,28,29)">Parcel.</span></strong></p></li><li style=3D=
+"margin-left:15px"><p class=3D"m_4232271324520234562mcePastedContent" style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(29,28,29)">=
+Category selection directly impacts=C2=A0</span><strong><span style=3D"colo=
+r:rgb(29,28,29)">network visibility and eligibility</span></strong></p></li=
+></ol><p class=3D"m_4232271324520234562mcePastedContent" style=3D"margin:0p=
+x;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-s=
+pacing:0px;direction:ltr"><br></p></div></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_42322713245202345=
+62gutterContainerId-101" style=3D"word-break:break-word;padding:0px"><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pr=
+esentation"><tbody><tr><td valign=3D"top" id=3D"m_4232271324520234562b101" =
+style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><t=
+able width=3D"100%" style=3D"border:0px;background-color:transparent;border=
+-radius:0px"><tbody><tr><td class=3D"m_4232271324520234562mceTextBlockConta=
+iner" style=3D"word-break:break-word;padding:12px 24px 12px 16px"><div clas=
+s=3D"m_4232271324520234562mceText" id=3D"m_4232271324520234562d101" style=
+=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-ser=
+if;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_4232271324520234562mcePa=
+stedContent" id=3D"m_4232271324520234562Why-We-Built-This" style=3D"margin:=
+1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:ltr"=
+><span style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"><spa=
+n style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-syst=
+em,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot=
+;,sans-serif">What=E2=80=99s Next</span></span></span></h3><p style=3D"marg=
+in:0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:16px;line-he=
+ight:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">Something excit=
+ing is coming soon - Stay tuned !!</span></p></div></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_423227=
+1324520234562b28" style=3D"word-break:break-word;background-color:transpare=
+nt;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse=
+:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-break:=
+break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=
+=3D"m_4232271324520234562b29" style=3D"word-break:break-word;background-col=
+or:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bor=
+der-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D=
+"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" align=3D"center" id=3D"m_4232271324520234562b42" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><div></div><table a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-width=
+:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word-=
+break:break-word;border:0px;border-radius:0px"><img alt=3D"image placeholde=
+r" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a329=
+8b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" class=3D"=
+m_4232271324520234562mceImage gmail-CToWUd" style=3D"border: 0px; height: a=
+uto; outline: none; display: block; max-width: 100%; border-radius: 0px;"><=
+/td></tr></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"=
+top" id=3D"m_4232271324520234562b11" style=3D"word-break:break-word;padding=
+:8px;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" id=3D=
+"m_4232271324520234562section_5b976bd69b70f7fd42a6571243a8252b" class=3D"m_=
+4232271324520234562mceFooterSection" style=3D"border-collapse:collapse"><tb=
+ody><tr><td valign=3D"top" style=3D"word-break:break-word;background-positi=
+on:center center;background-repeat:no-repeat;background-size:cover;padding-=
+top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"12" width=3D"100%" role=3D"presentation" style=3D"border-collapse:col=
+lapse"><tbody><tr><td valign=3D"top" class=3D"m_4232271324520234562mceColum=
+n" id=3D"m_4232271324520234562mceColumnId--3" colspan=3D"12" width=3D"100%"=
+ style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pre=
+sentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top"=
+ id=3D"m_4232271324520234562gutterContainerId-9" style=3D"word-break:break-=
+word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"=
+center" id=3D"m_4232271324520234562b9" style=3D"word-break:break-word;paddi=
+ng:0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:=
+0px;background-color:transparent;border-radius:0px"><tbody><tr><td class=3D=
+"m_4232271324520234562mceTextBlockContainer" style=3D"word-break:break-word=
+;padding:12px 16px"><div class=3D"m_4232271324520234562mceText" id=3D"m_423=
+2271324520234562d9" style=3D"font-family:&quot;Helvetica Neue&quot;,Helveti=
+ca,Arial,Verdana,sans-serif;color:rgb(0,0,0);display:inline-block;width:608=
+.262px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:=
+16px;line-height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><s=
+pan style=3D"color:rgb(71,71,71)"><span style=3D"font-size:11px">M3M Urbana=
+ Business Park, Sector 67</span></span></p><p style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;text-align:center;l=
+etter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span =
+style=3D"font-size:11px">Gurugram , Haryana (122101)<br><br></span></span><=
+a href=3D"https://us5.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidg=
+e.in&amp;xid=3D7f12bc1837&amp;uid=3D249415005&amp;iid=3D75d9fee684&amp;pool=
+=3Dcts&amp;v=3D2&amp;c=3D1774338259&amp;h=3D55f2e0f559743dd7378234f8a96090f=
+69aa7f03d24864c49983a2a2207e8d330" target=3D"_blank" style=3D"color:rgb(153=
+,153,153);word-break:break-word;direction:ltr"><span style=3D"font-size:11p=
+x">VISIT WEBSITE</span></a></p></div></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><=
+/tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></d=
+iv>
+
+--00000000000006650e064e3ada9d--

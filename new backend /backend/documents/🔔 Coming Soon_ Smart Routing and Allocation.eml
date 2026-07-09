@@ -1,0 +1,720 @@
+MIME-Version: 1.0
+Date: Mon, 1 Jun 2026 18:25:53 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, 
+	BD Rockstars <bdrockstars@r-indventures.com>, 
+	Customer Success <customersuccess@r-indventures.com>, Pulkit Sethi <pulkit.sethi@pidge.in>, 
+	Radhika Sharma <radhika.sharma@pidge.in>, Pidge Tech <pidge.tech@pidge.in>
+Message-ID: <CAFuJ3p65NV-h7psadH6fM71kY6=RvUf6mcXbbi7zYatv1B+xEQ@mail.gmail.com>
+Subject: =?UTF-8?Q?=F0=9F=94=94_Coming_Soon=3A_Smart_Routing_and_Allocation?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000ffc19a065330b6dd"
+
+--000000000000ffc19a065330b6dd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+
+
+
+Gemini saidSmart Routing & Rider Updates!
+
+
+Ground operations can change in a heartbeat.
+
+In order to tackle it we have Multiple different tasks going together hand
+in hand.
+
+
+
+
+
+
+
+*Forward/Reverse Order Merging*
+
+
+
+This update introduces the ability to seamlessly club forward and reverse
+orders together. This enhancement will streamline the routing process and
+optimize rider efficiency
+
+
+
+*Repritoritization of Tasks*Depending on whether it's a forward or reverse
+task, any nearby order that can be finished on time can now be prioritized
+accordingly.
+
+
+
+*Top Rider Enhancement*
+
+
+
+We are introducing a new new sorting and filtering constraint in the "Top
+Rider" selection logic based on *Rider's Free Time*
+
+
+Why We Built These?
+
+
+
+
+
+
+
+*Forward/Reverse order merging*
+
+
+By allowing the system to safely "club" these orders together, it prevents
+riders from having to make redundant trips, ultimately making the routing
+process smoother and more cost-effective.
+
+
+*Reprioritization*
+
+We took care of reprioritization to bridge the gap between fixed route
+planning and on-the-ground reality. Riders need agility to maximize their
+daily earnings and avoid SLA penalties, but businesses still need
+operational safeguards to protect cash collection and order dependencies.
+
+
+*Top Rider Enhancement*
+
+System filters and identifies riders who have been free and then it applies
+the existing distance logic to those filtered riders first ensuring
+equitable order disttribution
+
+
+
+
+What=E2=80=99s New!
+
+
+Combined Forward & Reverse Routes
+
+
+*Smart Route Clubbing:* The system now officially supports bundling forward
+(delivery) and reverse (pickup/return) orders together into a single,
+automated route.
+
+
+
+You no longer need to manually piece together forward and reverse orders
+for a single rider to avoid system crashes. The system can now handle
+automated bundling safely.
+
+
+
+
+
+
+
+Repritoritization of Tasks
+
+   1.
+
+   *Rearrange Live tasks:* Riders can now reprioritize/rearrange pickup and
+   drop tasks, even within complex merged routes.
+
+   When a rider selects a new priority, it instantly becomes the single *Li=
+ve
+   Task*, pushing the previous live task back into the queue sequence.
+
+
+   2.
+
+   *Built-in Guardrails:* To prevent delivery mistakes, riders are strictly
+   blocked from prioritizing a drop task before its associated pickup has
+   actually occurred. Also,  If a rider marks themselves as *Reached* at a
+   pickup or delivery location, the system locks the route sequence to prev=
+ent
+   accidental changes while they are finalizing the order.
+
+
+
+
+Top Riders Algorithm
+
+
+15-Minute Smart Filter: There is a default 15-minute threshold of free
+riders. It first filters and isolates riders who have been free for 15
+minutes or more before applying standard distance metrics
+
+
+What This Means To You
+
+
+
+
+
+
+   1.
+
+   *Cost & Route Optimization:* By seamlessly combining deliveries and
+   returns into unified routes, you can significantly reduce total distance
+   traveled, save fuel, and cut down on overall operational costs.
+
+
+   2.
+
+   *Maximizing Rider Flexibility: *Controlled, on-the-ground task
+   reordering for delivery riders, allowing them to dynamically prioritize
+   single pickup or drop tasks to handle real-world delays and still
+   protecting operational integrity and SLAs.
+
+
+   3.
+
+   *Faster, Friction-Free Allocation:* The prefers allocation to free
+   riders allowing rider optimization.
+
+What=E2=80=99s Next
+
+Something exciting is coming soon - Stay tuned !!
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE <https://pidge.in/>
+
+--000000000000ffc19a065330b6dd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_7483578782940712855m_7409285040214287206roo=
+t" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"t=
+op" align=3D"center" style=3D"word-break:break-word;background-color:transp=
+arent"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation" style=3D"border-collapse:collapse;max-width:660px"=
+><tbody><tr><td valign=3D"top" style=3D"word-break:break-word"><table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td va=
+lign=3D"top" style=3D"word-break:break-word;background-position:center cent=
+er;background-repeat:no-repeat;background-size:cover"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" sty=
+le=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_74835=
+78782940712855m_7409285040214287206mceColumnId--6" colspan=3D"12" width=3D"=
+100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" align=3D"center" id=3D"m_7483578782940712855m_7409285040214287206b=
+38" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px=
+"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertica=
+l-align:top;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img =
+alt=3D"image placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12=
+c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" he=
+ight=3D"auto" class=3D"gmail-CToWUd" style=3D"border: 0px; height: auto; ou=
+tline: none; display: block; max-width: 100%; border-radius: 0px;"></td></t=
+r></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" al=
+ign=3D"center" id=3D"m_7483578782940712855m_7409285040214287206b39" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><div></=
+div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:t=
+op;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" st=
+yle=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=3D"imag=
+e placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/i=
+mages/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png" width=3D"660" height=3D"aut=
+o" class=3D"gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: pointer=
+; outline: none; border: 0px; height: auto; display: block; max-width: 100%=
+; border-radius: 0px;"></td></tr></tbody></table><div></div><div></div></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody><tbody><tr><td valign=3D"top" al=
+ign=3D"center" style=3D"word-break:break-word;background-color:transparent"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse;max-width:660px"><tbod=
+y><tr><td valign=3D"top" style=3D"word-break:break-word"><table align=3D"ce=
+nter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_7483578=
+782940712855m_7409285040214287206mceColumnId--7" colspan=3D"12" width=3D"10=
+0%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"t=
+op" id=3D"m_7483578782940712855m_7409285040214287206gutterContainerId-33" s=
+tyle=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><t=
+d valign=3D"top" id=3D"m_7483578782940712855m_7409285040214287206b33" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><table =
+width=3D"100%" style=3D"border:0px;background-color:transparent;border-radi=
+us:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px 16px"><d=
+iv id=3D"m_7483578782940712855m_7409285040214287206d33" style=3D"font-famil=
+y:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0=
+,0,0);width:624.258px"><p style=3D"margin:0px;padding:0px;word-break:break-=
+word;font-size:16px;line-height:0;letter-spacing:0px;direction:ltr"><br></p=
+><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;li=
+ne-height:0;letter-spacing:0px;direction:ltr"><br></p><h2 style=3D"margin:0=
+px;padding:0px;font-size:25px;line-height:1.5;direction:ltr;border:0px;heig=
+ht:1px;overflow:hidden;width:1px;white-space:nowrap;outline:0px"><span styl=
+e=3D"color:rgb(31,31,31)"><span style=3D"font-family:Times">Gemini said</sp=
+an></span></h2><h1 style=3D"margin:0px;padding:0px;font-size:31px;line-heig=
+ht:1.25;letter-spacing:0px;direction:ltr"><span style=3D"font-size:26px">Sm=
+art Routing &amp; Rider Updates!</span></h1><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px=
+;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">Grou=
+nd operations can change in a heartbeat.</p><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px=
+;direction:ltr">In order to tackle it we have Multiple different tasks goin=
+g together hand in hand.</p><p style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:=
+16px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"ma=
+rgin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;let=
+ter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;font-size:16px;line-height:0;letter-spacing:0px;direct=
+ion:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;f=
+ont-size:16px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p st=
+yle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-hei=
+ght:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padd=
+ing:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing=
+:0px;direction:ltr"><strong>Forward/Reverse Order Merging</strong></p><p st=
+yle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-hei=
+ght:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padd=
+ing:0px;word-break:break-word;font-size:16px;line-height:0;letter-spacing:0=
+px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">Th=
+is update introduces the ability to seamlessly club forward and reverse ord=
+ers together. This enhancement will streamline the routing process and opti=
+mize rider efficiency</p><p style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br=
+></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16p=
+x;line-height:1.5;letter-spacing:0px;direction:ltr"><strong>Repritoritizati=
+on of Tasks<br></strong>Depending on whether it&#39;s a forward or reverse =
+task, any nearby order that can be finished on time can now be prioritized =
+accordingly.</p><p style=3D"margin:0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p s=
+tyle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-he=
+ight:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;pad=
+ding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacin=
+g:0px;direction:ltr"><strong>Top Rider Enhancement</strong></p><p style=3D"=
+margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;l=
+etter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px=
+;word-break:break-word;font-size:16px;line-height:0;letter-spacing:0px;dire=
+ction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">We are in=
+troducing a new new sorting and filtering constraint in the &quot;Top Rider=
+&quot; selection logic based on=C2=A0<strong>Rider&#39;s Free Time</strong>=
+</p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></t=
+body></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>=
+</tbody></table></td></tr></tbody><tbody><tr><td valign=3D"top" align=3D"ce=
+nter" style=3D"word-break:break-word;background-color:transparent"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" style=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td=
+ valign=3D"top" style=3D"word-break:break-word"><table align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presen=
+tation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" st=
+yle=3D"word-break:break-word;background-position:center center;background-r=
+epeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-co=
+llapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_7483578782940712855m=
+_7409285040214287206mceColumnId--8" colspan=3D"12" width=3D"100%" style=3D"=
+word-break:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+ style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_7=
+483578782940712855m_7409285040214287206gutterContainerId-166" style=3D"word=
+-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"t=
+op" id=3D"m_7483578782940712855m_7409285040214287206b166" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100=
+%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbo=
+dy><tr><td style=3D"word-break:break-word;padding:0px 24px 12px 16px"><div =
+id=3D"m_7483578782940712855m_7409285040214287206d166" style=3D"font-family:=
+&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0=
+,0);width:616.26px"><p style=3D"margin:0px;padding:0px;word-break:break-wor=
+d;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;directi=
+on:ltr"><br></p><h3 id=3D"m_7483578782940712855m_7409285040214287206Why-We-=
+Built-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;li=
+ne-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:rgb(=
+41,42,46)"><span style=3D"font-size:1.142em"><span style=3D"font-family:&qu=
+ot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quo=
+t;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">Why We Built=
+ These?<br></span></span></span></h3><p style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;font-size:16px;line-height:0;text-align:center;letter-sp=
+acing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;font-size:16px;line-height:0;text-align:center;letter-spacin=
+g:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:=
+break-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0p=
+x;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;di=
+rection:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;direct=
+ion:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;f=
+ont-size:16px;line-height:0;text-align:center;letter-spacing:0px;direction:=
+ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-=
+size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong>Forward=
+/Reverse order merging</strong></p><p style=3D"margin:0px;padding:0px;word-=
+break:break-word;font-size:16px;line-height:0;letter-spacing:0px;direction:=
+ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-=
+size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">By allowing the=
+ system to safely &quot;club&quot; these orders together, it prevents rider=
+s from having to make redundant trips, ultimately making the routing proces=
+s smoother and more cost-effective.</p><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dire=
+ction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong><=
+span style=3D"font-size:17px">Reprioritization</span></strong></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr">We took care of reprioritization to =
+bridge the gap between fixed route planning and on-the-ground reality. Ride=
+rs need agility to maximize their daily earnings and avoid SLA penalties, b=
+ut businesses still need operational safeguards to protect cash collection =
+and order dependencies.</p><p style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><=
+br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong>Top Rider Enh=
+ancement</strong></p><p style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">System =
+filters and identifies riders who have been free and then it applies the ex=
+isting distance logic to those filtered riders first ensuring equitable ord=
+er disttribution<strong></strong></p><p style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;font-size:16px;line-height:0;text-align:center;letter-sp=
+acing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;font-size:16px;line-height:0;text-align:center;letter-spacin=
+g:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:=
+break-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0p=
+x;direction:ltr"><br></p></div></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr><tr><td valign=3D"top" id=3D"m_7483578782940712855m_74092=
+85040214287206gutterContainerId-179" style=3D"word-break:break-word;padding=
+:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_7483578782940=
+712855m_7409285040214287206b179" style=3D"word-break:break-word;padding:0px=
+;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;ba=
+ckground-color:transparent;border-radius:0px"><tbody><tr><td style=3D"word-=
+break:break-word;padding:0px 24px 12px 16px"><div id=3D"m_74835787829407128=
+55m_7409285040214287206d179" style=3D"font-family:&quot;Helvetica Neue&quot=
+;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 i=
+d=3D"m_7483578782940712855m_7409285040214287206Why-We-Built-This" style=3D"=
+margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;directi=
+on:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46)"><span styl=
+e=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian Sans&quo=
+t;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubun=
+tu,&quot;Helvetica Neue&quot;,sans-serif">What=E2=80=99s New!</span></span>=
+</span></h3><p style=3D"margin:0px;padding:0px;word-break:break-word;font-s=
+ize:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(50,10,164)"=
+><span style=3D"font-size:18px">Combined Forward &amp; Reverse Routes</span=
+></span></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-s=
+ize:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><strong>Smart Route Clubbing:</stron=
+g>=C2=A0The system now officially supports bundling forward (delivery) and =
+reverse (pickup/return) orders together into a single, automated route.</p>=
+<p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0=
+px;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-alig=
+n:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr">You no longer need to manually piece together forwar=
+d and reverse orders for a single rider to avoid system crashes. The system=
+ can now handle automated bundling safely.</p></div></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr><tr><td valign=3D"top" align=3D"cent=
+er" id=3D"m_7483578782940712855m_7409285040214287206b187" style=3D"word-bre=
+ak:break-word;background-color:rgb(249,249,249);padding:12px 16px;border:0p=
+x;border-radius:0px"><div></div><table align=3D"center" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"94%" role=3D"presentation" style=3D"=
+margin:0px;vertical-align:top;max-width:94%;width:590.322px;height:auto"><t=
+body><tr><td valign=3D"top" style=3D"word-break:break-word;border:0px;borde=
+r-radius:0px"><img alt=3D"" src=3D"https://mcusercontent.com/f4a2f12a3f8b84=
+b83bf6bc401/images/599141cc-a595-258c-a456-e57680518235.png" width=3D"590.3=
+199999999999" height=3D"auto" class=3D"gmail-CToWUd gmail-a6T" tabindex=3D"=
+0" style=3D"cursor: pointer; outline: none; border: 0px; height: auto; disp=
+lay: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table=
+><div></div><div></div></td></tr><tr><td valign=3D"top" id=3D"m_74835787829=
+40712855m_7409285040214287206gutterContainerId-136" style=3D"word-break:bre=
+ak-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"=
+m_7483578782940712855m_7409285040214287206b136" style=3D"word-break:break-w=
+ord;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" style=
+=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><tr><=
+td style=3D"word-break:break-word;padding:0px 24px 12px 16px"><div id=3D"m_=
+7483578782940712855m_7409285040214287206d136" style=3D"font-family:&quot;He=
+lvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);widt=
+h:616.26px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-s=
+ize:16px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr">=
+<br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:=
+16px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"><br>=
+</p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px=
+;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p style=3D"marg=
+in:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-=
+align:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0=
+px;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-alig=
+n:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:0;text-align:ce=
+nter;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;paddi=
+ng:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:=
+0px;direction:ltr"><span style=3D"color:rgb(50,10,164)"><span style=3D"font=
+-size:18px">Repritoritization of Tasks</span></span></p><ol style=3D"margin=
+-bottom:0px"><li style=3D"margin-left:15px"><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px=
+;direction:ltr"><strong>Rearrange Live tasks:</strong>=C2=A0Riders can now =
+reprioritize/rearrange pickup and drop tasks, even within complex merged ro=
+utes.</p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size=
+:16px;line-height:1.5;letter-spacing:0px;direction:ltr">When a rider select=
+s a new priority, it instantly becomes the single=C2=A0<strong>Live Task</s=
+trong>, pushing the previous live task back into the queue sequence.</p><p =
+style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-h=
+eight:1.5;letter-spacing:0px;direction:ltr"><br></p></li><li style=3D"margi=
+n-left:15px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-=
+size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><strong>Built-i=
+n Guardrails:</strong>=C2=A0To prevent delivery mistakes, riders are strict=
+ly blocked from prioritizing a drop task before its associated pickup has a=
+ctually occurred. Also, =C2=A0If a rider marks themselves as=C2=A0<em>Reach=
+ed</em>=C2=A0at a pickup or delivery location, the system locks the route s=
+equence to prevent accidental changes while they are finalizing the order.<=
+/p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;=
+line-height:1.5;letter-spacing:0px;direction:ltr"><br></p></li></ol></div><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" id=3D"m_7483578782940712855m_7409285040214287206gutterContainerId-=
+184" style=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valig=
+n=3D"top" id=3D"m_7483578782940712855m_7409285040214287206b184" style=3D"wo=
+rd-break:break-word;padding:8px 0px;border:0px;border-radius:0px"><table al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" id=3D"m_7483578782940712855m_7409285040214287206s=
+ection_eac911023ff4a1138e5d09433e47302f" style=3D"border-collapse:collapse"=
+><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background-po=
+sition:center center;background-repeat:no-repeat;background-size:cover"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"=
+top" id=3D"m_7483578782940712855m_7409285040214287206mceColumnId--9" colspa=
+n=3D"12" width=3D"100%" style=3D"word-break:break-word"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" s=
+tyle=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"ce=
+nter" id=3D"m_7483578782940712855m_7409285040214287206b-5" style=3D"word-br=
+eak:break-word;border:0px;border-radius:0px"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;background-position:center center;background-repe=
+at:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_7483578782940712855m_74=
+09285040214287206mceColumnId--11" colspan=3D"12" width=3D"100%" style=3D"wo=
+rd-break:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" id=3D"m_7483578782940712855m_74092850402142872=
+06b183" style=3D"word-break:break-word;border:0px;border-radius:0px"><table=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr>=
+<td valign=3D"top" style=3D"word-break:break-word;background-position:cente=
+r center;background-repeat:no-repeat;background-size:cover;padding-top:0px;=
+padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"24=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse;ta=
+ble-layout:fixed"><colgroup><col span=3D"1" width=3D"8.333333333333332%"><c=
+ol span=3D"1" width=3D"8.333333333333332%"><col span=3D"1" width=3D"8.33333=
+3333333332%"><col span=3D"1" width=3D"8.333333333333332%"><col span=3D"1" w=
+idth=3D"8.333333333333332%"><col span=3D"1" width=3D"8.333333333333332%"><c=
+ol span=3D"1" width=3D"8.333333333333332%"><col span=3D"1" width=3D"8.33333=
+3333333332%"><col span=3D"1" width=3D"8.333333333333332%"><col span=3D"1" w=
+idth=3D"8.333333333333332%"><col span=3D"1" width=3D"8.333333333333332%"><c=
+ol span=3D"1" width=3D"8.333333333333332%"></colgroup><tbody><tr><td valign=
+=3D"top" id=3D"m_7483578782940712855m_7409285040214287206mceColumnId-182" c=
+olspan=3D"6" width=3D"50%" style=3D"word-break:break-word;padding-top:0px;p=
+adding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tb=
+ody><tr><td valign=3D"top" align=3D"center" id=3D"m_7483578782940712855m_74=
+09285040214287206b168" style=3D"word-break:break-word;background-color:rgb(=
+249,249,249);padding:12px 16px;border:0px;border-radius:0px"><div></div><ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"94%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-w=
+idth:94%;width:280.127px;height:auto"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=3D"" src=
+=3D"https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/c1f1d64d-b78=
+d-b2c7-1de2-eb6f85c6bce1.png" width=3D"280.12" height=3D"auto" class=3D"gma=
+il-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: pointer; outline: none=
+; border: 0px; height: auto; display: block; max-width: 100%; border-radius=
+: 0px;"></td></tr></tbody></table><div></div><div></div></td></tr></tbody><=
+/table></td><td valign=3D"top" id=3D"m_7483578782940712855m_740928504021428=
+7206mceColumnId-185" colspan=3D"6" width=3D"50%" style=3D"word-break:break-=
+word;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-=
+collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"m_7=
+483578782940712855m_7409285040214287206b181" style=3D"word-break:break-word=
+;background-color:rgb(249,249,249);padding:12px 16px;border:0px;border-radi=
+us:0px"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"94%" role=3D"presentation" style=3D"margin:0px;ve=
+rtical-align:top;max-width:94%;width:280.127px;height:auto"><tbody><tr><td =
+valign=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"=
+><img alt=3D"" src=3D"https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/i=
+mages/8fa2ad6a-a5fd-3c14-e390-5bad501e6a11.png" width=3D"280.12" height=3D"=
+auto" class=3D"gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: poin=
+ter; outline: none; border: 0px; height: auto; display: block; max-width: 1=
+00%; border-radius: 0px;"></td></tr></tbody></table><div></div><div></div><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_=
+7483578782940712855m_7409285040214287206gutterContainerId-186" style=3D"wor=
+d-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"=
+top" id=3D"m_7483578782940712855m_7409285040214287206b186" style=3D"word-br=
+eak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"10=
+0%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tb=
+ody><tr><td style=3D"word-break:break-word;padding:0px 24px 12px 16px"><div=
+ id=3D"m_7483578782940712855m_7409285040214287206d186" style=3D"font-family=
+:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,=
+0,0);width:616.26px"><p style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p=
+><h1 style=3D"font-variant:normal;margin:0px;padding:0px;font-size-adjust:n=
+one;font-kerning:auto;font-feature-settings:normal;font-stretch:normal;font=
+-size:24px;line-height:28px;font-family:&quot;Atlassian Sans&quot;,ui-sans-=
+serif,-apple-system,&quot;system-ui&quot;,&quot;Segoe UI&quot;,Ubuntu,&quot=
+;Helvetica Neue&quot;,sans-serif;direction:ltr"><span style=3D"color:rgb(50=
+,10,164)"><span style=3D"font-size:18px"><span style=3D"font-weight:normal"=
+>Top Riders Algorithm</span></span></span></h1><h1 style=3D"margin:0px;padd=
+ing:0px;font-variant:normal;font-size-adjust:none;font-kerning:auto;font-fe=
+ature-settings:normal;font-stretch:normal;font-size:24px;line-height:28px;f=
+ont-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,&quot;sys=
+tem-ui&quot;,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-se=
+rif;direction:ltr"><p style=3D"font-family:&quot;Helvetica Neue&quot;,Helve=
+tica,Arial,Verdana,sans-serif;font-weight:400;letter-spacing:0px;margin:0px=
+;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;direction=
+:ltr"><br></p><p style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,=
+Arial,Verdana,sans-serif;letter-spacing:0px;margin:0px;padding:0px;word-bre=
+ak:break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"=
+font-weight:400">15-Minute Smart Filter: There is a default 15-minute thres=
+hold of free riders. It first filters and isolates riders who have been fre=
+e for 15 minutes or more before applying standard distance metrics=C2=A0</s=
+pan></p></h1><h1 style=3D"margin:0px;padding:0px;font-variant:normal;font-s=
+ize-adjust:none;font-kerning:auto;font-feature-settings:normal;font-stretch=
+:normal;font-size:24px;line-height:28px;font-family:&quot;Atlassian Sans&qu=
+ot;,ui-sans-serif,-apple-system,&quot;system-ui&quot;,&quot;Segoe UI&quot;,=
+Ubuntu,&quot;Helvetica Neue&quot;,sans-serif;direction:ltr"><br></h1></div>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valig=
+n=3D"top" id=3D"m_7483578782940712855m_7409285040214287206gutterContainerId=
+-178" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody>=
+<tr><td valign=3D"top" id=3D"m_7483578782940712855m_7409285040214287206b178=
+" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px">=
+<table width=3D"100%" style=3D"border:0px;background-color:transparent;bord=
+er-radius:0px"><tbody><tr><td style=3D"word-break:break-word;padding:0px 24=
+px 12px 16px"><div id=3D"m_7483578782940712855m_7409285040214287206d178" st=
+yle=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-=
+serif;color:rgb(0,0,0);width:616.26px"><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;font-size:16px;line-height:0;text-align:center;letter-=
+spacing:0px;direction:ltr"><br></p><h3 id=3D"m_7483578782940712855m_7409285=
+040214287206Why-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding:0p=
+x;font-size:20px;line-height:1.5;direction:ltr;white-space:pre-wrap"><span =
+style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"><span style=
+=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,Blin=
+kMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-=
+serif">What This Means To You</span></span></span></h3><p style=3D"margin:0=
+px;padding:0px;word-break:break-word;font-size:16px;line-height:0;text-alig=
+n:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:0;text-align:ce=
+nter;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;paddi=
+ng:0px;word-break:break-word;font-size:16px;line-height:0;text-align:center=
+;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:0;text-align:center;let=
+ter-spacing:0px;direction:ltr"><br></p><ol style=3D"margin-bottom:0px"><li =
+style=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><=
+strong>Cost &amp; Route Optimization:</strong>=C2=A0By seamlessly combining=
+ deliveries and returns into unified routes, you can significantly reduce t=
+otal distance traveled, save fuel, and cut down on overall operational cost=
+s.</p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p></li><li style=
+=3D"margin-left:15px"><p style=3D"margin:0px;padding:0px;word-break:break-w=
+ord;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><stron=
+g>Maximizing Rider Flexibility:=C2=A0</strong>Controlled, on-the-ground tas=
+k reordering for delivery riders, allowing them to dynamically prioritize s=
+ingle pickup or drop tasks to handle real-world delays and still protecting=
+ operational integrity and SLAs.</p><p style=3D"margin:0px;padding:0px;word=
+-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;directi=
+on:ltr"><br></p></li><li style=3D"margin-left:15px"><p style=3D"margin:0px;=
+padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spa=
+cing:0px;direction:ltr"><strong>Faster, Friction-Free Allocation:</strong>=
+=C2=A0The prefers allocation to free riders allowing rider optimization.</p=
+></li></ol></div></td></tr></tbody></table></td></tr></tbody></table></td><=
+/tr><tr><td valign=3D"top" id=3D"m_7483578782940712855m_7409285040214287206=
+gutterContainerId-101" style=3D"word-break:break-word;padding:0px"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation"><tbody><tr><td valign=3D"top" id=3D"m_7483578782940712855m_740928=
+5040214287206b101" style=3D"word-break:break-word;padding:0px;border:0px;bo=
+rder-radius:0px"><table width=3D"100%" style=3D"border:0px;background-color=
+:transparent;border-radius:0px"><tbody><tr><td style=3D"word-break:break-wo=
+rd;padding:12px 24px 12px 16px"><div id=3D"m_7483578782940712855m_740928504=
+0214287206d101" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,A=
+rial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 id=3D"m_748357=
+8782940712855m_7409285040214287206Why-We-Built-This" style=3D"margin:1.3124=
+9em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:ltr;white-=
+space:pre-wrap"><span style=3D"color:rgb(41,42,46)"><span style=3D"font-siz=
+e:1.142em"><span style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-se=
+rif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helv=
+etica Neue&quot;,sans-serif">What=E2=80=99s Next</span></span></span></h3><=
+p style=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;font-si=
+ze:16px;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"=
+color:rgb(71,71,71)">Something exciting is coming soon - Stay tuned !!</spa=
+n></p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+tr><td valign=3D"top" id=3D"m_7483578782940712855m_7409285040214287206b28" =
+style=3D"word-break:break-word;background-color:transparent;border:0px;bord=
+er-radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody>=
+<tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td><=
+/tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_74835787829407=
+12855m_7409285040214287206b29" style=3D"word-break:break-word;background-co=
+lor:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bo=
+rder-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" align=3D"center" id=3D"m_7483578782940712855m_740928504021428720=
+6b42" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0=
+px"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;verti=
+cal-align:top;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img =
+alt=3D"image placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12=
+c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" he=
+ight=3D"auto" class=3D"gmail-CToWUd" style=3D"border: 0px; height: auto; ou=
+tline: none; display: block; max-width: 100%; border-radius: 0px;"></td></t=
+r></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" id=
+=3D"m_7483578782940712855m_7409285040214287206b11" style=3D"word-break:brea=
+k-word;padding:8px;border:0px;border-radius:0px"><table align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"prese=
+ntation" id=3D"m_7483578782940712855m_7409285040214287206section_fb4c28b44d=
+4cc87fd50d2a372a6e7e8a" style=3D"border-collapse:collapse"><tbody><tr><td v=
+align=3D"top" style=3D"word-break:break-word;background-position:center cen=
+ter;background-repeat:no-repeat;background-size:cover;padding-top:0px;paddi=
+ng-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"12" wid=
+th=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody=
+><tr><td valign=3D"top" id=3D"m_7483578782940712855m_7409285040214287206mce=
+ColumnId--3" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;p=
+adding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collap=
+se:collapse"><tbody><tr><td valign=3D"top" id=3D"m_7483578782940712855m_740=
+9285040214287206gutterContainerId-9" style=3D"word-break:break-word;padding=
+:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"center" id=
+=3D"m_7483578782940712855m_7409285040214287206b9" style=3D"word-break:break=
+-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" style=
+=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><tr><=
+td style=3D"word-break:break-word;padding:12px 16px"><div id=3D"m_748357878=
+2940712855m_7409285040214287206d9" style=3D"font-family:&quot;Helvetica Neu=
+e&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);display:inline-=
+block;width:608.262px"><p style=3D"margin:0px;padding:0px;word-break:break-=
+word;font-size:16px;line-height:1.5;text-align:center;letter-spacing:0px;di=
+rection:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:1=
+1px">M3M Urbana Business Park, Sector 67</span></span></p><p style=3D"margi=
+n:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;text=
+-align:center;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71=
+,71,71)"><span style=3D"font-size:11px">Gurugram , Haryana (122101)<br><br>=
+</span></span><a href=3D"https://pidge.in/" target=3D"_blank" style=3D"colo=
+r:rgb(153,153,153);word-break:break-word;direction:ltr"><span style=3D"font=
+-size:11px">VISIT WEBSITE</span></a></p></div></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></div>
+
+--000000000000ffc19a065330b6dd--

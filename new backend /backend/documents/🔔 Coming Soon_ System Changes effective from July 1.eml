@@ -1,0 +1,1206 @@
+MIME-Version: 1.0
+Date: Fri, 19 Jun 2026 07:01:00 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, 
+	BD Rockstars <bdrockstars@r-indventures.com>, 
+	Customer Success <customersuccess@r-indventures.com>, Network Ops <netops@pidge.in>, 
+	Pidge Tech <pidge.tech@pidge.in>, Radhika Sharma <radhika.sharma@pidge.in>, 
+	Pulkit Sethi <pulkit.sethi@pidge.in>
+Message-ID: <CAFuJ3p4co-5q5n_u1ofwWRUP_kVu7g6ZAPF7W1nGFtkStO=YPg@mail.gmail.com>
+Subject: =?UTF-8?Q?=F0=9F=94=94_Coming_Soon=3A_System_Changes_effective_from_July?=
+	=?UTF-8?Q?_1?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="0000000000006b8a9b06548a9806"
+
+--0000000000006b8a9b06548a9806
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*July 01: The Rules Change. No Execptions*
+
+10 changes take effect on 1 July across Verification & KYC, Account
+Structure, Billing & Invoicing, and Cash Automation.
+Why This Is Changing
+
+Most of what's below comes down to one thing: making sure money, identity,
+and account hierarchy all point to a single, verifiable source of truth.
+Cash sitting in a wallet with no verified bank account behind it, riders
+working public networks with no identity check, and child accounts quietly
+drifting from their parent's billing setup have all been operational grey
+areas until now.
+
+From 1 July, they become rules the system enforces on its own.
+
+
+Key Changes
+Verification & KYC
+
+
+
+*Inactive Riders Marked Automatically At Month-End*
+
+
+Starting 30th June, the system will automatically mark riders inactive on a
+periodic basis. Note that this isn't a one-time cleanup; it repeats
+regularly to make sure the system stays clean and accounts do not have
+bloated rider count.
+
+
+Riders who haven't worked in a period of 30 days and hold no cash, would be
+automatically marked inactive.
+
+
+*Bank Verification Required Before Any COD Cash Is Paid Out*
+
+
+From 1 July, a business needs verified bank details in system to receive th=
+e
+due from pidge amount back to them. Until verification is complete, the Due
+From Pidge page will show a banner flagging this, and any attempt to turn
+on T+1 remittance will be blocked. This applies wherever COD orders are
+involved.
+
+
+Pidge ends up holding cash that's owed back to a business; without a
+verified account to send it to, that money has nowhere to go. Finance will
+not process the money unless bank information is available and verified in
+system
+
+
+*Mandatory Aadhaar Verification for Riders*
+
+
+All riders operating through the public network (including PPN) or
+operating as loaned riders (PDR) must have a successfully Aadhaar-verified
+profile.
+
+
+Riders who are not Aadhaar verified will be automatically removed from the
+public network and cannot rejoin until their verification is completed.
+Additionally, vendors/CT teams will not be able to create future loan
+shifts for unverified riders.
+
+
+
+This requirement applies only to riders participating in the public network
+or PDR. Captive riders fulfilling only your own business orders are not
+impacted by this validation. Business KYC guidelines, which may be stricter
+than just Aadhaar verification, apply to PDR.
+
+
+A business receiving fulfilment from a public network rider has no other
+way to vet that person, Aadhaar verification is the one check that travels
+with the rider across accounts.
+
+
+*Enterprise Accounts Gated On GST And Bank Verification*
+
+
+Enterprise accounts will be created directly from the Admin Panel (V2), but
+no new user can be added until both GST verification and bank verification
+are complete. From 1 July, any Enterprise account without a valid GST on
+file will be disabled. Existing Enterprise accounts are backfilled with GST
+data ahead of this so nobody is caught off guard.
+
+
+GST and bank details are what make Enterprise invoicing and settlement work
+correctly, catching gaps at account creation is far cheaper than untangling
+them after orders have already been billed. Additionally, once an
+Enterprise account is GST verified, it will auto-populate the legal name
+(and certain other fields) in the business name field (display only) to
+ensure verified legal names are in place.
+Account Structure & Hierarchy
+
+
+
+*Parent Accounts Become View-Only Holding Entities*
+
+
+A parent (Enterprise) account can no longer create orders, riders, routes,
+or vehicles, those actions are hidden across the Orders, Routes, and Fleet
+screens, leaving only the ability to view and download reports. All
+operational work =E2=80=94 placing orders, managing riders, building routes=
+, adding
+vehicles =E2=80=94 now happens exclusively in the child accounts underneath=
+ it.
+
+
+A parent account's job is to oversee and configure the accounts beneath it,
+not to run operations itself. Keeping that line clean stops assets from
+ending up at the wrong level of the hierarchy. We will release more
+features to make parent accounts even more powerful in the future as they
+are expected to be holding/central entities.
+
+
+*New Child Accounts Inherit The Parent's Rate Card And Wallet By Default*
+
+
+Any new child account created under an Enterprise parent will, by default,
+follow the parent's rate structure =E2=80=94 default or custom =E2=80=94 an=
+d have its
+wallet source set to the parent account, so charges are deducted from the
+parent's wallet. This can still be overridden at the level of a single
+charge type, so a child could follow the parent's rates everywhere except,
+say, its own minimum guarantee, which it pays for itself.
+
+
+Today every new child account needs its rates configured from scratch, and
+that's exactly where mismatches and incorrect invoices come from.
+Inheriting by default means a new account starts correct.
+Billing & Invoicing
+
+
+
+*B2B And B2C Accounts Now Get Separate Invoice Series*
+
+
+Any account with GST details, including every Enterprise account by
+default, is treated as B2B and billed on its own invoice series; accounts
+without GST are B2C and billed on a separate one.
+
+
+Splitting the series makes GST-relevant invoices easy to isolate for
+filing, rather than having to pick them out of one mixed sequence.
+
+
+*One Invoicing Period Per Hierarchy; Credit Limits Reserved For Enterprise*
+
+
+A child account will always follow the parent's invoicing period (without
+exception)
+
+
+Non-enterprise accounts will be locked to monthly invoicing only with no
+credit limit option available, which keeps them as wallet accounts by
+definition. Enterprise accounts can choose weekly, fortnightly, or monthly
+invoicing at the parent level, and credit limit options apply only there.
+
+
+Mismatched invoicing periods within one parent-child hierarchy were a
+recurring source of settlement confusion. Tying credit exposure to the
+Enterprise tier also means it only applies to accounts that have already
+cleared GST and bank verification.
+
+
+*Child Accounts Without A GST Number Auto-Bill Under The Parent's GST*
+
+
+If a child account doesn't have its own GST number, it's now automatically
+billed under the parent account's GST instead of being clubbed as a
+GST-less invoice. Defining a GST number at the child level becomes optional
+rather than required, and the Admin Panel will clearly show whether a given
+child's GST is inherited or set independently.
+
+
+This keeps every invoice tied to a valid GST without forcing every child
+account through its own GST setup, and removes the ambiguity that existed
+when a child had no GST defined at all.
+
+
+*New Accounts Default To Standard System Pricing*
+
+
+Every new account created from 1 July follows the standard pricing model
+shared earlier and defaults to system-defined rates rather than a blank or
+ad-hoc setup. Custom rates can still be configured on top where they've
+been negotiated, but the starting point is now consistent across every
+account.
+
+
+A consistent default removes the guesswork in pricing a brand-new account,
+so every accounts starts from the same known baseline before any negotiated
+rates are layered on.
+Cash & Wallet Automation
+
+
+
+*Cash Handling And Cash Remittance Fees Now Deduct Automatically*
+
+
+Cash Handling Fee (for offline and online COD collection) and Cash
+Remittance Fee (for cash a rider or admin remits to Pidge via UPI) now
+deduct directly from the relevant wallet.
+
+
+The business's wallet for handling fees, and the remitting party's wallet
+for remittance fees, instead of going through a manual finance process.
+
+
+Each fee can be configured as a flat amount, a percentage, or both, with
+the higher of the two applied.
+
+
+Two new reports, the Cash Handling Fee Report and the Cash Remittance Fee
+Report, will be available under Wallet to track every deduction.
+
+
+COD cash handling already shows up as ledger entries the moment it happens,
+automating the fee against that same event removes the lag and manual
+effort of finance applying it after the fact, and makes every deduction
+auditable.
+
+
+
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE
+<https://us17.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&xid=
+=3Dd178f761e9&uid=3D248089116&iid=3Dfe659c0d70&pool=3Dcts&v=3D2&c=3D1781787=
+013&h=3D366beeebf4183e89fad75de7d4ed4eced8593ed8509ad93fdf3915e0ff330eff>
+
+--0000000000006b8a9b06548a9806
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_4813776017551653651root" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center=
+" style=3D"word-break:break-word;background-color:transparent"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td val=
+ign=3D"top" style=3D"word-break:break-word"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;background-position:center center;background-repe=
+at:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651m=
+ceColumn" id=3D"m_4813776017551653651mceColumnId--16" colspan=3D"12" width=
+=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ro=
+le=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valig=
+n=3D"top" align=3D"center" id=3D"m_4813776017551653651b4" style=3D"word-bre=
+ak:break-word;padding:12px 0px;border:0px;border-radius:0px"><div></div><ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-=
+width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"=
+word-break:break-word;border:0px;border-radius:0px"><img alt=3D"" src=3D"ht=
+tps://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/81fa7969-1754-4147=
+-73f3-ef9f61c869e7.png" width=3D"660" height=3D"auto" class=3D"m_4813776017=
+551653651mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: p=
+ointer; outline: none; border: 0px; height: auto; display: block; max-width=
+: 100%; border-radius: 0px;"></td></tr></tbody></table><div></div><div></di=
+v></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterContain=
+erId-33" style=3D"word-break:break-word;padding:0px"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbo=
+dy><tr><td valign=3D"top" id=3D"m_4813776017551653651b33" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100=
+%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbo=
+dy><tr><td class=3D"m_4813776017551653651mceTextBlockContainer" style=3D"wo=
+rd-break:break-word;padding:12px 16px"><div class=3D"m_4813776017551653651m=
+ceText" id=3D"m_4813776017551653651d33" style=3D"font-family:&quot;Helvetic=
+a Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:624.=
+258px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:0;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4=
+813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:=
+ltr"><strong><span style=3D"font-size:25.5pt"><span style=3D"font-family:Ar=
+ial,sans-serif"><span style=3D"background-color:transparent">July 01: The R=
+ules Change. No Execptions</span></span></span></strong></p></div></td></tr=
+></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top"=
+ id=3D"m_4813776017551653651gutterContainerId-233" style=3D"word-break:brea=
+k-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m=
+_4813776017551653651b233" style=3D"word-break:break-word;padding:0px;border=
+:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;backgroun=
+d-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_4813776017=
+551653651mceTextBlockContainer" style=3D"word-break:break-word;padding:12px=
+ 16px"><div class=3D"m_4813776017551653651mceText" id=3D"m_4813776017551653=
+651d233" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Ve=
+rdana,sans-serif;color:rgb(0,0,0);width:624.258px"><p style=3D"margin:0.75r=
+em 0px 0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5=
+;direction:ltr;white-space:pre-wrap"><span style=3D"color:rgb(91,88,114)"><=
+span style=3D"font-size:11.5pt"><span style=3D"font-family:Arial,sans-serif=
+"><span style=3D"background-color:transparent">10 changes take effect on 1 =
+July across Verification &amp; KYC, Account Structure, Billing &amp; Invoic=
+ing, and Cash Automation.</span></span></span></span></p></div></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><=
+/tr></tbody><tbody><tr><td valign=3D"top" align=3D"center" style=3D"word-br=
+eak:break-word;background-color:transparent"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bor=
+der-collapse:collapse;max-width:660px"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word"><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:bre=
+ak-word;background-position:center center;background-repeat:no-repeat;backg=
+round-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbo=
+dy><tr><td valign=3D"top" class=3D"m_4813776017551653651mceColumn" id=3D"m_=
+4813776017551653651mceColumnId--17" colspan=3D"12" width=3D"100%" style=3D"=
+word-break:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+ style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_4=
+813776017551653651gutterContainerId-235" style=3D"word-break:break-word;pad=
+ding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_481377601=
+7551653651b235" style=3D"word-break:break-word;padding:0px;border:0px;borde=
+r-radius:0px"><table width=3D"100%" style=3D"border:0px;background-color:tr=
+ansparent;border-radius:0px"><tbody><tr><td class=3D"m_4813776017551653651m=
+ceTextBlockContainer" style=3D"word-break:break-word;padding:12px 24px 8px =
+16px"><div class=3D"m_4813776017551653651mceText" id=3D"m_48137760175516536=
+51d235" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Ver=
+dana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_48137760175=
+51653651mcePastedContent" id=3D"m_4813776017551653651Why-We-Built-This" sty=
+le=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;d=
+irection:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46)"><spa=
+n style=3D"font-size:24px">Why This Is Changing</span></span></h3><p style=
+=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:16px=
+;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:r=
+gb(71,71,71)"><span style=3D"font-size:11.5pt"><span style=3D"font-family:A=
+rial,sans-serif"><span style=3D"background-color:transparent">Most of what&=
+#39;s below comes down to one thing: making sure money, identity, and accou=
+nt hierarchy all point to a single, verifiable source of truth. Cash sittin=
+g in a wallet with no verified bank account behind it, riders working publi=
+c networks with no identity check, and child accounts quietly drifting from=
+ their parent&#39;s billing setup have all been operational grey areas unti=
+l now. </span></span></span></span></p><p style=3D"margin:0.75rem 0px 0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:l=
+tr;white-space:pre-wrap"><span style=3D"color:rgb(71,71,71)"><span style=3D=
+"font-size:11.5pt"><span style=3D"font-family:Arial,sans-serif"><span style=
+=3D"background-color:transparent">From 1 July, they become rules the system=
+ enforces on its own.</span></span></span></span></p></div></td></tr></tbod=
+y></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"=
+m_4813776017551653651gutterContainerId-46" style=3D"word-break:break-word">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651=
+b46" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0p=
+x"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" id=3D"m_4813776017551653651section_e8=
+b354c067c4c380811f052304d52a36" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" style=3D"word-break:break-word;background-position:ce=
+nter center;background-repeat:no-repeat;background-size:cover"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" clas=
+s=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId=
+--18" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word"><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pre=
+sentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top"=
+ align=3D"center" id=3D"m_4813776017551653651b-5" style=3D"word-break:break=
+-word;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-=
+break:break-word;background-position:center center;background-repeat:no-rep=
+eat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651mceColumn"=
+ id=3D"m_4813776017551653651mceColumnId--25" colspan=3D"12" width=3D"100%" =
+style=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:=
+collapse"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b45" sty=
+le=3D"word-break:break-word;border:0px;border-radius:0px"><table align=3D"c=
+enter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"center" class=3D"m_4=
+813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId-44" col=
+span=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;p=
+adding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tb=
+ody><tr><td valign=3D"top" id=3D"m_4813776017551653651b203" style=3D"word-b=
+reak:break-word;background-color:transparent;border:0px;border-radius:0px">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr></tbody></=
+table></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterCon=
+tainerId-108" style=3D"word-break:break-word;padding:0px"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b108" style=3D"wo=
+rd-break:break-word;padding:0px;border:0px;border-radius:0px"><table width=
+=3D"100%" style=3D"border:0px;background-color:transparent;border-radius:0p=
+x"><tbody><tr><td class=3D"m_4813776017551653651mceTextBlockContainer" styl=
+e=3D"word-break:break-word;padding:0px 8px"><div class=3D"m_481377601755165=
+3651mceText" id=3D"m_4813776017551653651d108" style=3D"font-family:&quot;He=
+lvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);widt=
+h:640.254px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-=
+size:16px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"=
+><br></p><h3 class=3D"m_4813776017551653651mcePastedContent" id=3D"m_481377=
+6017551653651What=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding:=
+0px;font-size:20px;line-height:1.5;text-align:center;direction:ltr;white-sp=
+ace:pre-wrap"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:=
+18px"><span style=3D"font-weight:normal">Key Changes</span></span></span></=
+h3></div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr>=
+<td valign=3D"top" id=3D"m_4813776017551653651b157" style=3D"word-break:bre=
+ak-word;background-color:transparent;border:0px;border-radius:0px"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+height=3D"20" style=3D"word-break:break-word"></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_48=
+13776017551653651gutterContainerId-141" style=3D"word-break:break-word"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b14=
+1" style=3D"word-break:break-word;padding:0px;border-width:1px;border-style=
+:solid;border-color:rgb(232,232,232);border-radius:0px"><table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" id=3D"m_4813776017551653651section_92206f211dfa9e63bdb064=
+985c65398e" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top=
+" style=3D"word-break:break-word;background-position:center center;backgrou=
+nd-repeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_481377601755=
+1653651mceColumn" id=3D"m_4813776017551653651mceColumnId--19" colspan=3D"12=
+" width=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D=
+"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" i=
+d=3D"m_4813776017551653651b-7" style=3D"word-break:break-word;border:0px;bo=
+rder-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collaps=
+e:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;ba=
+ckground-position:center center;background-repeat:no-repeat;background-size=
+:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" class=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017=
+551653651mceColumnId--26" colspan=3D"12" width=3D"100%" style=3D"word-break=
+:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" id=3D"m_4813776017551653651b147" style=3D"word-break:=
+break-word;border:0px;border-radius:0px"><table align=3D"center" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+ style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"=
+word-break:break-word;background-position:center center;background-repeat:n=
+o-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"24" width=3D"100%" role=3D"presentation" style=3D"border-collapse=
+:collapse"><tbody><tr><td valign=3D"center" class=3D"m_4813776017551653651m=
+ceColumn" id=3D"m_4813776017551653651mceColumnId-146" colspan=3D"12" width=
+=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ro=
+le=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valig=
+n=3D"top" id=3D"m_4813776017551653651gutterContainerId-246" style=3D"word-b=
+reak:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top=
+" id=3D"m_4813776017551653651b246" style=3D"word-break:break-word;padding:0=
+px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;=
+background-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_4=
+813776017551653651mceTextBlockContainer" style=3D"word-break:break-word;pad=
+ding:0px 24px 8px 16px"><div class=3D"m_4813776017551653651mceText" id=3D"m=
+_4813776017551653651d246" style=3D"font-family:&quot;Helvetica Neue&quot;,H=
+elvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:615.01px"><h3 clas=
+s=3D"m_4813776017551653651mcePastedContent" id=3D"m_4813776017551653651What=
+=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20p=
+x;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:=
+rgb(100,15,228)"><span style=3D"font-size:26px"><span style=3D"font-weight:=
+normal">Verification &amp; KYC</span></span></span></h3></div></td></tr></t=
+body></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=
+=3D"m_4813776017551653651b158" style=3D"word-break:break-word;background-co=
+lor:transparent;padding:12px 0px;border:0px;border-radius:0px"><table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ role=3D"presentation" class=3D"m_4813776017551653651mceDividerContainer" s=
+tyle=3D"border-collapse:collapse;background-color:transparent;width:658.75p=
+x"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651mceDividerBl=
+ock" style=3D"word-break:break-word;min-width:100%;border-top:1px solid rgb=
+(232,232,232);line-height:0;font-size:0px">=C2=A0</td></tr></tbody></table>=
+</td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterContainer=
+Id-143" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbod=
+y><tr><td valign=3D"top" id=3D"m_4813776017551653651b143" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100=
+%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbo=
+dy><tr><td class=3D"m_4813776017551653651mceTextBlockContainer" style=3D"wo=
+rd-break:break-word;padding:12px 24px 8px 16px"><div class=3D"m_48137760175=
+51653651mceText" id=3D"m_4813776017551653651d143" style=3D"font-family:&quo=
+t;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);=
+width:615.01px"><p style=3D"margin:0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:0;text-align:center;letter-spacing:0px;direction:l=
+tr"><br></p><h3 class=3D"m_4813776017551653651mcePastedContent" style=3D"ma=
+rgin:0px;padding:0px;font-size:20px;line-height:1.5;letter-spacing:0px;dire=
+ction:ltr"><strong><span style=3D"color:rgb(28,26,46)"><span style=3D"backg=
+round-color:transparent">Inactive Riders Marked Automatically At Month-End<=
+/span></span></strong></h3><p class=3D"m_4813776017551653651mcePastedConten=
+t" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_481377=
+6017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<span style=3D"color:rgb(91,88,114)"><span style=3D"background-color:transp=
+arent">Starting 30th June, the system will automatically mark riders inacti=
+ve on a periodic basis. Note that this isn&#39;t a one-time cleanup; it rep=
+eats regularly to <span class=3D"Asgive ng">make sure</span> the system sta=
+ys clean and accounts do not <span class=3D"Q6ibn ng">have</span> bloated r=
+ider count.</span></span></p><p class=3D"m_4813776017551653651mcePastedCont=
+ent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;l=
+ine-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4813=
+776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break=
+:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr=
+"><span style=3D"color:rgb(142,142,142)"><span style=3D"background-color:tr=
+ansparent">Riders who haven&#39;t worked in <span class=3D"Asgive ng">a per=
+iod of </span>30 days and hold no <span class=3D"Q6ibn ng">cash, would</spa=
+n>=C2=A0be automatically marked inactive.</span></span></p><p class=3D"m_48=
+13776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-bre=
+ak:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:l=
+tr"><br></p><h3 class=3D"m_4813776017551653651mcePastedContent" style=3D"ma=
+rgin:0px;padding:0px;font-size:20px;line-height:1.5;letter-spacing:0px;dire=
+ction:ltr"><strong><span style=3D"color:rgb(28,26,46)"><span style=3D"font-=
+family:Arial,sans-serif"><span style=3D"background-color:transparent">Bank =
+Verification Required Before Any COD Cash Is Paid Out</span></span></span><=
+/strong></h3><p class=3D"m_4813776017551653651mcePastedContent" style=3D"ma=
+rgin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;l=
+etter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4813776017551653651m=
+cePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font=
+-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D=
+"color:rgb(71,71,71)"><span style=3D"background-color:transparent">From 1 J=
+uly, a business needs verified bank details <span class=3D"Q6ibn ng">in</sp=
+an> system to receive <span class=3D"Asgive ng">the</span> due from <span c=
+lass=3D"Q6ibn ng">pidge amount</span> back to them. Until verification is c=
+omplete, the Due From Pidge page will show a banner flagging this, and any =
+attempt to turn on T+1 remittance will be blocked. This applies wherever CO=
+D orders are involved.</span></span></p><p class=3D"m_4813776017551653651mc=
+ePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-=
+size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p clas=
+s=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px=
+;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;di=
+rection:ltr"><span style=3D"color:rgb(142,142,142)"><span style=3D"backgrou=
+nd-color:transparent">Pidge ends up holding cash that&#39;s owed back to a =
+business; without a verified account to send it to, that money has nowhere =
+to go. Finance will not process the money unless bank information is availa=
+ble and verified in <span class=3D"Asgive ng">system</span></span></span></=
+p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><br></p><h3 class=3D"m_4813776017551653651mcePastedCo=
+ntent" style=3D"margin:0px;padding:0px;font-size:20px;line-height:1.5;lette=
+r-spacing:0px;direction:ltr"><strong><span style=3D"color:rgb(28,26,46)"><s=
+pan style=3D"background-color:transparent">Mandatory Aadhaar Verification f=
+or Riders</span></span></strong></h3><p class=3D"m_4813776017551653651mcePa=
+stedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-siz=
+e:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=
+=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"background-c=
+olor:transparent">All riders operating through the public network (includin=
+g PPN) or operating as loaned riders (PDR) must have a successfully Aadhaar=
+-verified profile.</span></span></p><p class=3D"m_4813776017551653651mcePas=
+tedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size=
+:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D=
+"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direct=
+ion:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"background-colo=
+r:transparent">Riders who are not Aadhaar verified will be automatically re=
+moved from the public network and cannot rejoin until their verification is=
+ completed. Additionally, vendors/CT teams will not be able to create futur=
+e loan shifts for unverified riders.</span></span></p><p class=3D"m_4813776=
+017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><=
+br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"><br><=
+/p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"b=
+ackground-color:transparent">This requirement applies only to riders partic=
+ipating in the public network or PDR. Captive riders fulfilling only your o=
+wn business orders are not impacted by this validation. Business KYC guidel=
+ines, which may be stricter than just Aadhaar verification, apply to PDR.</=
+span></span></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D=
+"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.=
+5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_48137760175516536=
+51mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;f=
+ont-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(142,142,142)"><span style=3D"background-color:transparent">A =
+business receiving fulfilment from a public network rider has no other way =
+to vet that person, Aadhaar verification is the one check that travels with=
+ the rider across accounts.</span></span></p><p class=3D"m_4813776017551653=
+651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;=
+font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><h=
+3 class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;paddi=
+ng:0px;font-size:20px;line-height:1.5;letter-spacing:0px;direction:ltr"><st=
+rong><span style=3D"color:rgb(28,26,46)"><span style=3D"background-color:tr=
+ansparent">Enterprise Accounts Gated On GST And Bank Verification</span></s=
+pan></strong></h3><p class=3D"m_4813776017551653651mcePastedContent" style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_48137760175516=
+53651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-wor=
+d;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span st=
+yle=3D"color:rgb(71,71,71)"><span style=3D"background-color:transparent">En=
+terprise accounts will be created directly from the Admin Panel (V2), but n=
+o new user can be added until both GST verification and bank verification a=
+re complete. From 1 July, any Enterprise account without a valid GST on fil=
+e will be disabled. Existing Enterprise accounts <span class=3D"Asgive ng">=
+are</span> backfilled with GST data ahead of this so nobody is caught off g=
+uard.</span></span></p><p class=3D"m_4813776017551653651mcePastedContent" s=
+tyle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-he=
+ight:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4813776017=
+551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><spa=
+n style=3D"color:rgb(142,142,142)"><span style=3D"background-color:transpar=
+ent">GST and bank details are what make Enterprise invoicing and settlement=
+ work correctly, catching gaps at account creation is far cheaper than unta=
+ngling them after orders have already been billed. Additionally, once an En=
+terprise account is GST verified, it will auto-populate the legal name (and=
+ certain other fields) in the business name field (display only) to ensure =
+verified legal names are in place.</span></span></p></div></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m=
+_4813776017551653651b145" style=3D"word-break:break-word;background-color:t=
+ransparent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-=
+collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"wor=
+d-break:break-word"></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651b243" sty=
+le=3D"word-break:break-word;background-color:transparent;border:0px;border-=
+radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></=
+tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_481377601755165=
+3651b244" style=3D"word-break:break-word;background-color:transparent;borde=
+r:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-w=
+ord"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_481=
+3776017551653651gutterContainerId-236" style=3D"word-break:break-word"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b236=
+" style=3D"word-break:break-word;padding:0px;border-width:1px;border-style:=
+solid;border-color:rgb(232,232,232);border-radius:0px"><table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" id=3D"m_4813776017551653651section_3f0eee9c8b9ff351ff7b014b5=
+7718e68" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" s=
+tyle=3D"word-break:break-word;background-position:center center;background-=
+repeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-c=
+ollapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653=
+651mceColumn" id=3D"m_4813776017551653651mceColumnId--23" colspan=3D"12" wi=
+dth=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bor=
+der-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=3D=
+"m_4813776017551653651b-15" style=3D"word-break:break-word;border:0px;borde=
+r-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:c=
+ollapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;backg=
+round-position:center center;background-repeat:no-repeat;background-size:co=
+ver"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td va=
+lign=3D"top" class=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017551=
+653651mceColumnId--30" colspan=3D"12" width=3D"100%" style=3D"word-break:br=
+eak-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><=
+td valign=3D"top" id=3D"m_4813776017551653651b242" style=3D"word-break:brea=
+k-word;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" sty=
+le=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word=
+-break:break-word;background-position:center center;background-repeat:no-re=
+peat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"24" width=3D"100%" role=3D"presentation" style=3D"border-collapse:col=
+lapse"><tbody><tr><td valign=3D"center" class=3D"m_4813776017551653651mceCo=
+lumn" id=3D"m_4813776017551653651mceColumnId-241" colspan=3D"12" width=3D"1=
+00%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"=
+top" id=3D"m_4813776017551653651gutterContainerId-245" style=3D"word-break:=
+break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" i=
+d=3D"m_4813776017551653651b245" style=3D"word-break:break-word;padding:0px;=
+border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;bac=
+kground-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_4813=
+776017551653651mceTextBlockContainer" style=3D"word-break:break-word;paddin=
+g:0px 24px 8px 16px"><div class=3D"m_4813776017551653651mceText" id=3D"m_48=
+13776017551653651d245" style=3D"font-family:&quot;Helvetica Neue&quot;,Helv=
+etica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:615.01px"><h3 class=
+=3D"m_4813776017551653651mcePastedContent" id=3D"m_4813776017551653651What=
+=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20p=
+x;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:=
+rgb(100,15,228)"><span style=3D"font-size:26px"><span style=3D"font-weight:=
+normal">Account Structure &amp; Hierarchy</span></span></span></h3></div></=
+td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" id=3D"m_4813776017551653651b238" style=3D"word-break:break-word;ba=
+ckground-color:transparent;padding:12px 0px;border:0px;border-radius:0px"><=
+table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" role=3D"presentation" class=3D"m_4813776017551653651mceDividerC=
+ontainer" style=3D"border-collapse:collapse;background-color:transparent;wi=
+dth:658.75px"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651m=
+ceDividerBlock" style=3D"word-break:break-word;min-width:100%;border-top:1p=
+x solid rgb(232,232,232);line-height:0;font-size:0px">=C2=A0</td></tr></tbo=
+dy></table></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651gutt=
+erContainerId-239" style=3D"word-break:break-word;padding:0px"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b239" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><table =
+width=3D"100%" style=3D"border:0px;background-color:transparent;border-radi=
+us:0px"><tbody><tr><td class=3D"m_4813776017551653651mceTextBlockContainer"=
+ style=3D"word-break:break-word;padding:12px 24px 8px 16px"><div class=3D"m=
+_4813776017551653651mceText" id=3D"m_4813776017551653651d239" style=3D"font=
+-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color=
+:rgb(0,0,0);width:615.01px"><p style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0px=
+;direction:ltr"><br></p><h3 class=3D"m_4813776017551653651mcePastedContent"=
+ style=3D"margin:0px;padding:0px;font-size:20px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr"><strong><span style=3D"color:rgb(28,26,46)"><span st=
+yle=3D"background-color:transparent">Parent Accounts Become View-Only Holdi=
+ng Entities</span></span></strong></h3><p class=3D"m_4813776017551653651mce=
+PastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-s=
+ize:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=
+=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"background-c=
+olor:transparent">A parent (Enterprise) account can no longer create orders=
+, riders, routes, or vehicles, those actions are hidden across the Orders, =
+Routes, and Fleet screens, leaving only the ability to view and download re=
+ports. All operational work =E2=80=94 placing orders, managing riders, buil=
+ding routes, adding vehicles =E2=80=94 now happens exclusively in the child=
+ accounts underneath it.</span></span></p><p class=3D"m_4813776017551653651=
+mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;fon=
+t-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p cl=
+ass=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><span style=3D"color:rgb(142,142,142)"><span style=3D"backgr=
+ound-color:transparent">A parent account&#39;s job is to oversee and config=
+ure the accounts beneath it, not to run operations itself. Keeping that lin=
+e clean stops assets from ending up at the wrong level of the hierarchy. We=
+ will release more features to make parent accounts even more powerful in t=
+he future as they are expected to be holding/central entities.</span></span=
+></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px=
+;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-sp=
+acing:0px;direction:ltr"><br></p><h3 class=3D"m_4813776017551653651mcePaste=
+dContent" style=3D"margin:0px;padding:0px;font-size:20px;line-height:1.5;le=
+tter-spacing:0px;direction:ltr"><strong><span style=3D"color:rgb(28,26,46)"=
+><span style=3D"background-color:transparent">New Child Accounts Inherit Th=
+e Parent&#39;s Rate Card And Wallet By Default</span></span></strong></h3><=
+p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;paddi=
+ng:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:=
+0px;direction:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedConten=
+t" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,=
+71,71)"><span style=3D"background-color:transparent">Any new child account =
+created under an Enterprise parent will, by default, follow the parent&#39;=
+s rate structure =E2=80=94 default or custom =E2=80=94 and have its wallet =
+source set to the parent account, so charges are deducted from the parent&#=
+39;s wallet. This can still be overridden at the level of a single charge t=
+ype, so a child could follow the parent&#39;s rates everywhere except, say,=
+ its own minimum guarantee, which it pays for itself.</span></span></p><p c=
+lass=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:=
+0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px=
+;direction:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedContent" =
+style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-h=
+eight:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(142,14=
+2,142)"><span style=3D"font-family:Arial,sans-serif"><span style=3D"backgro=
+und-color:transparent">Today every new child account needs its rates config=
+ured from scratch, and that&#39;s exactly where mismatches and incorrect in=
+voices come from. Inheriting by default means a new account starts correct.=
+</span></span><span style=3D"background-color:transparent"></span></span></=
+p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><=
+td valign=3D"top" id=3D"m_4813776017551653651b240" style=3D"word-break:brea=
+k-word;background-color:transparent;border:0px;border-radius:0px"><table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"prese=
+ntation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" h=
+eight=3D"20" style=3D"word-break:break-word"></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_481=
+3776017551653651b174" style=3D"word-break:break-word;background-color:trans=
+parent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-coll=
+apse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-br=
+eak:break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" =
+id=3D"m_4813776017551653651b175" style=3D"word-break:break-word;background-=
+color:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"=
+border-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" id=3D"m_4813776017551653651gutterContainerId-159" style=3D"word-=
+break:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4=
+813776017551653651b159" style=3D"word-break:break-word;padding:0px;border-w=
+idth:1px;border-style:solid;border-color:rgb(232,232,232);border-radius:0px=
+"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" id=3D"m_4813776017551653651section_71f=
+83e5788cd83bfb0a2e4440bb3cc37" style=3D"border-collapse:collapse"><tbody><t=
+r><td valign=3D"top" style=3D"word-break:break-word;background-position:cen=
+ter center;background-repeat:no-repeat;background-size:cover"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" class=
+=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId-=
+-20" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+align=3D"center" id=3D"m_4813776017551653651b-9" style=3D"word-break:break-=
+word;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-b=
+reak:break-word;background-position:center center;background-repeat:no-repe=
+at;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651mceColumn" =
+id=3D"m_4813776017551653651mceColumnId--27" colspan=3D"12" width=3D"100%" s=
+tyle=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:c=
+ollapse"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b165" sty=
+le=3D"word-break:break-word;border:0px;border-radius:0px"><table align=3D"c=
+enter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"center" class=3D"m_4=
+813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId-164" co=
+lspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;=
+padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><t=
+body><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterContainerId-17=
+3" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr=
+><td valign=3D"top" id=3D"m_4813776017551653651b173" style=3D"word-break:br=
+eak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" st=
+yle=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><t=
+r><td class=3D"m_4813776017551653651mceTextBlockContainer" style=3D"word-br=
+eak:break-word;padding:0px 24px 8px 16px"><div class=3D"m_48137760175516536=
+51mceText" id=3D"m_4813776017551653651d173" style=3D"font-family:&quot;Helv=
+etica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:=
+615.01px"><h3 class=3D"m_4813776017551653651mcePastedContent" id=3D"m_48137=
+76017551653651What=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding=
+:0px;font-size:20px;line-height:1.5;direction:ltr;white-space:pre-wrap"><sp=
+an style=3D"color:rgb(100,15,228)"><span style=3D"font-size:26px"><span sty=
+le=3D"font-weight:normal">Billing &amp; Invoicing</span></span></span></h3>=
+</div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td=
+ valign=3D"top" id=3D"m_4813776017551653651b161" style=3D"word-break:break-=
+word;background-color:transparent;padding:12px 0px;border:0px;border-radius=
+:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" role=3D"presentation" class=3D"m_4813776017551653651mceD=
+ividerContainer" style=3D"border-collapse:collapse;background-color:transpa=
+rent;width:658.75px"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551=
+653651mceDividerBlock" style=3D"word-break:break-word;min-width:100%;border=
+-top:2px solid rgb(232,232,232);line-height:0;font-size:0px">=C2=A0</td></t=
+r></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653=
+651gutterContainerId-162" style=3D"word-break:break-word;padding:0px"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"p=
+resentation"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b162"=
+ style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><=
+table width=3D"100%" style=3D"border:0px;background-color:transparent;borde=
+r-radius:0px"><tbody><tr><td class=3D"m_4813776017551653651mceTextBlockCont=
+ainer" style=3D"word-break:break-word;padding:12px 24px 8px 16px"><div clas=
+s=3D"m_4813776017551653651mceText" id=3D"m_4813776017551653651d162" style=
+=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-ser=
+if;color:rgb(0,0,0);width:615.01px"><p style=3D"margin:0px;padding:0px;word=
+-break:break-word;font-size:16px;line-height:0;text-align:center;letter-spa=
+cing:0px;direction:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedC=
+ontent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16p=
+x;line-height:1.5;letter-spacing:0px;direction:ltr"><strong><span style=3D"=
+font-size:20px"><span style=3D"background-color:transparent">B2B And B2C Ac=
+counts Now Get Separate Invoice Series</span></span></strong></p><p class=
+=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedContent" styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heigh=
+t:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"=
+><span style=3D"background-color:transparent">Any account with GST details,=
+ including every Enterprise account by default, is treated as B2B and bille=
+d on its own invoice series; accounts without GST are B2C and billed on a s=
+eparate one.=C2=A0</span></span></p><p class=3D"m_4813776017551653651mcePas=
+tedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size=
+:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D=
+"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direct=
+ion:ltr"><span style=3D"color:rgb(142,142,142)"><span style=3D"background-c=
+olor:transparent">Splitting the series makes GST-relevant invoices easy to =
+isolate for filing, rather than having to pick them out of one mixed sequen=
+ce.</span></span></p><p class=3D"m_4813776017551653651mcePastedContent" sty=
+le=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heig=
+ht:1.5;letter-spacing:0px;direction:ltr"><br></p><h3 class=3D"m_48137760175=
+51653651mcePastedContent" style=3D"margin:0px;padding:0px;font-size:20px;li=
+ne-height:1.5;letter-spacing:0px;direction:ltr"><strong><span style=3D"colo=
+r:rgb(28,26,46)"><span style=3D"font-family:Arial,sans-serif"><span style=
+=3D"background-color:transparent">One Invoicing Period Per Hierarchy; Credi=
+t Limits Reserved For Enterprise</span></span></span></strong></h3><p class=
+=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedContent" styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heigh=
+t:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"=
+><span style=3D"background-color:transparent">A child account will always f=
+ollow the parent&#39;s invoicing period (without exception)</span></span></=
+p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedCon=
+tent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;=
+line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(=
+71,71,71)"><span style=3D"background-color:transparent">Non-enterprise acco=
+unts will be locked to monthly invoicing only with no credit limit option a=
+vailable, <span class=3D"Asgive ng">which keeps them as</span> wallet accou=
+nts by definition. Enterprise accounts can choose weekly, fortnightly, or m=
+onthly invoicing at the parent level, and credit limit options apply only t=
+here.</span></span></p><p class=3D"m_4813776017551653651mcePastedContent" s=
+tyle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-he=
+ight:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_4813776017=
+551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><spa=
+n style=3D"color:rgb(142,142,142)"><span style=3D"background-color:transpar=
+ent">Mismatched invoicing periods within one parent-child hierarchy were a =
+recurring source of settlement confusion. Tying credit exposure to the Ente=
+rprise tier also means it only applies to accounts that have already cleare=
+d GST and bank verification.</span></span></p><p class=3D"m_481377601755165=
+3651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p><=
+h3 class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padd=
+ing:0px;font-size:20px;line-height:1.5;letter-spacing:0px;direction:ltr"><s=
+trong><span style=3D"background-color:transparent">Child Accounts Without A=
+ GST Number Auto-Bill Under The Parent&#39;s GST</span></strong></h3><p cla=
+ss=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0p=
+x;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;d=
+irection:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedContent" st=
+yle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-hei=
+ght:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71=
+)"><span style=3D"background-color:transparent">If a child account doesn&#3=
+9;t have its own GST number, it&#39;s now automatically billed under the pa=
+rent account&#39;s GST instead of being clubbed as a GST-less invoice. Defi=
+ning a GST number at the child level becomes optional rather than required,=
+ and the Admin Panel will clearly show whether a given child&#39;s GST is i=
+nherited or set independently.</span></span></p><p class=3D"m_4813776017551=
+653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br></p=
+><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;pad=
+ding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacin=
+g:0px;direction:ltr"><span style=3D"color:rgb(142,142,142)"><span style=3D"=
+background-color:transparent">This keeps every invoice tied to a valid GST =
+without forcing every child account through its own GST setup, and removes =
+the ambiguity that existed when a child had no GST defined at all.</span></=
+span></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin=
+:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;lette=
+r-spacing:0px;direction:ltr"><br></p><h3 class=3D"m_4813776017551653651mceP=
+astedContent" style=3D"margin:0px;padding:0px;font-size:20px;line-height:1.=
+5;letter-spacing:0px;direction:ltr"><strong><span style=3D"color:rgb(28,26,=
+46)"><span style=3D"background-color:transparent">New Accounts Default To S=
+tandard System Pricing</span></span></strong></h3><p class=3D"m_48137760175=
+51653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-=
+word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br><=
+/p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"b=
+ackground-color:transparent">Every new account created from 1 July follows =
+the standard pricing model shared earlier and defaults to system-defined ra=
+tes rather than a blank or ad-hoc setup. Custom rates can still be configur=
+ed on top where they&#39;ve been negotiated, but the starting point is now =
+consistent across every account.</span></span></p><p class=3D"m_48137760175=
+51653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-=
+word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><br><=
+/p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;p=
+adding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-spac=
+ing:0px;direction:ltr"><span style=3D"color:rgb(142,142,142)"><span style=
+=3D"background-color:transparent">A consistent default removes the guesswor=
+k in pricing a brand-new account, so every accounts starts from the same kn=
+own baseline before any negotiated rates are layered on.</span></span></p><=
+/div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td =
+valign=3D"top" id=3D"m_4813776017551653651b163" style=3D"word-break:break-w=
+ord;background-color:transparent;border:0px;border-radius:0px"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" heig=
+ht=3D"20" style=3D"word-break:break-word"></td></tr></tbody></table></td></=
+tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_481377=
+6017551653651b176" style=3D"word-break:break-word;background-color:transpar=
+ent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collaps=
+e:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-break=
+:break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=
+=3D"m_4813776017551653651b177" style=3D"word-break:break-word;background-co=
+lor:transparent;border:0px;border-radius:0px"><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bo=
+rder-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=
+=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" id=3D"m_4813776017551653651gutterContainerId-178" style=3D"word-=
+break:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4=
+813776017551653651b178" style=3D"word-break:break-word;padding:0px;border-w=
+idth:1px;border-style:solid;border-color:rgb(232,232,232);border-radius:0px=
+"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" id=3D"m_4813776017551653651section_d5f=
+fb18cdeb46f45b7b0de49d5923a57" style=3D"border-collapse:collapse"><tbody><t=
+r><td valign=3D"top" style=3D"word-break:break-word;background-position:cen=
+ter center;background-repeat:no-repeat;background-size:cover"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" class=
+=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId-=
+-21" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+align=3D"center" id=3D"m_4813776017551653651b-11" style=3D"word-break:break=
+-word;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-=
+break:break-word;background-position:center center;background-repeat:no-rep=
+eat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" class=3D"m_4813776017551653651mceColumn"=
+ id=3D"m_4813776017551653651mceColumnId--28" colspan=3D"12" width=3D"100%" =
+style=3D"word-break:break-word"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:=
+collapse"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651b184" st=
+yle=3D"word-break:break-word;border:0px;border-radius:0px"><table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"center" class=3D"m_4=
+813776017551653651mceColumn" id=3D"m_4813776017551653651mceColumnId-183" co=
+lspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px;=
+padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><t=
+body><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterContainerId-17=
+9" style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr=
+><td valign=3D"top" id=3D"m_4813776017551653651b179" style=3D"word-break:br=
+eak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" st=
+yle=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><t=
+r><td class=3D"m_4813776017551653651mceTextBlockContainer" style=3D"word-br=
+eak:break-word;padding:0px 24px 8px 16px"><div class=3D"m_48137760175516536=
+51mceText" id=3D"m_4813776017551653651d179" style=3D"font-family:&quot;Helv=
+etica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:=
+615.01px"><h3 class=3D"m_4813776017551653651mcePastedContent" id=3D"m_48137=
+76017551653651What=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding=
+:0px;font-size:20px;line-height:1.5;direction:ltr;white-space:pre-wrap"><sp=
+an style=3D"color:rgb(100,15,228)"><span style=3D"font-size:26px"><span sty=
+le=3D"font-weight:normal">Cash &amp; Wallet Automation</span></span></span>=
+</h3></div></td></tr></tbody></table></td></tr></tbody></table></td></tr><t=
+r><td valign=3D"top" id=3D"m_4813776017551653651b180" style=3D"word-break:b=
+reak-word;background-color:transparent;padding:12px 0px;border:0px;border-r=
+adius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%" role=3D"presentation" class=3D"m_481377601755165365=
+1mceDividerContainer" style=3D"border-collapse:collapse;background-color:tr=
+ansparent;width:658.75px"><tbody><tr><td valign=3D"top" class=3D"m_48137760=
+17551653651mceDividerBlock" style=3D"word-break:break-word;min-width:100%;b=
+order-top:2px solid rgb(232,232,232);line-height:0;font-size:0px">=C2=A0</t=
+d></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_48137760175=
+51653651gutterContainerId-181" style=3D"word-break:break-word;padding:0px">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651=
+b181" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0=
+px"><table width=3D"100%" style=3D"border:0px;background-color:transparent;=
+border-radius:0px"><tbody><tr><td class=3D"m_4813776017551653651mceTextBloc=
+kContainer" style=3D"word-break:break-word;padding:12px 24px 8px 16px"><div=
+ class=3D"m_4813776017551653651mceText" id=3D"m_4813776017551653651d181" st=
+yle=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-=
+serif;color:rgb(0,0,0);width:615.01px"><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;font-size:16px;line-height:0;text-align:center;letter-=
+spacing:0px;direction:ltr"><br></p><h2 class=3D"m_4813776017551653651mcePas=
+tedContent" style=3D"margin:0px;padding:0px;font-size:25px;line-height:1.5;=
+letter-spacing:0px;direction:ltr"><strong><span style=3D"color:rgb(28,26,46=
+)"><span style=3D"font-size:20px"><span style=3D"background-color:transpare=
+nt">Cash Handling And Cash Remittance Fees Now Deduct Automatically</span><=
+/span></span></strong></h2><p class=3D"m_4813776017551653651mcePastedConten=
+t" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><br></p><p class=3D"m_481377=
+6017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<span style=3D"color:rgb(71,71,71)"><span style=3D"background-color:transpa=
+rent">Cash Handling Fee (for offline and online COD collection) and Cash Re=
+mittance Fee (for cash a rider or admin remits to Pidge via UPI) now deduct=
+ directly from the relevant wallet.</span></span></p><p class=3D"m_48137760=
+17551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><b=
+r></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0p=
+x;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-s=
+pacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=
+=3D"background-color:transparent">The business&#39;s wallet for handling fe=
+es, and the remitting party&#39;s wallet for remittance fees, instead of go=
+ing through a manual finance process.</span></span></p><p class=3D"m_481377=
+6017551653651mcePastedContent" style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<br></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:=
+0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter=
+-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=
+=3D"background-color:transparent">Each fee can be configured as a flat amou=
+nt, a percentage, or both, with the higher of the two applied.</span></span=
+></p><p class=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px=
+;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;letter-sp=
+acing:0px;direction:ltr"><br></p><p class=3D"m_4813776017551653651mcePasted=
+Content" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:r=
+gb(71,71,71)"><span style=3D"background-color:transparent">Two new reports,=
+ the Cash Handling Fee Report and the Cash Remittance Fee Report, will be a=
+vailable under Wallet to track every deduction.</span></span></p><p class=
+=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;dir=
+ection:ltr"><br></p><p class=3D"m_4813776017551653651mcePastedContent" styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heigh=
+t:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(142,142,14=
+2)"><span style=3D"background-color:transparent">COD cash handling already =
+shows up as ledger entries the moment it happens, automating the fee agains=
+t that same event removes the lag and manual effort of finance applying it =
+after the fact, and makes every deduction auditable.</span></span></p><p cl=
+ass=3D"m_4813776017551653651mcePastedContent" style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><br></p></div></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651b182" sty=
+le=3D"word-break:break-word;background-color:transparent;border:0px;border-=
+radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></=
+tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td val=
+ign=3D"top" id=3D"m_4813776017551653651b185" style=3D"word-break:break-word=
+;background-color:transparent;border:0px;border-radius:0px"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" heigh=
+t=3D"20" style=3D"word-break:break-word"></td></tr></tbody></table></td></t=
+r><tr><td valign=3D"top" id=3D"m_4813776017551653651b186" style=3D"word-bre=
+ak:break-word;background-color:transparent;border:0px;border-radius:0px"><b=
+r></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651b29" style=3D=
+"word-break:break-word;background-color:transparent;border:0px;border-radiu=
+s:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td =
+valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr></tb=
+ody></table></td></tr><tr><td valign=3D"top" align=3D"center" id=3D"m_48137=
+76017551653651b42" style=3D"word-break:break-word;padding:0px;border:0px;bo=
+rder-radius:0px"><div></div><table align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"mar=
+gin:0px;vertical-align:top;max-width:100%;width:660px;height:auto"><tbody><=
+tr><td valign=3D"top" style=3D"word-break:break-word;border:0px;border-radi=
+us:0px"><img alt=3D"image placeholder" src=3D"https://mcusercontent.com/224=
+f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" wid=
+th=3D"660" height=3D"auto" class=3D"m_4813776017551653651mceImage gmail-CTo=
+WUd" style=3D"border: 0px; height: auto; outline: none; display: block; max=
+-width: 100%; border-radius: 0px;"></td></tr></tbody></table><div></div><di=
+v></div></td></tr><tr><td valign=3D"top" id=3D"m_4813776017551653651b11" st=
+yle=3D"word-break:break-word;padding:8px;border:0px;border-radius:0px"><tab=
+le align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" id=3D"m_4813776017551653651section_1d9de00e=
+b1859f1d2df092f82404c07a" class=3D"m_4813776017551653651mceFooterSection" s=
+tyle=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"wo=
+rd-break:break-word;background-position:center center;background-repeat:no-=
+repeat;background-size:cover;padding-top:0px;padding-bottom:0px"><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"12" width=3D"100%" role=3D"prese=
+ntation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" c=
+lass=3D"m_4813776017551653651mceColumn" id=3D"m_4813776017551653651mceColum=
+nId--3" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;paddin=
+g-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:co=
+llapse"><tbody><tr><td valign=3D"top" id=3D"m_4813776017551653651gutterCont=
+ainerId-9" style=3D"word-break:break-word;padding:0px"><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><t=
+body><tr><td valign=3D"top" align=3D"center" id=3D"m_4813776017551653651b9"=
+ style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><=
+table width=3D"100%" style=3D"border:0px;background-color:transparent;borde=
+r-radius:0px"><tbody><tr><td class=3D"m_4813776017551653651mceTextBlockCont=
+ainer" style=3D"word-break:break-word;padding:12px 16px"><div class=3D"m_48=
+13776017551653651mceText" id=3D"m_4813776017551653651d9" style=3D"font-fami=
+ly:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(=
+0,0,0);display:inline-block;width:608.262px"><p style=3D"margin:0px;padding=
+:0px;word-break:break-word;font-size:16px;line-height:1.5;text-align:center=
+;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><spa=
+n style=3D"font-size:11px">M3M Urbana Business Park, Sector 67</span></span=
+></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16p=
+x;line-height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><span=
+ style=3D"color:rgb(71,71,71)"><span style=3D"font-size:11px">Gurugram , Ha=
+ryana (122101)<br><br></span></span><a href=3D"https://us17.mailchimp.com/m=
+ctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&amp;xid=3Dd178f761e9&amp;uid=3D2=
+48089116&amp;iid=3Dfe659c0d70&amp;pool=3Dcts&amp;v=3D2&amp;c=3D1781787013&a=
+mp;h=3D366beeebf4183e89fad75de7d4ed4eced8593ed8509ad93fdf3915e0ff330eff" ta=
+rget=3D"_blank" style=3D"color:rgb(153,153,153);word-break:break-word;direc=
+tion:ltr"><span style=3D"font-size:11px">VISIT WEBSITE</span></a></p></div>=
+</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody=
+></table></td></tr></tbody></table></div>
+
+--0000000000006b8a9b06548a9806--

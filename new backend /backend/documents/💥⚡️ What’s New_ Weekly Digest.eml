@@ -1,0 +1,803 @@
+MIME-Version: 1.0
+Date: Mon, 1 Jun 2026 18:22:38 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, Network Ops <netops@pidge.in>, 
+	BD Rockstars <bdrockstars@r-indventures.com>, 
+	Customer Success <customersuccess@r-indventures.com>, Pulkit Sethi <pulkit.sethi@pidge.in>, 
+	Radhika Sharma <radhika.sharma@pidge.in>, Pidge Tech <pidge.tech@pidge.in>
+Message-ID: <CAFuJ3p7-9G7Wzwp6urX7ikBoV8i1brMwtwpSFOX=-j4HTRH5rQ@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IFdlZWtseSBEaWdlc3Q=?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="00000000000067a8f2065330abdb"
+
+--00000000000067a8f2065330abdb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+
+*Weekly Digest*
+
+
+This week's updates focus on operational resilience and user experience
+improvements across rider, customer, and order management workflows. We've
+added safeguards to prevent critical state inconsistencies, enhanced
+visibility of key order information across touchpoints, and optimized our
+allocation engine to reduce friction. These changes collectively improve
+order lifecycle integrity, reduce manual interventions, and create a more
+seamless experience for riders and customers alike.
+What=E2=80=99s New
+
+
+
+Rider Logout Restriction During Active Tasks
+
+A validation has been introduced to prevent riders from being logged out
+while they are actively engaged in a task.
+
+
+Behaviour
+
+When a user attempts to log out a rider who is currently assigned to an
+active task, the system will block the action and display an error popup
+informing the user that the rider cannot be logged out until the active
+task is completed.
+
+
+Benefit
+
+   -
+
+   Prevents accidental rider logout during ongoing deliveries
+   -
+
+   Maintains task continuity and operational visibility
+   -
+
+   Reduces disruption to active order fulfillment
+
+
+
+COD Order State Protection After Payment Collection
+
+Additional safeguards have been implemented for Cash on Delivery (COD)
+orders once the COD amount has been marked as collected.
+
+
+Previous Behaviour
+
+Orders with COD already collected could still be marked as *Failed* or
+*Undelivered*, creating inconsistencies between payment collection and
+delivery status.
+
+
+Updated Behaviour
+
+Once the COD status is marked as *Collected*:
+
+   -
+
+   Orders can no longer be marked as *Failed* or *Undelivered*
+   -
+
+   Failure and undelivered actions are restricted for both admin and rider
+   workflows where applicable
+   -
+
+   The order state is protected from invalid status transitions
+   -
+
+   Only valid terminal delivery outcomes are allowed
+
+
+Benefit
+
+   -
+
+   Prevents financial reconciliation mismatches
+   -
+
+   Ensures consistency between payment and delivery status
+   -
+
+   Reduces risk of COD-related accounting errors
+   -
+
+   Minimizes manual operational corrections and investigations
+   -
+
+   Improves overall order lifecycle integrity
+
+
+
+Amazon Self-Ship ID Visibility
+
+The AmazonSelfShip ID was previously visible only during the *Shipped* and =
+*AWB
+Manifested* stages. Once an order was completed, users could no longer
+access this information from the order details, often requiring support
+intervention to retrieve it.
+
+
+
+The *AmazonSelfShip ID* will now be displayed within the *Order Details
+modal* for Completed orders under the *Channel* section.
+
+
+Benefit
+
+   -
+
+   Provides consistent visibility of AmazonSelfShip ID across all relevant
+   order states.
+   -
+
+   Eliminates dependency on support teams for ID retrieval after order
+   completion.
+   -
+
+   Improves operational efficiency and auditability.
+   -
+
+   Creates a unified experience across Shipped, AWB Manifested, and
+   Completed order views.
+
+
+Ref ID Replaces PBID in SMS Communications
+
+To make order references more meaningful and easier to track, SMS
+notifications will now display the Reference ID (Ref ID) instead of the
+PBID.
+
+
+Key Updates
+
+   -
+
+   Replaced PBID with Ref ID in customer SMS communications.
+   -
+
+   Users can now identify and reference their orders using a more familiar
+   order identifier.
+   -
+
+   Improves consistency between customer-facing communications and
+   operational workflows.
+
+
+
+Enhanced Package Code Visibility in Rider App
+
+The Rider App experience has been enhanced to provide riders with clearer
+and more accessible package identification details during order handling
+and delivery operations.
+
+
+
+
+Key Updates
+
+   -
+
+   Package-related information is now presented in a more structured and
+   readable format within the package details view.
+   -
+
+   Key order identifiers are surfaced alongside package information, making
+   it easier for riders to validate and identify packages during pickups an=
+d
+   deliveries.
+   -
+
+   Reduced dependency on multiple order references to verify packages.
+
+
+
+Ignore Allocation to Blacklisted Riders
+
+
+The system now supports excluding blacklisted riders from allocation.
+Earlier, the riders received the orders and then led to cancellations. This
+was confusing and led to improper behaviour for riders.
+
+
+
+Now the system ensures that the order is only sent to riders who are
+eligible for executing the orders leading to no confusion and proper
+allocation.
+
+
+What=E2=80=99s Next
+
+Something exciting is coming soon - Stay tuned !!
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE <https://pidge.in/>
+
+--00000000000067a8f2065330abdb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_-8498923829892955917m_5765967288934150349ro=
+ot" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"=
+top" align=3D"center" style=3D"word-break:break-word;background-color:trans=
+parent"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse;max-width:660px=
+"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word"><table alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td v=
+align=3D"top" style=3D"word-break:break-word;background-position:center cen=
+ter;background-repeat:no-repeat;background-size:cover"><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" st=
+yle=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-849=
+8923829892955917m_5765967288934150349mceColumnId--6" colspan=3D"12" width=
+=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ro=
+le=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valig=
+n=3D"top" align=3D"center" id=3D"m_-8498923829892955917m_576596728893415034=
+9b38" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0=
+px"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;verti=
+cal-align:top;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img =
+alt=3D"image placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12=
+c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" he=
+ight=3D"auto" class=3D"gmail-CToWUd" style=3D"border: 0px; height: auto; ou=
+tline: none; display: block; max-width: 100%; border-radius: 0px;"></td></t=
+r></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" al=
+ign=3D"center" id=3D"m_-8498923829892955917m_5765967288934150349b39" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><div></=
+div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:t=
+op;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" st=
+yle=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=3D"imag=
+e placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/i=
+mages/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png" width=3D"660" height=3D"aut=
+o" class=3D"gmail-CToWUd gmail-a6T" tabindex=3D"0" style=3D"cursor: pointer=
+; outline: none; border: 0px; height: auto; display: block; max-width: 100%=
+; border-radius: 0px;"></td></tr></tbody></table><div></div><div></div></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody><tbody><tr><td valign=3D"top" al=
+ign=3D"center" style=3D"word-break:break-word;background-color:transparent"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse;max-width:660px"><tbod=
+y><tr><td valign=3D"top" style=3D"word-break:break-word"><table align=3D"ce=
+nter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-849892=
+3829892955917m_5765967288934150349mceColumnId--7" colspan=3D"12" width=3D"1=
+00%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"=
+top" id=3D"m_-8498923829892955917m_5765967288934150349gutterContainerId-33"=
+ style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><=
+td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349b33" sty=
+le=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><tabl=
+e width=3D"100%" style=3D"border:0px;background-color:transparent;border-ra=
+dius:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px 16px">=
+<div id=3D"m_-8498923829892955917m_5765967288934150349d33" style=3D"font-fa=
+mily:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rg=
+b(0,0,0);width:624.258px"><p style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><s=
+trong><span style=3D"font-size:26px">Weekly Digest</span></strong></p><p st=
+yle=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-hei=
+ght:0;letter-spacing:0px;direction:ltr"><br></p><p style=3D"margin:0.75rem =
+0px 0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;di=
+rection:ltr;white-space:pre-wrap">This week&#39;s updates focus on operatio=
+nal resilience and user experience improvements across rider, customer, and=
+ order management workflows. We&#39;ve added safeguards to prevent critical=
+ state inconsistencies, enhanced visibility of key order information across=
+ touchpoints, and optimized our allocation engine to reduce friction. These=
+ changes collectively improve order lifecycle integrity, reduce manual inte=
+rventions, and create a more seamless experience for riders and customers a=
+like.</p></div></td></tr></tbody></table></td></tr></tbody></table></td></t=
+r><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349b=
+41" style=3D"word-break:break-word;background-color:transparent;border:0px;=
+border-radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tb=
+ody><tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></=
+td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><tbo=
+dy><tr><td valign=3D"top" align=3D"center" style=3D"word-break:break-word;b=
+ackground-color:transparent"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:col=
+lapse;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:br=
+eak-word"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;backgroun=
+d-position:center center;background-repeat:no-repeat;background-size:cover"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349mceColumnId--8" c=
+olspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-top:0px=
+;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150=
+349gutterContainerId-141" style=3D"word-break:break-word"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+><tbody><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_57659672889341=
+50349b141" style=3D"word-break:break-word;padding:0px;border:0px;border-rad=
+ius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" id=3D"m_-8498923829892955917m_5=
+765967288934150349section_14803d9322543ce7b0cbe5d55cc0c0ad" style=3D"border=
+-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break=
+-word;background-position:center center;background-repeat:no-repeat;backgro=
+und-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody=
+><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349mc=
+eColumnId--9" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" align=3D"center" id=3D"m_-8498923829892955917m_5765967288934150349=
+b-5" style=3D"word-break:break-word;border:0px;border-radius:0px"><table al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" style=3D"word-break:break-word;background-position:center c=
+enter;background-repeat:no-repeat;background-size:cover"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" =
+style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-8=
+498923829892955917m_5765967288934150349mceColumnId--11" colspan=3D"12" widt=
+h=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-84989238298929=
+55917m_5765967288934150349b147" style=3D"word-break:break-word;border:0px;b=
+order-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collap=
+se:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;b=
+ackground-position:center center;background-repeat:no-repeat;background-siz=
+e:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"24" width=3D"=
+100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><=
+td valign=3D"center" id=3D"m_-8498923829892955917m_5765967288934150349mceCo=
+lumnId-146" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;pa=
+dding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collaps=
+e:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_576=
+5967288934150349gutterContainerId-142" style=3D"word-break:break-word;paddi=
+ng:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-8498923829=
+892955917m_5765967288934150349b142" style=3D"word-break:break-word;padding:=
+0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px=
+;background-color:transparent;border-radius:0px"><tbody><tr><td style=3D"wo=
+rd-break:break-word;padding:0px 24px 8px 16px"><div id=3D"m_-84989238298929=
+55917m_5765967288934150349d142" style=3D"font-family:&quot;Helvetica Neue&q=
+uot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h=
+3 id=3D"m_-8498923829892955917m_5765967288934150349What=E2=80=99s-New" styl=
+e=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;di=
+rection:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46)"><span=
+ style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian San=
+s&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;=
+,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What=E2=80=99s New</span></s=
+pan></span></h3></div></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934=
+150349gutterContainerId-143" style=3D"word-break:break-word;padding:0px"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-849892382989295591=
+7m_5765967288934150349b143" style=3D"word-break:break-word;padding:0px;bord=
+er:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;backgro=
+und-color:transparent;border-radius:0px"><tbody><tr><td style=3D"word-break=
+:break-word;padding:12px 24px 8px 16px"><div id=3D"m_-8498923829892955917m_=
+5765967288934150349d143" style=3D"font-family:&quot;Helvetica Neue&quot;,He=
+lvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:0;text-align:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"=
+margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;t=
+ext-align:center;letter-spacing:0px;direction:ltr"><br></p><p style=3D"marg=
+in:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;dir=
+ection:ltr"><span style=3D"color:rgb(100,15,228)"><span style=3D"font-size:=
+18px">Rider Logout Restriction During Active Tasks</span></span><span style=
+=3D"color:rgb(71,71,71)"><br></span></p><p style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><span s=
+tyle=3D"color:rgb(71,71,71)">A validation has been introduced to prevent ri=
+ders from being logged out while they are actively engaged in a task.</span=
+></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16p=
+x;line-height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><br><=
+/p><h3 style=3D"margin:0px;padding:0px;font-size:20px;line-height:1.5;direc=
+tion:ltr;text-decoration-style:solid"><span style=3D"color:rgb(71,71,71)"><=
+span style=3D"font-size:16px">Behaviour</span></span></h3><p style=3D"margi=
+n:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;dire=
+ction:ltr;text-decoration-style:solid"><span style=3D"color:rgb(71,71,71)">=
+When a user attempts to log out a rider who is currently assigned to an act=
+ive task, the system will block the action and display an error popup infor=
+ming the user that the rider cannot be logged out until the active task is =
+completed.</span></p><p style=3D"margin:0px;padding:0px;word-break:break-wo=
+rd;font-size:16px;line-height:1.5;text-align:center;letter-spacing:0px;dire=
+ction:ltr"><br></p><h3 style=3D"margin:0px;padding:0px;font-size:20px;line-=
+height:1.5;direction:ltr;text-decoration-style:solid"><span style=3D"color:=
+rgb(71,71,71)"><span style=3D"font-size:16px">Benefit</span></span></h3><ul=
+ style=3D"margin-bottom:0px;text-decoration-style:solid;color:rgb(255,255,2=
+55)"><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:=
+0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-=
+height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71=
+,71)">Prevents accidental rider logout during ongoing deliveries</span></p>=
+</li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:=
+0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-=
+height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71=
+,71)">Maintains task continuity and operational visibility</span></p></li><=
+li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">=
+Reduces disruption to active order fulfillment</span></p></li></ul></div></=
+td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349b145" style=3D"wo=
+rd-break:break-word;background-color:transparent;border:0px;border-radius:0=
+px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td val=
+ign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr></tbody=
+></table></td></tr><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_576=
+5967288934150349gutterContainerId-157" style=3D"word-break:break-word;paddi=
+ng:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-8498923829=
+892955917m_5765967288934150349b157" style=3D"word-break:break-word;padding:=
+0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px=
+;background-color:transparent;border-radius:0px"><tbody><tr><td style=3D"wo=
+rd-break:break-word;padding:12px 24px 8px 16px"><div id=3D"m_-8498923829892=
+955917m_5765967288934150349d157" style=3D"font-family:&quot;Helvetica Neue&=
+quot;,Helvetica,Arial,Verdana,sans-serif;width:616.26px"><p style=3D"color:=
+rgb(0,0,0);margin:0px;padding:0px;word-break:break-word;font-size:16px;line=
+-height:0;text-align:center;letter-spacing:0px;direction:ltr"><br></p><p st=
+yle=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-break:break-word;font-s=
+ize:16px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr">=
+<br></p><p style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:r=
+gb(100,15,228)"><span style=3D"font-size:18px">COD Order State Protection A=
+fter Payment Collection</span></span><span style=3D"color:rgb(71,71,71)"><b=
+r></span></p><p style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-break=
+:break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"co=
+lor:rgb(71,71,71)">Additional safeguards have been implemented for Cash on =
+Delivery (COD) orders once the COD amount has been marked as collected.</sp=
+an></p><p style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;text-align:center;letter-spacing:0px;d=
+irection:ltr"><br></p><h3 style=3D"color:rgb(0,0,0);margin:0px;padding:0px;=
+font-size:20px;line-height:1.5;direction:ltr;text-decoration-style:solid"><=
+span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:16px">Previous =
+Behaviour</span></span></h3><p style=3D"color:rgb(0,0,0);margin:0px;padding=
+:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr;tex=
+t-decoration-style:solid"><span style=3D"color:rgb(71,71,71)">Orders with C=
+OD already collected could still be marked as=C2=A0</span><strong><span sty=
+le=3D"color:rgb(71,71,71)">Failed</span></strong><span style=3D"color:rgb(7=
+1,71,71)">=C2=A0or=C2=A0</span><strong><span style=3D"color:rgb(71,71,71)">=
+Undelivered</span></strong><span style=3D"color:rgb(71,71,71)">, creating i=
+nconsistencies between payment collection and delivery status.</span></p><p=
+ style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-break:break-word;fon=
+t-size:16px;line-height:1.5;text-align:center;letter-spacing:0px;direction:=
+ltr"><br></p><h3 style=3D"color:rgb(0,0,0);margin:0px;padding:0px;font-size=
+:20px;line-height:1.5;direction:ltr;text-decoration-style:solid"><span styl=
+e=3D"color:rgb(71,71,71)"><span style=3D"font-size:16px">Updated Behaviour<=
+/span></span></h3><p style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word-=
+break:break-word;font-size:16px;line-height:1.5;direction:ltr;text-decorati=
+on-style:solid"><span style=3D"color:rgb(71,71,71)">Once the COD status is =
+marked as=C2=A0</span><strong><span style=3D"color:rgb(71,71,71)">Collected=
+</span></strong><span style=3D"color:rgb(71,71,71)">:</span></p><ul style=
+=3D"color:rgb(255,255,255);margin-bottom:0px;text-decoration-style:solid"><=
+li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">=
+Orders can no longer be marked as=C2=A0</span><strong><span style=3D"color:=
+rgb(71,71,71)">Failed</span></strong><span style=3D"color:rgb(71,71,71)">=
+=C2=A0or=C2=A0</span><strong><span style=3D"color:rgb(71,71,71)">Undelivere=
+d</span></strong></p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)=
+"><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0)=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span sty=
+le=3D"color:rgb(71,71,71)">Failure and undelivered actions are restricted f=
+or both admin and rider workflows where applicable</span></p></li><li style=
+=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0p=
+x;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;let=
+ter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">The orde=
+r state is protected from invalid status transitions</span></p></li><li sty=
+le=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;l=
+etter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Only v=
+alid terminal delivery outcomes are allowed</span></p></li></ul><p style=3D=
+"color:rgb(0,0,0);margin:0px;padding:0px;word-break:break-word;font-size:16=
+px;line-height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><br>=
+</p><h3 style=3D"color:rgb(0,0,0);margin:0px;padding:0px;font-size:20px;lin=
+e-height:1.5;direction:ltr;text-decoration-style:solid"><span style=3D"colo=
+r:rgb(71,71,71)"><span style=3D"font-size:16px">Benefit</span></span></h3><=
+ul style=3D"color:rgb(255,255,255);margin-bottom:0px;text-decoration-style:=
+solid"><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margi=
+n:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,=
+71,71)">Prevents financial reconciliation mismatches</span></p></li><li sty=
+le=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;l=
+etter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Ensure=
+s consistency between payment and delivery status</span></p></li><li style=
+=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0p=
+x;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;let=
+ter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Reduces =
+risk of COD-related accounting errors</span></p></li><li style=3D"margin-le=
+ft:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break:=
+break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0=
+px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Minimizes manual oper=
+ational corrections and investigations</span></p></li><li style=3D"margin-l=
+eft:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break=
+:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:=
+0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Improves overall ord=
+er lifecycle integrity</span></p></li></ul><div><font color=3D"#474747"><sp=
+an style=3D"font-size:16px"><br></span></font></div><div><font color=3D"#47=
+4747"><span style=3D"font-size:16px"><br></span></font></div><div><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size=
+:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(100,15,228)">=
+<span style=3D"font-size:18px">Amazon Self-Ship ID Visibility</span></span>=
+<span style=3D"color:rgb(71,71,71)"><br></span></p><p style=3D"margin:0px;p=
+adding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-heigh=
+t:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"fon=
+t-size:medium">The AmazonSelfShip ID was previously visible only during the=
+=C2=A0</span></span><strong><span style=3D"color:rgb(71,71,71)">Shipped</sp=
+an></strong><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:me=
+dium">=C2=A0and=C2=A0</span></span><strong><span style=3D"color:rgb(71,71,7=
+1)">AWB Manifested</span></strong><span style=3D"color:rgb(71,71,71)"><span=
+ style=3D"font-size:medium">=C2=A0stages. Once an order was completed, user=
+s could no longer access this information from the order details, often req=
+uiring support intervention to retrieve it.</span></span></p><p style=3D"ma=
+rgin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;=
+line-height:1.5;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;w=
+ord-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:0;text-ali=
+gn:center;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;direction:lt=
+r"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:medium">The=
+=C2=A0</span></span><strong><span style=3D"color:rgb(71,71,71)">AmazonSelfS=
+hip ID</span></strong><span style=3D"color:rgb(71,71,71)"><span style=3D"fo=
+nt-size:medium">=C2=A0will now be displayed within the=C2=A0</span></span><=
+strong><span style=3D"color:rgb(71,71,71)">Order Details modal</span></stro=
+ng><span style=3D"color:rgb(71,71,71)"><span style=3D"font-size:medium">=C2=
+=A0for Completed orders under the=C2=A0</span></span><strong><span style=3D=
+"color:rgb(71,71,71)">Channel</span></strong><span style=3D"color:rgb(71,71=
+,71)"><span style=3D"font-size:medium">=C2=A0section.</span></span></p><p s=
+tyle=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-=
+size:16px;line-height:1.5;text-align:center;direction:ltr"><br></p><h3 styl=
+e=3D"margin:0px;padding:0px;color:rgb(0,0,0);font-size:20px;line-height:1.5=
+;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-siz=
+e:16px">Benefit</span></span></h3><ul style=3D"margin-bottom:0px;color:rgb(=
+255,255,255)"><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size=
+:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"colo=
+r:rgb(71,71,71)">Provides consistent visibility of AmazonSelfShip ID across=
+ all relevant order states.</span></p></li><li style=3D"margin-left:15px;co=
+lor:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break:break-word=
+;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;directi=
+on:ltr"><span style=3D"color:rgb(71,71,71)">Eliminates dependency on suppor=
+t teams for ID retrieval after order completion.</span></p></li><li style=
+=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0p=
+x;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;let=
+ter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Improves=
+ operational efficiency and auditability.</span></p></li><li style=3D"margi=
+n-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spaci=
+ng:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Creates a unified=
+ experience across Shipped, AWB Manifested, and Completed order views.</spa=
+n></p></li></ul><div><font color=3D"#474747"><span style=3D"font-size:16px"=
+><br></span></font></div><div><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:co=
+llapse;font-family:Arial,Helvetica,sans-serif"><tbody><tr><td valign=3D"top=
+" id=3D"m_-8498923829892955917m_-7361667768540642243gutterContainerId-143" =
+style=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><t=
+d valign=3D"top" id=3D"m_-8498923829892955917m_-7361667768540642243b143" st=
+yle=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><tab=
+le width=3D"100%" style=3D"border:0px;background-color:transparent;border-r=
+adius:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px 24px =
+8px 16px"><div id=3D"m_-8498923829892955917m_-7361667768540642243d143" styl=
+e=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-se=
+rif;color:rgb(0,0,0);width:616.26px"><p style=3D"margin:0px;padding:0px;wor=
+d-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><span styl=
+e=3D"color:rgb(100,15,228)"><span style=3D"font-size:18px">Ref ID Replaces =
+PBID in SMS=C2=A0</span></span><span style=3D"color:rgb(100,15,228)"><span =
+style=3D"font-size:18px">Communication</span></span><span style=3D"color:rg=
+b(255,255,255)"><span style=3D"color:rgb(100,15,228)"><span style=3D"font-s=
+ize:18px">s</span></span></span><span style=3D"color:rgb(71,71,71)"><br></s=
+pan></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:=
+16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">To =
+make order references more meaningful and easier to track, SMS notification=
+s will now display the Reference ID (Ref ID) instead of the PBID.</span></p=
+><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;li=
+ne-height:1.5;text-align:center;letter-spacing:0px;direction:ltr"><br></p><=
+h4 style=3D"margin:0px;padding:0px;font-size:16px;line-height:1.5;direction=
+:ltr;text-decoration-style:solid"><span style=3D"color:rgb(71,71,71)">Key U=
+pdates</span></h4><ul style=3D"margin-bottom:0px;text-decoration-style:soli=
+d;color:rgb(255,255,255)"><li style=3D"margin-left:15px;color:rgb(71,71,71)=
+"><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0)=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span sty=
+le=3D"color:rgb(71,71,71)">Replaced PBID with Ref ID in customer SMS commun=
+ications.</span></p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"=
+><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);=
+font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span styl=
+e=3D"color:rgb(71,71,71)">Users can now identify and reference their orders=
+ using a more familiar order identifier.</span></p></li><li style=3D"margin=
+-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-bre=
+ak:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacin=
+g:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Improves consisten=
+cy between customer-facing communications and operational workflows.</span>=
+</p></li></ul></div></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_-73616677685406=
+42243b145" style=3D"word-break:break-word;background-color:transparent;bord=
+er:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-w=
+ord"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-84=
+98923829892955917m_-7361667768540642243gutterContainerId-157" style=3D"word=
+-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"t=
+op" id=3D"m_-8498923829892955917m_-7361667768540642243b157" style=3D"word-b=
+reak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"1=
+00%" style=3D"border:0px;background-color:transparent;border-radius:0px"><t=
+body><tr><td style=3D"word-break:break-word;padding:12px 24px 8px 16px"><di=
+v id=3D"m_-8498923829892955917m_-7361667768540642243d157" style=3D"font-fam=
+ily:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb=
+(0,0,0);width:616.26px"><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;dir=
+ection:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-wor=
+d;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;directi=
+on:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(100,15=
+,228)"><span style=3D"font-size:18px">Enhanced Package Code Visibility in R=
+ider App</span></span><span style=3D"color:rgb(71,71,71)"><br></span></p><p=
+ style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-=
+height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=
+=3D"font-size:medium">The Rider App experience has been enhanced to provide=
+ riders with clearer and more accessible package identification details dur=
+ing order handling and delivery operations.</span></span></p></div></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top=
+" align=3D"center" id=3D"m_-8498923829892955917m_-7361667768540642243b158" =
+style=3D"word-break:break-word;background-color:transparent;padding:12px 16=
+px;border:0px;border-radius:0px"><div></div><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"53%" role=3D"presentati=
+on" style=3D"margin:0px;vertical-align:top;max-width:53%;width:332.842px;he=
+ight:auto"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;bor=
+der:0px;border-radius:0px"><img alt=3D"" src=3D"https://mcusercontent.com/f=
+54e0edc5d9dce9d8cd226873/images/97c08521-9189-7849-a013-61036b1d21b7.png" w=
+idth=3D"332.84000000000003" height=3D"auto" class=3D"gmail-CToWUd gmail-a6T=
+" tabindex=3D"0" style=3D"cursor: pointer; outline: none; border: 0px; heig=
+ht: auto; display: block; max-width: 100%; border-radius: 0px;"></td></tr><=
+/tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" id=3D=
+"m_-8498923829892955917m_-7361667768540642243gutterContainerId-159" style=
+=3D"word-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td val=
+ign=3D"top" id=3D"m_-8498923829892955917m_-7361667768540642243b159" style=
+=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><table =
+width=3D"100%" style=3D"border:0px;background-color:transparent;border-radi=
+us:0px"><tbody><tr><td style=3D"word-break:break-word;padding:12px 24px 8px=
+ 16px"><div id=3D"m_-8498923829892955917m_-7361667768540642243d159" style=
+=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-ser=
+if;width:616.26px"><p style=3D"color:rgb(0,0,0);margin:0px;padding:0px;word=
+-break:break-word;font-size:16px;line-height:0;text-align:center;letter-spa=
+cing:0px;direction:ltr"><br></p><p style=3D"color:rgb(0,0,0);margin:0px;pad=
+ding:0px;word-break:break-word;font-size:16px;line-height:0;text-align:cent=
+er;letter-spacing:0px;direction:ltr"><br></p><p style=3D"color:rgb(0,0,0);m=
+argin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:0;te=
+xt-align:center;letter-spacing:0px;direction:ltr"><br></p><h4 style=3D"colo=
+r:rgb(0,0,0);margin:0px;padding:0px;font-size:16px;line-height:1.5;directio=
+n:ltr;text-decoration-style:solid"><span style=3D"color:rgb(71,71,71)">Key =
+Updates</span></h4><ul style=3D"color:rgb(255,255,255);margin-bottom:0px;te=
+xt-decoration-style:solid"><li style=3D"margin-left:15px;color:rgb(71,71,71=
+)"><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0=
+);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span st=
+yle=3D"color:rgb(71,71,71)">Package-related information is now presented in=
+ a more structured and readable format within the package details view.</sp=
+an></p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"=
+margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16p=
+x;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rg=
+b(71,71,71)">Key order identifiers are surfaced alongside package informati=
+on, making it easier for riders to validate and identify packages during pi=
+ckups and deliveries.</span></p></li><li style=3D"margin-left:15px;line-hei=
+ght:0;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px=
+;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-siz=
+e:medium">Reduced dependency on multiple order references to verify package=
+s.</span></span></p></li></ul><div><font color=3D"#474747" size=3D"3"><br><=
+/font></div><div><p style=3D"margin:0px;padding:0px;word-break:break-word;c=
+olor:rgb(0,0,0);font-size:16px;line-height:1.5;direction:ltr"><span style=
+=3D"color:rgb(50,10,164)"><span style=3D"font-size:18px"><br></span></span>=
+</p><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,=
+0);font-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(5=
+0,10,164)"><span style=3D"font-size:18px">Ignore Allocation to Blacklisted =
+Riders</span></span></p><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;direction:ltr"><br></=
+p><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0)=
+;font-size:16px;line-height:1.5;direction:ltr">The system now supports excl=
+uding blacklisted riders from allocation. Earlier, the riders received the =
+orders and then led to cancellations. This was confusing and led to imprope=
+r behaviour for riders.</p><p style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;direction:ltr"><br=
+></p><p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0=
+,0);font-size:16px;line-height:0;text-align:center;direction:ltr"><br></p><=
+p style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);fo=
+nt-size:16px;line-height:1.5;direction:ltr">Now the system ensures that the=
+ order is only sent to riders who are eligible for executing the orders lea=
+ding to no confusion and proper allocation.</p></div></div></td></tr></tbod=
+y></table></td></tr></tbody></table></td></tr></tbody></table></div></div><=
+/div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-8498923829892955=
+917m_5765967288934150349gutterContainerId-154" style=3D"word-break:break-wo=
+rd;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-84=
+98923829892955917m_5765967288934150349b154" style=3D"word-break:break-word;=
+padding:0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"bo=
+rder:0px;background-color:transparent;border-radius:0px"><tbody><tr><td sty=
+le=3D"word-break:break-word;padding:12px 24px 8px 16px"><div id=3D"m_-84989=
+23829892955917m_5765967288934150349d154" style=3D"font-family:&quot;Helveti=
+ca Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616=
+.26px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:1=
+6px;line-height:0;text-align:center;letter-spacing:0px;direction:ltr"><br><=
+/p><h3 id=3D"m_-8498923829892955917m_5765967288934150349Why-We-Built-This" =
+style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.=
+5;direction:ltr;white-space:pre-wrap"><span style=3D"color:rgb(41,42,46)"><=
+span style=3D"font-size:23px">What=E2=80=99s Next</span></span></h3><p styl=
+e=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:16p=
+x;line-height:1.5;direction:ltr;white-space:pre-wrap"><span style=3D"color:=
+rgb(71,71,71)">Something exciting is coming soon - Stay tuned !!</span></p>=
+</div></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td=
+ valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349b28" style=
+=3D"word-break:break-word;background-color:transparent;border:0px;border-ra=
+dius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><=
+td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr><=
+/tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-849892382989295591=
+7m_5765967288934150349b29" style=3D"word-break:break-word;background-color:=
+transparent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"=
+word-break:break-word"></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" align=3D"center" id=3D"m_-8498923829892955917m_5765967288934150349=
+b42" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0p=
+x"><div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertic=
+al-align:top;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img =
+alt=3D"image placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12=
+c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" he=
+ight=3D"auto" class=3D"gmail-CToWUd" style=3D"border: 0px; height: auto; ou=
+tline: none; display: block; max-width: 100%; border-radius: 0px;"></td></t=
+r></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" id=
+=3D"m_-8498923829892955917m_5765967288934150349b11" style=3D"word-break:bre=
+ak-word;padding:8px;border:0px;border-radius:0px"><table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation" id=3D"m_-8498923829892955917m_5765967288934150349section_0a814efd=
+e818f826a170fd0ba0108c43" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" style=3D"word-break:break-word;background-position:center c=
+enter;background-repeat:no-repeat;background-size:cover;padding-top:0px;pad=
+ding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"12" w=
+idth=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbo=
+dy><tr><td valign=3D"top" id=3D"m_-8498923829892955917m_5765967288934150349=
+mceColumnId--3" colspan=3D"12" width=3D"100%" style=3D"word-break:break-wor=
+d;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-col=
+lapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-8498923829892955917m=
+_5765967288934150349gutterContainerId-9" style=3D"word-break:break-word;pad=
+ding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"center" =
+id=3D"m_-8498923829892955917m_5765967288934150349b9" style=3D"word-break:br=
+eak-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%" st=
+yle=3D"border:0px;background-color:transparent;border-radius:0px"><tbody><t=
+r><td style=3D"word-break:break-word;padding:12px 16px"><div id=3D"m_-84989=
+23829892955917m_5765967288934150349d9" style=3D"font-family:&quot;Helvetica=
+ Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);display:inl=
+ine-block;width:608.262px"><p style=3D"margin:0px;padding:0px;word-break:br=
+eak-word;font-size:16px;line-height:1.5;text-align:center;letter-spacing:0p=
+x;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-si=
+ze:11px">M3M Urbana Business Park, Sector 67</span></span></p><p style=3D"m=
+argin:0px;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;=
+text-align:center;letter-spacing:0px;direction:ltr"><span style=3D"color:rg=
+b(71,71,71)"><span style=3D"font-size:11px">Gurugram , Haryana (122101)<br>=
+<br></span></span><a href=3D"https://pidge.in/" target=3D"_blank" style=3D"=
+color:rgb(153,153,153);word-break:break-word;direction:ltr"><span style=3D"=
+font-size:11px">VISIT WEBSITE</span></a></p></div></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbod=
+y></table></div>
+
+--00000000000067a8f2065330abdb--

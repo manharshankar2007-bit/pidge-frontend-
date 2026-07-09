@@ -1,0 +1,2552 @@
+{
+  "sample": {
+    "title": "sample",
+    "module": "Sample Email",
+    "purpose": "document ingestion testing",
+    "summary": "This is a sample email body for document ingestion testing.",
+    "keywords": [],
+    "navigation": [],
+    "related": [],
+    "benefits": [],
+    "how_to_use": [],
+    "documents": [
+      "sample.eml",
+      "sample.pdf"
+    ],
+    "images": [],
+    "available_for": []
+  },
+  "whats_new__cod_handling_logics_for_riders": {
+    "title": "What’s New_ COD Handling Logics for Riders",
+    "module": "COD Handling Logics for Riders",
+    "purpose": "Introduce a comprehensive COD management system for controlling rider eligibility, cash limits, and enforcement actions.",
+    "summary": "New COD management features include eligibility-based order allocation, configurable cash limits with enforcement options, real-time alerts, and automated actions to enhance cash control and reduce operational risks.",
+    "keywords": [
+      "COD",
+      "rider management",
+      "cash limits",
+      "alerts",
+      "enforcement",
+      "earnings module"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Earnings & Incentives module"
+    ],
+    "benefits": [
+      "Assign COD orders only to qualified riders",
+      "Control cash in the field with configurable limits",
+      "Choose strict blocking or partial restriction for enforcement",
+      "Real-time alerts for cash breaches",
+      "Automate enforcement to reduce manual monitoring",
+      "Improve cash reconciliation and reduce leakage risk"
+    ],
+    "how_to_use": [
+      "Define rider eligibility criteria (lifetime orders, recent performance)",
+      "Set cash limits (max outstanding, excess over earnings)",
+      "Configure enforcement actions (block orders, monitor only)",
+      "Enable automated alerts for threshold breaches",
+      "Assign admin tasks for cash deposit when limits are exceeded"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ COD Handling Logics for Riders.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/c26fcebb-f10c-05f8-7e34-619bc3dd8938.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/a98b9c58-0188-c0c7-e948-3e97e6951ab4.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0e7fdad3-d311-2bb8-f22a-096d57e5c897.png"
+    ],
+    "available_for": [
+      "Riders",
+      "Admins"
+    ]
+  },
+  "whats_new__cleaner_fulfillment_mis_report": {
+    "title": "What’s New_ Cleaner Fulfillment MIS Report",
+    "module": "Partner Fulfillment MIS Report",
+    "purpose": "Provide precise, auditable data for billing and reconciliation when multiple fulfilment partners are involved",
+    "summary": "Introduces a new Fulfillment MIS report that offers clean, order-level visibility into billable fulfilment transactions executed by partners, improving accuracy and reliability for finance and operations teams",
+    "keywords": [
+      "Fulfillment MIS Report",
+      "Partner Fulfillment",
+      "Billing",
+      "Reconciliation",
+      "Audit",
+      "3PL/PPN"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "How Entries Are Created",
+      "What This Means For You",
+      "What’s Next"
+    ],
+    "related": [
+      "Billing page transactions download",
+      "Finance workflows",
+      "Order reconciliation"
+    ],
+    "benefits": [
+      "Cleaner billing data with no zero-value clutter",
+      "Accurate visibility into partner fulfilment charges",
+      "Easier reconciliation for cancellations/re-bookings",
+      "Report structure aligned with finance workflows"
+    ],
+    "how_to_use": [
+      "Select 'Partner Fulfilment' option when downloading transactions from the Billing page",
+      "Report includes only non-zero entries for orders fulfilled by partners (3PL/PPN)",
+      "Entries reflect each fulfilment request, including re-bookings and cancellations"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Cleaner Fulfillment MIS Report.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/98c2e7b9-a68e-239d-ea81-1e8efc6681a2.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/1ef189f7-0342-6ef1-ae8d-e52a3696ccfa.png"
+    ],
+    "available_for": [
+      "Finance teams",
+      "Operations teams",
+      "Businesses using multiple fulfilment partners"
+    ]
+  },
+  "whats_new__clearer_partial_delivery_flows": {
+    "title": "What’s New_ Clearer Partial Delivery Flows",
+    "module": "Clearer Partial Delivery Flows",
+    "purpose": "Improving clarity and data consistency in partial deliveries",
+    "summary": "Partial deliveries now provide complete data tracking with mandatory reasoning and custom reason mapping features",
+    "keywords": [
+      "partial delivery",
+      "clarity",
+      "reason codes",
+      "custom mapping"
+    ],
+    "navigation": [
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoib3VkeVpzQzhRYkpOODdzWEVnaW1XVkxuZUxBIiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwcyUzQSUyRiUyRnNhbG9uaS5sYWtob3RpYSU0MHBpZGdlLmluJnhpZD1hYWNjNzNiM2UyJnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDY1JnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcyNTMzNDA2Jmg9ZTU0M2QzMjEzMWJlOWRlNDM4OTc2MzYwOGNhMDllZjczZjczYmY3ODdkMzEwZWZkYjRiOTIwMmFmZGI4OTdiNVwiLFwiaWRcIjpcIjAxZjFiYTdiOTljYzQ3ZTJhZDg3YjE3YWFjM2RjMjJhXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzI1MzM0MDZ9In0",
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoiQ2NPZDVldXROeEZ1S0N2QnppR3dpOXZtaFZ3IiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwJTNBJTJGJTJGd3d3LnBpZGdlLmluJnhpZD1hYWNjNzNiM2UyJnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDY1JnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcyNTMzNDA2Jmg9YTBhMzk4ZGM1MTI5MTAwZGQ1ZmYyMGZmYjYyOTk0ZmM2MzQxYjIzZTVmM2MzNjE2NzViMGM1Y2Y4OTg2ODAwMlwiLFwiaWRcIjpcIjAxZjFiYTdiOTljYzQ3ZTJhZDg3YjE3YWFjM2RjMjJhXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzI1MzM0MDZ9In0"
+    ],
+    "related": [
+      "mandatory reasoning",
+      "custom reason mapping"
+    ],
+    "benefits": [
+      "Isolate root causes of incomplete deliveries",
+      "Streamline returns with pre-defined choices",
+      "Provide clearer insights into return trends"
+    ],
+    "how_to_use": [
+      "Provide specific reason codes for partial deliveries",
+      "Upload custom business terminology for rider visibility"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Clearer Partial Delivery Flows.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://dim.mcusercontent.com/cs/76169e41390206a9f7af2955a/images/e0e5eb0f-fa82-9735-b2b4-cb931ebb55d3.png?dpr=2&amp;rect=335%2C283%2C2478%2C1525&amp;w=569&amp;h=350"
+    ],
+    "available_for": [
+      "Business users",
+      "Riders"
+    ]
+  },
+  "whats_new__collect_shipping_charges_easily": {
+    "title": "What’s New_ Collect Shipping Charges easily",
+    "module": "",
+    "purpose": "Give Your Deliveries More Control",
+    "summary": "Define mandatory charges or returnable crates in every order for complete control over deliveries and returns. Automatically group items, create return orders, and track tasks for riders.",
+    "keywords": [
+      "shipping charges",
+      "returnable crates",
+      "order management",
+      "delivery tracking",
+      "rider app updates"
+    ],
+    "navigation": [
+      "https://r-indventures.us10.list-manage.com/track/click?u=224f42470f71ae12c1de16d6c&id=d970bb3ee2",
+      "https://r-indventures.us10.list-manage.com/track/click?u=224f42470f71ae12c1de16d6c&id=93fb705bc8"
+    ],
+    "related": [
+      "force_action API parameter"
+    ],
+    "benefits": [
+      "Complete control over delivered items and returnable materials",
+      "Automatic grouping and tracking of orders",
+      "Structured rider task view with no modifications allowed",
+      "COD amount auto-adjustment"
+    ],
+    "how_to_use": [
+      "Define mandatory charges and returnable crates in order settings",
+      "Use the force_action API parameter for programmatic control",
+      "Monitor dashboard for automatic order grouping and return order creation"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Collect Shipping Charges easily.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/38ba8146-6a70-05d6-0198-3455324d9072.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/8e9ffa6d-4cf3-82f9-2d72-24959f4498a5.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a8eec6ed-260c-a562-a252-9f27b0338b0e.png"
+    ],
+    "available_for": [
+      "Businesses managing delivery operations",
+      "E-commerce platforms with delivery logistics",
+      "Third-party delivery service providers"
+    ]
+  },
+  "whats_new__configure_surges_for_real_world_conditions": {
+    "title": "What’s New_ Configure Surges for real world conditions",
+    "module": "Surge Pricing",
+    "purpose": "Configure surges based on real-world weather conditions to balance rider compensation and operational costs.",
+    "summary": "Introducing Rain Surge to manage surges based on real-time weather conditions, allowing percentage and flat rate adjustments with automatic charge application.",
+    "keywords": [
+      "Rain Surge",
+      "Surge Pricing",
+      "Weather-based surges",
+      "Real-time conditions",
+      "Rider compensation",
+      "Operational costs"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Mean To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Rain Surge",
+      "Surge Pricing"
+    ],
+    "benefits": [
+      "Better rider satisfaction during tough delivery conditions",
+      "More accurate cost allocation",
+      "Reduced need for reactive adjustments"
+    ],
+    "how_to_use": "Set up Rain Surge within the Surge Pricing section by defining percentage and flat rate fields. The system will automatically apply the maximum applicable charge where overlaps occur.",
+    "documents": [
+      "💥⚡️ What’s New_ Configure Surges for real world conditions.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/15275ca8-ba1f-0e98-7dbe-2e21395ea20b.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/58558e0b-1048-0b38-089f-e283426bbb30.png"
+    ],
+    "available_for": "Pidge Network Owners/Managers"
+  },
+  "whats_new__custom_pricing_for_network_participants": {
+    "title": "What’s New_ Custom Pricing for Network Participants",
+    "module": "Custom Pricing for Network Participants",
+    "purpose": "Enable network owners to set participant-specific pricing rules while maintaining network-level pricing defaults",
+    "summary": "Introduces Custom Rule toggle for participant-level pricing overrides with type-aware pricing views for supply/demand participants",
+    "keywords": [
+      "Custom Pricing",
+      "Network Participants",
+      "Custom Rule Toggle",
+      "Participant-Type Aware Pricing",
+      "Pricing Exceptions"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "Custom Rule Toggle",
+      "Participant-Type Aware Pricing",
+      "What This Means For You"
+    ],
+    "related": [
+      "Custom Rule",
+      "External Price",
+      "Internal Price",
+      "Network Pricing",
+      "Participant Economics"
+    ],
+    "benefits": [
+      "Flexible pricing exceptions without network-wide changes",
+      "Isolated participant economics",
+      "Consistent network pricing defaults",
+      "Role-specific pricing visibility"
+    ],
+    "how_to_use": [
+      "Enable Custom Rule toggle for participants",
+      "Define participant-specific External/Internal prices",
+      "Configure pricing logic for service rates/surges",
+      "Ensure pricing view adapts to participant type (supply/demand)"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Custom Pricing for Network Participants.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/37d63134-91aa-3bcb-01d6-aea3e47b74d2.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/8fbe943b-afc2-f1f7-b784-d308d7751a71.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/46efb6dc-5c42-0875-a1c5-08f233974af0.png"
+    ],
+    "available_for": [
+      "Network owners",
+      "Network managers",
+      "Supply participants",
+      "Demand participants"
+    ]
+  },
+  "whats_new__define_granular_time_based_surges": {
+    "title": "What’s New_ Define Granular time based surges",
+    "module": "Surge Pricing",
+    "purpose": "Define granular time-based surges for precise pricing control",
+    "summary": "Introduce time slot-based surges to align pricing with actual demand patterns, allowing specific start/end times and layered pricing strategies for days and dates.",
+    "keywords": [
+      "granular control",
+      "time-based surges",
+      "surge pricing",
+      "time slots",
+      "layered pricing"
+    ],
+    "navigation": [],
+    "related": [
+      "Pricing Strategy",
+      "Surge Management"
+    ],
+    "benefits": [
+      "Align pricing with real demand patterns",
+      "Reduce manual workarounds for short-term spikes",
+      "Cleaner and more predictable surge logic",
+      "Increased profitability through precise pricing"
+    ],
+    "how_to_use": [
+      "Set precise start and end times for surges",
+      "Apply flat rate or percentage pricing for time slots",
+      "Combine base surges with additional time-specific surges",
+      "Configure layered pricing for days/dates and time slots"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Define Granular time based surges.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/cbff60a6-5ab8-00d9-44bf-aa687d869ec7.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/809d02df-a800-eeb1-05ff-e223f36f184f.png"
+    ],
+    "available_for": []
+  },
+  "whats_new__define_surges_for_waiting": {
+    "title": "What’s New_ Define Surges for waiting",
+    "module": "Waiting Charges",
+    "purpose": "Define charges for rider waiting time during pickup and delivery stages to improve operational transparency and pricing fairness.",
+    "summary": "Introduces Waiting Charge Types for pickup and delivery, allowing networks to set time-based or status-based charges during waiting periods, aligning pricing with actual operational delays.",
+    "keywords": [
+      "Waiting Charges",
+      "Pickup Waiting Time",
+      "Delivery Waiting Time",
+      "Timeframes",
+      "Status windows"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "Waiting Charge Types",
+      "Flexible Charging - Time or Status Based",
+      "What This Means For You"
+    ],
+    "related": [
+      "Waiting Charge Types",
+      "Flexible Charging - Time or Status Based"
+    ],
+    "benefits": [
+      "Fairness in compensating rider effort",
+      "Clarity in managing operational delays",
+      "Aligned pricing with actual operations",
+      "Improved operational efficiency"
+    ],
+    "how_to_use": [
+      "Define pickup waiting time rules after rider reaches pickup location until Pickup Completed",
+      "Set delivery waiting time rules after rider reaches delivery location until Delivered",
+      "Configure charges via timeframes (e.g., first 5 minutes free) or status windows (based on operational milestones)"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Define Surges for waiting.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a96eb760-91a5-5cb3-a7c2-b2e51cdca340.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/03e4eb57-4419-bc1a-d149-54b0efa3940a.png"
+    ],
+    "available_for": [
+      "Network owners",
+      "Managers"
+    ]
+  },
+  "whats_new__dispose_as_a_outcome_for_failed_deliveries": {
+    "title": "What’s New_ Dispose as a Outcome for Failed Deliveries",
+    "module": "Dispose as a Outcome for Failed Deliveries",
+    "purpose": "Introducing 'Dispose' as a configurable outcome for failed deliveries to provide businesses with a clear, controlled option instead of forced RTOs or manual interventions.",
+    "summary": "Dispose is a new terminal status for undelivered orders, allowing businesses to explicitly decide disposal as the default action. It eliminates ambiguity, reduces manual work, and ensures rider clarity.",
+    "keywords": [
+      "Dispose",
+      "Failed Deliveries",
+      "RTO",
+      "API",
+      "Rider App",
+      "Business Settings",
+      "Network Configuration"
+    ],
+    "navigation": [
+      "https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3c63-e0d2-4e3f-9ac3-ca677ea8f6a8"
+    ],
+    "related": [
+      "force_dispose API parameter",
+      "Network level configuration",
+      "Pidge application riders"
+    ],
+    "benefits": [
+      "Businesses can explicitly decide when to dispose orders",
+      "Networks can declare disposal support without owning the decision",
+      "Orders carry disposal intent via APIs",
+      "Riders see clear actions in the app",
+      "Reduces manual interventions and inconsistencies"
+    ],
+    "how_to_use": [
+      "Configure 'Dispose' as the default action for undelivered orders in business settings",
+      "Use the 'force_dispose' API parameter to enforce disposal",
+      "Set network-level configurations to support disposal",
+      "Ensure riders use the Pidge application for disposal actions"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Dispose as a Outcome for Failed Deliveries.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/c3c75e15-eb8b-dc51-9441-2ae9e50e45e8.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/e00b2bdf-b85a-f639-c8d6-d6f5e2fe5f8c.png"
+    ],
+    "available_for": [
+      "Businesses",
+      "Networks",
+      "Riders on Pidge application"
+    ]
+  },
+  "whats_new__dynamic_pickup_and_delivery_waiting_time": {
+    "title": "What’s New_ Dynamic Pickup and Delivery Waiting Time",
+    "module": "Dynamic Pickup and Delivery Waiting Time",
+    "purpose": "Allow clients to define custom waiting times for pickups and deliveries",
+    "summary": "Enhanced routing engine with dynamic, client-defined waiting times for improved operational accuracy and real-world route duration calculations.",
+    "keywords": [
+      "dynamic waiting times",
+      "custom data",
+      "route ETAs",
+      "operational control",
+      "API parameters"
+    ],
+    "navigation": [
+      "https://us3.mailchimp.com/mctx/clicks?url=https%3A%2F%2Fr-indventures.us10.list-manage.com%2Ftrack%2Fclick%3Fu%3D224f42470f71ae12c1de16d6c%26id%3Dd970bb3ee2%26e%3D737b99fb1c",
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoiVHVvN3Jxam9PQjdzQjhJczhmNUdtWTJXbnQwIiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwJTNBJTJGJTJGd3d3LnBpZGdlLmluJnhpZD1lNmFiYjFlMDBlJnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDY0JnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcwMjAyMDUyJmg9ZTZjMmVlMjIxZmM5ZjcxMTFjYWUzNTQ2ZDdhOGIzMTVkODNhM2QwOGJlMjdjNGJkNDAyOWVjOWE5YjA2MzgzOVwiLFwiaWRcIjpcIjEwNWEzYTA4NDI5ZjQwODg5ZTI5N2Q1Yzg0YmNmNjRjXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzAyMDIwNTJ9In0"
+    ],
+    "related": [
+      "pickup_waiting_time",
+      "delivery_waiting_time"
+    ],
+    "benefits": [
+      "No More Underestimating: Riders get realistic schedules",
+      "Zero Guesswork: Embrace operational variability",
+      "Total Operational Control: Adapt to business logic"
+    ],
+    "how_to_use": "Pass specific pickup_waiting_time and delivery_waiting_time values in API requests when creating orders.",
+    "documents": [
+      "💥⚡️ What’s New_ Dynamic Pickup and Delivery Waiting Time.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/76169e41390206a9f7af2955a/images/6a134a23-96b9-d560-5619-54987e9be4da.png"
+    ],
+    "available_for": [
+      "API",
+      "Routing Engine"
+    ]
+  },
+  "whats_new__finance_dashboard_for_cash_management": {
+    "title": "What’s New_ Finance Dashboard for Cash Management",
+    "module": "Finance Dashboard for Cash Management",
+    "purpose": "Holistic COD management dashboard for tracking cash flows and settlements",
+    "summary": "New dashboard for managing cash (COD) amounts with global totals, account-level tracking, settlement adjustments, and automated reporting. Access via SSO with Pidge email ID.",
+    "keywords": [
+      "Finance Dashboard",
+      "Cash Management",
+      "COD",
+      "SSO",
+      "Razorpay",
+      "Auto Remittance"
+    ],
+    "navigation": [
+      "http://admin-v2.pidge.in/"
+    ],
+    "related": [
+      "COD management page",
+      "Admin Panel (v1)"
+    ],
+    "benefits": [
+      "Real-time cash flow tracking",
+      "Automated daily reports",
+      "Centralized settlement management",
+      "Transparent transaction visibility for clients"
+    ],
+    "how_to_use": [
+      "Login via SSO using Pidge email ID",
+      "Access dashboard as landing page",
+      "Settle 'Due to Pidge' with received amounts and UTRs",
+      "Adjust 'Due from Pidge' with transfer details and remarks",
+      "Review automated daily reports for transaction movements"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Finance Dashboard for Cash Management.eml"
+    ],
+    "images": [],
+    "available_for": [
+      "Finance team",
+      "Administrators"
+    ]
+  },
+  "whats_new__get_notified_for_order_cancellation": {
+    "title": "What’s New_ Get Notified for Order Cancellation",
+    "module": "Order Cancellation Notification",
+    "purpose": "Notify riders of order cancellations with a dedicated alert sound",
+    "summary": "A new notification sound configuration for order cancellation events in the Rider App, allowing businesses to set a dedicated alert tone and differentiate cancellation alerts from other notifications.",
+    "keywords": [
+      "Order Cancellation",
+      "Notification Sound",
+      "Rider App",
+      "Alert Configuration"
+    ],
+    "navigation": [
+      "Delivery Executive Settings → App Configurations → Notifications → Order Cancellations"
+    ],
+    "related": [
+      "Rider Notification Message",
+      "Notification Sound Preview",
+      "Operational Alerts"
+    ],
+    "benefits": [
+      "Improve rider awareness during live orders",
+      "Reduce missed cancellation notifications",
+      "Differentiate cancellations from general alerts",
+      "Enhance operational responsiveness",
+      "Improve app usability during high-order activity"
+    ],
+    "how_to_use": [
+      "Navigate to Delivery Executive Settings → App Configurations → Notifications → Order Cancellations",
+      "Select a dedicated notification tone for cancellation alerts",
+      "Use sound preview/play functionality to test the alert"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Get Notified for Order Cancellation.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/312472481bda85a6d9e75bbcf/images/121e9057-3765-0ab4-b84a-f0e960d104b9.png"
+    ],
+    "available_for": [
+      "Riders",
+      "Operations Teams"
+    ]
+  },
+  "whats_new__introducing_reverse_pickups": {
+    "title": "What’s New_ Introducing Reverse Pickups",
+    "module": "Reverse Pickups",
+    "purpose": "Introducing Reverse Pickup Capability with structured handling for Failed Pickups and Partial Pickups",
+    "summary": "Reverse pickups are now a first-class capability, supporting creation of reverse orders, handling real-world pickup outcomes, capturing structured exception data, enforcing validation, and maintaining operational visibility. Failed and Partial Pickup scenarios are natively supported with configurable validation and clear recording of outcomes.",
+    "keywords": [
+      "Reverse Pickup",
+      "Failed Pickup",
+      "Partial Pickup",
+      "Reverse Fulfilment",
+      "Reverse Logistics"
+    ],
+    "navigation": [
+      "What’s New",
+      "Reverse Pickup",
+      "Failed & Partial Pickup Capability",
+      "Reverse Pickup Handling in the Rider App",
+      "What This Means For You",
+      "What’s Next"
+    ],
+    "related": [
+      "Returns and reverse fulfilment",
+      "Reverse logistics workflows"
+    ],
+    "benefits": [
+      "Scalable reverse logistics workflows",
+      "Structured exception data capture",
+      "Validation enforcement for accountability",
+      "Clear recording and visibility of reverse outcomes",
+      "Native support for Failed/Partial Pickup scenarios"
+    ],
+    "how_to_use": [
+      "Mark pickup as failed and select defined reason with OTP/Call verification",
+      "Adjust item quantities for partial pickup and select mandatory reason",
+      "Review picked vs. not-picked items",
+      "Configure custom failed pickup reasons and proof types",
+      "Define validation rules for exception records"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Introducing Reverse Pickups.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/f6cdb3d2-c200-915d-c510-c4128f513f6a.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/98d803b5-6f9e-31e2-f4d8-b190377d04f9.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/454f7430-189c-de5f-28bf-19311da7be05.png"
+    ],
+    "available_for": [
+      "Rider App",
+      "System-wide"
+    ]
+  },
+  "whats_new__map_based_routing": {
+    "title": "What’s New_ Map Based Routing",
+    "module": "Map Based Routing",
+    "purpose": "Introduce Map-Based Routing for visual order management and dispatching",
+    "summary": "Map-Based Routing provides a visual upgrade for managing bulk orders through an interactive map interface, enabling efficient grouping, allocation, and ad-hoc dispatching of deliveries.",
+    "keywords": [
+      "Map-Based Routing",
+      "Visual Routing",
+      "Order Management",
+      "Dispatching",
+      "Bulk Orders"
+    ],
+    "navigation": [
+      "Orders",
+      "→ Pidge Powered → Map View (top right corner)"
+    ],
+    "related": [
+      "Forward Orders/Reverse Orders",
+      "Hover Insights",
+      "On-the-Fly Route Construction"
+    ],
+    "benefits": [
+      "Zero Visibility Gaps",
+      "Ad-Hoc Efficiency"
+    ],
+    "how_to_use": "Switch to Map View from Orders → Pidge Powered, use pin interactions for order details, construct routes dynamically with real-time visual feedback, and allocate orders to Captive Riders.",
+    "documents": [
+      "💥⚡️ What’s New_ Map Based Routing.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/44871d1b-fa3c-5b56-a1ea-668cf5c552e8.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f03a577e-ed97-e15a-1a7b-aa0276217b9e.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/29ebf146-2ef3-5895-81dc-81152c3bc521.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/a879c6c9-9c31-453f-1e18-89bc996db533.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/51f6bd16-c1d2-c2a8-e6bf-66c7018f876c.png"
+    ],
+    "available_for": []
+  },
+  "whats_new__new_order_token_controls": {
+    "title": "What’s New_ New Order Token Controls",
+    "module": "New Order Token Controls",
+    "purpose": "Handing controls to manage order tokens with dynamic movement controls",
+    "summary": "Introducing token-level management for movement and flow types to create a smarter framework for logistics operations",
+    "keywords": [
+      "movement type",
+      "flow type",
+      "Dynamic Movement Controls",
+      "QR FIFO",
+      "Update FIFO",
+      "Partial",
+      "Token-Level Management"
+    ],
+    "navigation": [
+      "What’s New",
+      "The Flow Models",
+      "Why It’s Good for you!"
+    ],
+    "related": [],
+    "benefits": [
+      "Total Versatility",
+      "Instant Execution"
+    ],
+    "how_to_use": [
+      "Select movement type via single-select dropdown (Forward/Reverse)",
+      "Configure flow type via multi-select menu for operational complexity",
+      "Apply one-click logic layers based on movement type"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ New Order Token Controls.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png"
+    ],
+    "available_for": []
+  },
+  "whats_new__new_reports_and_enhancements_1": {
+    "title": "What’s New_ New Reports and Enhancements (1)",
+    "module": "",
+    "purpose": "Enhanced Reporting & Operation Visibility",
+    "summary": "New reporting improvements provide better delivery performance analysis, route-level visibility, and delivery attempt history tracking. Adds Route ID/Name columns to Completed tab and introduces Order Re-attempt Details report with attempt history, failure reasons, rider info, and business-specific fields for parent accounts.",
+    "keywords": [
+      "Enhanced Reporting",
+      "Route Information",
+      "Order Re-attempt Details",
+      "Operational Visibility"
+    ],
+    "navigation": [
+      "Pidge Powered → Completed Tab",
+      "All Orders"
+    ],
+    "related": [
+      "Parent Accounts"
+    ],
+    "benefits": [
+      "Improved operational analysis",
+      "Faster identification of delivery challenges",
+      "Complete visibility into delivery journeys",
+      "Simplified reporting workflows",
+      "Enhanced fulfillment performance monitoring"
+    ],
+    "how_to_use": [
+      "Access Route ID/Name columns in Pidge Powered Completed Tab",
+      "Download Order Re-attempt Details report from All Orders/Pidge Powered tabs",
+      "Utilize Brand Name/Business ID fields for parent account analysis",
+      "Export complete attempt records for order delivery journey tracking"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ New Reports and Enhancements (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png"
+    ],
+    "available_for": [
+      "Operations Teams",
+      "Parent Accounts",
+      "All Orders"
+    ]
+  },
+  "whats_new__new_reports_and_enhancements_2": {
+    "title": "What’s New_ New Reports and Enhancements (2)",
+    "module": "Enhanced Reporting & Operation Visibility",
+    "purpose": "Help operations teams analyze delivery performance, gain route-level visibility, and track delivery attempt history with greater accuracy",
+    "summary": "New reports and enhancements include route information in Pidge Powered → Completed Tab with Route ID/Name columns, and an Order Re-attempt Details report with attempt history, failure reasons, rider info, and brand/business identifiers for parent accounts",
+    "keywords": [
+      "reporting",
+      "delivery performance",
+      "route visibility",
+      "order re-attempt",
+      "operational analysis"
+    ],
+    "navigation": [
+      "Pidge Powered → Completed Tab",
+      "All Orders",
+      "Pidge Powered tabs"
+    ],
+    "related": [
+      "Order Re-attempt Details report",
+      "Route Information In Pidge Powered"
+    ],
+    "benefits": [
+      "Effective operational analysis",
+      "Faster identification of delivery challenges",
+      "Improved fulfillment performance monitoring",
+      "Complete visibility into delivery journeys"
+    ],
+    "how_to_use": "Access reports in Pidge Powered → Completed Tab and All Orders/Pidge Powered tabs; utilize new Route ID/Name columns for route-based analysis; export Order Re-attempt Details report for comprehensive attempt history tracking",
+    "documents": [
+      "💥⚡️ What’s New_ New Reports and Enhancements (2).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png"
+    ],
+    "available_for": [
+      "Operations teams",
+      "Parent accounts"
+    ]
+  },
+  "whats_new__new_reports_and_enhancements": {
+    "title": "What’s New_ New Reports and Enhancements",
+    "module": "Reporting & Operation Visibility",
+    "purpose": "Enhanced reporting features for operations teams to analyze delivery performance and gain route-level visibility",
+    "summary": "New reports and enhancements provide route information tracking, order re-attempt details, and comprehensive delivery attempt history analysis",
+    "keywords": [
+      "reporting",
+      "operational visibility",
+      "delivery performance",
+      "route analysis",
+      "re-attempt details"
+    ],
+    "navigation": [
+      "Enhanced Reporting & Operation Visibility",
+      "What’s New"
+    ],
+    "related": [
+      "Pidge Powered → Completed Tab",
+      "All Orders",
+      "Pidge Powered"
+    ],
+    "benefits": [
+      "Improved operational analysis",
+      "Faster identification of delivery challenges",
+      "Enhanced fulfillment performance monitoring"
+    ],
+    "how_to_use": [
+      "Access Route Information report in Pidge Powered → Completed Tab",
+      "Download Order Re-attempt Details report from All Orders and Pidge Powered tabs"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ New Reports and Enhancements.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png"
+    ],
+    "available_for": [
+      "Pidge Powered",
+      "All Orders"
+    ]
+  },
+  "whats_new__now_define_rto_pricing_structure": {
+    "title": "What’s New_ Now define RTO Pricing Structure",
+    "module": "",
+    "purpose": "Define RTO Pricing Structure",
+    "summary": "Network owners can now configure RTO charges explicitly using the same flexible pricing framework as delivery pricing, enabling structured and auditable return economics.",
+    "keywords": [
+      "RTO Pricing",
+      "Return Economics",
+      "Pricing Structure",
+      "Distance",
+      "Pincode",
+      "Pricing Percentage"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "Percentage-Based RTO Pricing",
+      "What This Means For You",
+      "What’s Next"
+    ],
+    "related": [
+      "What This Means For You",
+      "What’s Next"
+    ],
+    "benefits": [
+      "Predictable and consistent RTO costs",
+      "Align return economics with commercial models",
+      "Eliminate manual calculations and post-facto adjustments"
+    ],
+    "how_to_use": [
+      "Configure RTO charges using Distance, Pincode, Unpaid Trips, and Pricing Percentage",
+      "Apply pricing rules with the same structure as standard pricing module",
+      "Use Pricing Percentage model to calculate charges based on original delivery price"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Now define RTO Pricing Structure.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/8096d7fb-fd73-ec5e-9c7a-ff71a5ca5e7c.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/df88e820-d484-af72-e3b5-dd1608acbd28.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/992286d7-9b4b-9253-fc42-c42dd342cea2.png"
+    ],
+    "available_for": [
+      "Pricing module"
+    ]
+  },
+  "whats_new__one_id_to_track_everything": {
+    "title": "What’s New_ One ID to track Everything",
+    "module": "One ID to track Everything",
+    "purpose": "Improve tracking consistency across the platform by standardizing primary identifiers",
+    "summary": "Reference ID is now the universal primary identifier across all Pidge Powered pages, replacing inconsistent IDs like Order ID and Ref ID. This simplifies order tracking and reduces cognitive load for Admins.",
+    "keywords": [
+      "Reference ID",
+      "tracking",
+      "order",
+      "standardization",
+      "Pidge Powered"
+    ],
+    "navigation": [
+      "VISIT WEBSITE <https://pidge.in/>"
+    ],
+    "related": [
+      "All Orders",
+      "Pidge Powered",
+      "Order Details"
+    ],
+    "benefits": [
+      "Zero Confusion, Faster Tracking",
+      "Tailored Workspace Control"
+    ],
+    "how_to_use": [],
+    "documents": [
+      "💥⚡️ What’s New_ One ID to track Everything.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/2da73c7a-4e95-57af-0806-554d8bf11786.png"
+    ],
+    "available_for": [
+      "Admins",
+      "Pidge Powered pages"
+    ]
+  },
+  "whats_new__order_categories": {
+    "title": "What’s New_ Order Categories",
+    "module": "Order Categories",
+    "purpose": "Enabling smarter routing, better operational alignment, and improved delivery outcomes",
+    "summary": "Introducing Order Categories to define order types at business and network levels, enabling smart network mapping, API support for order creation, and serviceability control based on category.",
+    "keywords": [
+      "Order Categories",
+      "Smart Routing",
+      "Operational Alignment",
+      "Delivery Accuracy",
+      "API Integration"
+    ],
+    "navigation": [
+      "https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3c63-e0d2-4e3f-9ac3-ca677ea8f6a8"
+    ],
+    "related": [
+      "Order Creation API Support",
+      "Serviceability Control"
+    ],
+    "benefits": [
+      "Better Operational Alignment: Food deliveries routed to speed/perishability optimized networks; Parcel to cost/batching optimized networks",
+      "Improved Delivery Accuracy: Eliminates incorrect network selection, reduces manual intervention and routing errors",
+      "Standardized Workflow via API: External systems control categorization, ensuring seamless integration with SOPs and 3PL requirements"
+    ],
+    "how_to_use": [
+      "Pass order_category key with values: parcel, food during order creation API",
+      "System defaults to Parcel if category not provided",
+      "Network visibility in serviceability modal governed by Order Category"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Order Categories.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/2681946b-9589-c66c-a99c-164a3f85dc32.jpg",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/278996f6-bcbc-c13e-1ec3-59ab588edb50.png"
+    ],
+    "available_for": [
+      "Business Level (Parcel, Food)",
+      "Network Level (Any, Parcel, Food)"
+    ]
+  },
+  "whats_new__pidge_mobile_dashboard": {
+    "title": "What’s New_ Pidge Mobile Dashboard",
+    "module": "Pidge Mobile Dashboard",
+    "purpose": "Rebranding the Pidge app as a companion mobile version of the desktop operations console",
+    "summary": "Formally positioning the app as a companion to major operational aspects of the dashboard for seamless continuity between desktop and mobile workflows",
+    "keywords": [
+      "Mobile Dashboard",
+      "companion app",
+      "desktop operations",
+      "operational management"
+    ],
+    "navigation": [
+      "https://play.google.com/store/apps/details?id=com.rindventures.pidgeconsumer",
+      "https://us17.mailchimp.com/mctx/clicks?url=http%3A%2F%2Fwww.pidge.in&xid=ab67dd2a08&uid=248089116&iid=07fe190d69&pool=cts&v=2&c=1772197294&h=f8973201e21f35c6513e4a414a667141a8eab4b7e782f3d353a51ee28c55e95d"
+    ],
+    "related": [
+      "Pidge app",
+      "desktop dashboard"
+    ],
+    "benefits": [
+      "Clear understanding of app's role as companion to operational aspects",
+      "Seamless continuity between desktop and mobile workflows",
+      "Greater confidence in managing operations from mobile"
+    ],
+    "how_to_use": [
+      "Download from Google Play Store link provided"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Pidge Mobile Dashboard.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/68d447a2-6144-11b6-b81b-aacd40683dad.gif"
+    ],
+    "available_for": [
+      "Android"
+    ]
+  },
+  "whats_new__realtime_rider_earnings_and_incentives": {
+    "title": "What’s New_ Realtime Rider Earnings and Incentives",
+    "module": "Realtime Rider Earnings and Incentives",
+    "purpose": "Introducing a unified earnings experience for riders to track completed orders, surges, and incentives in real-time.",
+    "summary": "Transforming rider earnings from backend calculations into a visible, measurable experience with order-by-order breakdowns and incentive progress tracking.",
+    "keywords": [
+      "Rider App",
+      "Earnings",
+      "Incentives",
+      "Transparency",
+      "Surge Pricing",
+      "Milestones",
+      "Realtime Tracking",
+      "Backend Calculations",
+      "Order Breakdown",
+      "Incentive Progress"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "Order-Based Earnings (Beta)",
+      "Incentive-Based Earnings (Beta)",
+      "What This Means For You"
+    ],
+    "related": [
+      "https://www.pidge.in",
+      "M3M Urbana Business Park, Sector 67, Gurugram , Haryana (122101)"
+    ],
+    "benefits": [
+      "Transparency in payout structures",
+      "Clear visibility into per-order earnings",
+      "Real-time tracking of incentive progress",
+      "Understanding of eligibility and milestone achievements",
+      "Control over earnings visibility and motivation"
+    ],
+    "how_to_use": [
+      "View order details including final earning amount, reference ID, distance, and pricing indications",
+      "Track incentive progress with milestone states (Not Started/In Progress/Achieved/Missed)",
+      "Access incentive rules, eligibility, and historical data",
+      "Switch between daily and weekly earnings views",
+      "Monitor expired incentives from the last 24 hours"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Realtime Rider Earnings and Incentives.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/3e88d416-d55c-fd80-cc47-592ec69a0ba4.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/82c27f1a-7af4-7ce3-755b-24493435ed7e.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/7bfa0084-434f-5d14-7517-d82f09ec07da.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/d982b7ed-3f9e-8faf-3acd-3bfd50bdf057.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/a9de5f0f-c8c2-45e0-ec56-ef9ef0ce8eac.png"
+    ],
+    "available_for": [
+      "Rider App",
+      "Website"
+    ]
+  },
+  "whats_new__rider_active_task_webhook": {
+    "title": "What’s New_ Rider Active Task Webhook",
+    "module": "Rider Active Task Webhook",
+    "purpose": "Bridge the gap between dispatch and execution with real-time, event-driven visibility into your riders’ active tasks",
+    "summary": "Subscribe to webhooks for structured updates on rider tasks, including real-time visibility, task sequence clarity, and SLA risk monitoring",
+    "keywords": [
+      "real-time task visibility",
+      "webhook integration",
+      "task sequence clarity",
+      "SLA risk monitoring"
+    ],
+    "navigation": [
+      "Settings → Communications → Rider"
+    ],
+    "related": [
+      "System-Level Integration",
+      "Clean & Relevant Data"
+    ],
+    "benefits": [
+      "Easily integrate rider task data into internal systems",
+      "Receive only active/ongoing tasks in webhook payloads"
+    ],
+    "how_to_use": [
+      "Select Rider Active Task trigger",
+      "Enable webhook configuration",
+      "Add Webhook URL and Auth Token",
+      "Test the webhook",
+      "Save configuration after successful test"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Active Task Webhook.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/1cf982d8-46f7-0f19-aad3-7779b060345e.png"
+    ],
+    "available_for": []
+  },
+  "whats_new__rider_breaks": {
+    "title": "What’s New_ Rider Breaks",
+    "module": "Rider Breaks",
+    "purpose": "Allow riders to notify businesses when they need breaks, pausing order assignments temporarily and resuming automatically to avoid delivery delays and ensure smoother operations.",
+    "summary": "Rider Breaks enable riders to request short breaks (e.g., meals, rest) during shifts, with orders pausing and resuming automatically. Breaks are managed via the Executive App, with policies customizable per business and shift.",
+    "keywords": [
+      "Rider Breaks",
+      "Shift Management",
+      "Break Requests",
+      "Roster Creation",
+      "Peak Hours"
+    ],
+    "navigation": [
+      "How to Request a Break",
+      "Peak Hour Configuration",
+      "Things to Note"
+    ],
+    "related": [
+      "Riders > Roster & Attendance > Create Roster",
+      "Executive App > Shift Management"
+    ],
+    "benefits": [
+      "No order delays or reassignments due to rider unavailability",
+      "Reduced manual admin intervention during rider breaks",
+      "Improved rider performance metrics (e.g., acceptance rate)",
+      "Accurate rider availability tracking in allocation systems"
+    ],
+    "how_to_use": [
+      "Riders request breaks via Executive App: Shift Management > Request Break",
+      "Breaks are set in 5-minute increments based on shift timing",
+      "Breaks are disabled once all allocated breaks are used",
+      "Peak hours restrict break requests during high-order-volume periods"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Breaks.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/27f251a2-e415-e7d2-33d8-02dd8f5368b9.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/548ec863-1546-a213-fa14-d472f6c2fb0a.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f87ba13d-5464-d762-d39a-b89068d0aa5e.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/19503ede-de3c-411d-2856-1f06523c5829.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/ad947528-dc9f-1e5f-f0fc-83dadcb6d43c.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60"
+    ],
+    "available_for": [
+      "Captive rider fleet",
+      "Businesses with customizable shift-based break policies"
+    ]
+  },
+  "whats_new__rider_flexi_shifts_1": {
+    "title": "What’s New_ Rider Flexi Shifts (1)",
+    "module": "Rider Flexi Shifts",
+    "purpose": "Introduce a brand-new shift management model for on-demand flexibility in workforce scheduling.",
+    "summary": "Flexi Shifts allows admins to broadcast open shift slots, enabling eligible riders to opt-in based on real-time availability, reducing manual effort and improving supply activation during demand spikes.",
+    "keywords": [
+      "Flexi Shifts",
+      "on-demand flexibility",
+      "shift management",
+      "riders",
+      "admins",
+      "dynamic scheduling"
+    ],
+    
+    "related": [
+      "Roster & Shifts",
+      "Smart Urgency Tags",
+      "Order Properties Transparency",
+      "Frictionless Cancelation"
+    ],
+    "benefits": [
+      "Reduces operational bottlenecks for admins",
+      "Empowers riders with autonomy over earning opportunities",
+      "Enables real-time supply activation during demand spikes",
+      "Minimizes manual effort in shift assignment"
+    ],
+    "how_to_use": [
+      "Riders can book open slots up to 4 days in advance via the Rider App",
+      "View real-time urgency tags like 'Filling Fast' or 'Almost Full'",
+      "Review shift details including order types, payment limitations, and hub distances before booking",
+      "Cancel accepted shifts instantly via the app drawer before logging in"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Flexi Shifts (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/d0d50d39-2de9-413b-5b1c-208ec8c7b014.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/e07b68a6-13ac-07e4-9678-ccb3c9fc21f0.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f6da1f8a-813b-6334-b067-6da56805eedb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/7a7b85fa-970a-b06b-5519-c31b0d5f1d37.png"
+    ],
+    "available_for": [
+      "Rider App",
+      "Admin Interfaces"
+    ]
+  },
+  "whats_new__rider_flexi_shifts": {
+    "title": "What’s New_ Rider Flexi Shifts",
+    "module": "Rider Flexi Shifts",
+    "purpose": "Introduce a new shift management model for on-demand flexibility in workforce scheduling",
+    "summary": "Flexi Shifts allows admins to broadcast open shift slots for eligible riders to opt-in based on real-time availability, addressing operational bottlenecks and enabling dynamic scheduling.",
+    "keywords": [
+      "Flexi Shifts",
+      "shift management",
+      "on-demand flexibility",
+      "riders",
+      "admins",
+      "dynamic scheduling"
+    ],
+    
+    "related": [
+      "Rider App features",
+      "Admin operational tools",
+      "Supply activation mechanisms"
+    ],
+    "benefits": [
+      "Reduces manual effort for fleet admins",
+      "Provides riders with autonomy over earning opportunities",
+      "Enables rapid supply activation during demand spikes",
+      "Enhances operational agility for unpredictable demand patterns"
+    ],
+    "how_to_use": [
+      "Riders can book open slots via the Rider App's Roster & Shifts tab up to 4 days in advance",
+      "Use real-time urgency tags like 'Filling Fast' to prioritize shifts",
+      "Review shift details including order types, payment terms, and hub distances before booking",
+      "Cancel shifts via the app drawer until login to return slots to the active pool"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Flexi Shifts.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/d0d50d39-2de9-413b-5b1c-208ec8c7b014.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/e07b68a6-13ac-07e4-9678-ccb3c9fc21f0.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f6da1f8a-813b-6334-b067-6da56805eedb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/7a7b85fa-970a-b06b-5519-c31b0d5f1d37.png"
+    ],
+    "available_for": [
+      "Rider App (executive)",
+      "Admin interfaces"
+    ]
+  },
+  "whats_new__rider_payments_receipts": {
+    "title": "What’s New_ Rider Payments Receipts",
+    "module": "Rider Payments Receipts",
+    "purpose": "Bring transparency and precision to every transaction done by rider",
+    "summary": "Introducing digital receipts for rider payments, allowing verification of transfers in the Rider App and instant access to transaction receipts for managers via web dashboard. Every payment now includes verifiable digital footprints with timestamps and references.",
+    "keywords": [
+      "digital receipts",
+      "transaction transparency",
+      "payment verification",
+      "workflow clarity",
+      "financial accuracy"
+    ],
+    "navigation": [
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoiZlhxRWtvbzRfY2xuSVVhSHhRenhRTnRkYjN3IiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwcyUzQSUyRiUyRnNhbG9uaS5sYWtob3RpYSU0MHBpZGdlLmluJnhpZD05ODE0NWE0ZjE5JnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDcwJnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcyNTMzNDEyJmg9ODA5NzI2MDkwYWQzMzBmMzhiZTkyNGY1ODdhYzJkZjg2NGMzMDEyYWY0YmUyYmM4YzUxOGRkOTVhNmNjNDA3OVwiLFwiaWRcIjpcImE5MTA0MzJmNDE1ZjQ0OWY4NWM4ZjIyMzJhMmIyYjJmXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzI1MzM0MTJ9In0"
+    ],
+    "related": [
+      "View Proof in BOP",
+      "Assessment Logs"
+    ],
+    "benefits": [
+      "Information Accuracy: Ensure 100% information accuracy for every transaction",
+      "Workflow Clarity: Provide store managers with documentation to confirm payments instantly",
+      "Financial Accuracy: Strengthen financial controls and account for all digital transfers"
+    ],
+    "how_to_use": [
+      "Digital Receipts: Riders can verify payments in the Rider App during transfers",
+      "View Proof in BOP: Managers access transaction receipts on the web dashboard",
+      "Assessment Logs: Access verifiable digital footprints with timestamps and payment references"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Payments Receipts.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/76169e41390206a9f7af2955a/images/3ef68427-ac1d-281a-78c4-2e263c542e6b.jpg"
+    ],
+    "available_for": [
+      "Riders",
+      "Store Managers"
+    ]
+  },
+  "whats_new__rider_tags": {
+    "title": "What’s New_ Rider Tags",
+    "module": "Rider Tags",
+    "purpose": "Upgrade Rider Tags to enable high-speed, effortless organization by moving away from manual management.",
+    "summary": "Rider Tags are digital labels to organize riders based on unique traits, simplifying management and enabling automation.",
+    "keywords": [
+      "Rider Tags",
+      "digital labels",
+      "organization",
+      "automation",
+      "data standardization"
+    ],
+    "navigation": [
+      "Dashboard > Settings > Users & Permissions > Onboarding & KYC",
+      "Riders > New Rider",
+      "Riders > Rider Name > Rider Overview Modal > Rider name > Edit details",
+      "Home > My Riders > New Rider"
+    ],
+    "related": [],
+    "benefits": [
+      "Better visibility over assets through captured rider characteristics",
+      "Standardization and data sanitation with strict formatting rules",
+      "Enables reliable reporting and automation across integrated modules"
+    ],
+    "how_to_use": [
+      "Create tags by assigning a unique name and values in Onboarding & KYC",
+      "Assign tags to new riders during creation (Riders > New Rider)",
+      "Assign tags to existing riders via Edit details screen",
+      "Tags are configured only in Dashboard, not Admin App"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Rider Tags.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/a6674768-3229-eeb3-f9af-dc0d511e5ed6.jpg",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/60f84c91-95e1-13f0-421b-28eb47580ab8.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/08636d9e-b8ff-0e46-4281-b9da84e6a259.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/315f25ff-39dd-db60-f0ef-3d0e14c1cf77.png"
+    ],
+    "available_for": [
+      "Dashboard",
+      "Admin App"
+    ]
+  },
+  "whats_new__scan___swipe___done_simplified_qr_fifo_journey_1": {
+    "title": "What’s New_ Scan -_ Swipe -_ Done (Simplified QR FIFO Journey) (1)",
+    "module": "QR FIFO Flow",
+    "purpose": "Simplify rider package pickup process to save time and improve efficiency",
+    "summary": "Revamped QR FIFO Flow eliminates redundant steps, provides instant feedback, and streamlines multi-screen workflow for faster package pickups and deliveries",
+    "keywords": [
+      "QR FIFO Flow",
+      "Simplified Journey",
+      "Efficiency",
+      "Rider Experience"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You"
+    ],
+    "related": [
+      "Why We Built This"
+    ],
+    "benefits": [
+      "Higher productivity",
+      "Better earnings per hour",
+      "Reduced on-ground errors",
+      "Frictionless manual entry",
+      "Precise error classification"
+    ],
+    "how_to_use": [
+      "Swipe 'Complete Pickup' to skip intermediate screens",
+      "Manually enter order ID if QR code fails to scan",
+      "Receive specific error messages for order status",
+      "Scan up to 3 orders in batching flow"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Scan -_ Swipe -_ Done (Simplified QR FIFO Journey) (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/619eebdd-376d-2e84-2ca2-1672d3424163.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0b4b2d2a-a1c3-4cde-8c6c-79ea1bd5273c.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/211ef322-b1cb-9381-886d-b5356f3188b6.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/e5824d17-3d96-80d9-375f-971b77d3ee68.png?dpr=2&amp;rect=0%2C0%2C2393%2C4023&amp;w=628&amp;h=1055"
+    ],
+    "available_for": [
+      "Riders",
+      "Delivery personnel"
+    ]
+  },
+  "whats_new__scan___swipe___done_simplified_qr_fifo_journey": {
+    "title": "What’s New_ Scan -_ Swipe -_ Done (Simplified QR FIFO Journey)",
+    "module": "QR FIFO Flow",
+    "purpose": "Simplify the rider's package pickup process and improve on-ground operations efficiency",
+    "summary": "The QR FIFO Flow has been revamped to eliminate redundant steps, reduce time spent on package pickups, and provide a more intuitive and error-free experience for riders.",
+    "keywords": [
+      "QR FIFO",
+      "streamlined workflow",
+      "manual entry",
+      "error classification"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Why We Built This"
+    ],
+    "benefits": [
+      "Higher productivity",
+      "Better earnings per hour",
+      "Reduced time spent on pickups",
+      "Improved error handling"
+    ],
+    "how_to_use": [
+      "Swipe 'Complete Pickup' to directly access 'Start for Drop' screen",
+      "Manually enter order ID if QR code is damaged or unscannable",
+      "Receive specific error messages for pickup status (e.g., Already Picked Up, Order Cancelled)",
+      "Scan up to 3 orders in batching flow"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Scan -_ Swipe -_ Done (Simplified QR FIFO Journey).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/619eebdd-376d-2e84-2ca2-1672d3424163.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0b4b2d2a-a1c3-4cde-8c6c-79ea1bd5273c.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/211ef322-b1cb-9381-886d-b5356f3188b6.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/e5824d17-3d96-80d9-375f-971b77d3ee68.png?dpr=2&amp;rect=0%2C0%2C2393%2C4023&amp;w=628&amp;h=1055"
+    ],
+    "available_for": [
+      "Riders"
+    ]
+  },
+  "whats_new__search_gets_a_sidekick": {
+    "title": "What’s New_ Search gets a sidekick",
+    "module": "Search",
+    "purpose": "Enhance order processing with precision scanning to reduce manual errors and improve efficiency.",
+    "summary": "Introduces a Barcode Scan feature in the 'Update Items' screen to streamline item adjustment by eliminating manual SKU entry.",
+    "keywords": [
+      "Barcode Scan",
+      "Error Reduction",
+      "Speed",
+      "Accuracy",
+      "Precision Picking"
+    ],
+    "navigation": [],
+    "related": [],
+    "benefits": [
+      "Eliminates manual entry mistakes",
+      "Reduces item lookup time by up to 70%",
+      "Ensures exact SKU adjustment through direct scan-product matching"
+    ],
+    "how_to_use": [
+      "Look for the new Scanner Icon in your search bar.",
+      "Tap the icon, scan the barcode, and the app will instantly pull up the exact product.",
+      "Use the scan output to adjust the intended SKU directly."
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Search gets a sidekick.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/76169e41390206a9f7af2955a/images/5d102bbb-99e0-f9cf-ee4d-73a10dff5bac.png"
+    ],
+    "available_for": [
+      "Riders"
+    ]
+  },
+  "whats_new__smarter_cod_reports_1": {
+    "title": "What’s New_ Smarter COD Reports (1)",
+    "module": "COD Reports",
+    "purpose": "Provide deeper visibility into Cash on Delivery (COD) payments collection, transfer, and settlement processes across riders, admins, and bank accounts",
+    "summary": "New COD Orders Collection Report and Online Settlement Report offer enhanced tracking of COD payments, settlement lifecycle, and T+1 remittance flows to improve financial reconciliation and operational efficiency",
+    "keywords": [
+      "COD Reports",
+      "Financial Reconciliation",
+      "T+1 Remittance",
+      "Payment Settlements",
+      "COD Management"
+    ],
+    "navigation": [
+      "COD Management → Get Report"
+    ],
+    "related": [
+      "COD Orders Collection Report",
+      "Online Settlement Report"
+    ],
+    "benefits": [
+      "Faster and more accurate financial reconciliation",
+      "Better visibility into COD and online payment settlements",
+      "Easier tracking of rider/admin collected payments",
+      "Improved monitoring of T+1 remittance processing",
+      "Reduced dependency on manual settlement validation"
+    ],
+    "how_to_use": [
+      "Access COD Orders Collection Report via COD Management → Get Report",
+      "Use Online Settlement Report for accounts with T+1 Remittance enabled",
+      "Filter reports by Admin/Rider level for online payment tracking",
+      "Monitor transaction/transfer/settlement dates/IDs for reconciliation"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Smarter COD Reports (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/bb1e8334-e217-a8c5-cb5e-6ec106f6d1ef.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/b98faacd-09c8-f584-3462-1c06571fcf1d.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60"
+    ],
+    "available_for": [
+      "Accounts with T+1 Remittance enabled",
+      "All COD Management users"
+    ]
+  },
+  "whats_new__smarter_cod_reports": {
+    "title": "What’s New_ Smarter COD Reports",
+    "module": "Smarter COD Reports",
+    "purpose": "Provide better visibility into COD collections, online payment settlements, and reconciliation flows",
+    "summary": "Introducing two new business-critical reports in COD Management to track COD orders, rider/admin collected payments, monitor transfer/settlement statuses, and simplify financial operations for T+1 remittance accounts",
+    "keywords": [
+      "COD Reports",
+      "Financial Reconciliation",
+      "T+1 Remittance",
+      "Online Settlements",
+      "COD Management"
+    ],
+    "navigation": [
+      "COD Management → Get Report (COD Orders Collection Report)",
+      "T+1 Remittance enabled accounts (Online Settlement Report)"
+    ],
+    "related": [],
+    "benefits": [
+      "Faster and more accurate financial reconciliation",
+      "Better visibility into COD and online payment settlements",
+      "Easier tracking of rider/admin collected payments",
+      "Improved monitoring of T+1 remittance processing",
+      "Reduced dependency on manual settlement validation"
+    ],
+    "how_to_use": [
+      "Access COD Orders Collection Report via COD Management → Get Report",
+      "Use Online Settlement Report for T+1 Remittance enabled accounts"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Smarter COD Reports.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/bb1e8334-e217-a8c5-cb5e-6ec106f6d1ef.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/b98faacd-09c8-f584-3462-1c06571fcf1d.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60"
+    ],
+    "available_for": [
+      "Businesses using COD payments",
+      "Accounts with T+1 Remittance enabled"
+    ]
+  },
+  "whats_new__smarter_pricing_controls_in_network": {
+    "title": "What’s New_ Smarter Pricing Controls in Network",
+    "module": "Smarter Pricing Controls in Network",
+    "purpose": "Enable separate control over what networks charge and pay through External and Internal pricing layers.",
+    "summary": "Introduces dual pricing configuration for networks, allowing independent management of charging and payout rates with a unified pricing engine.",
+    "keywords": [
+      "Smarter Pricing Controls",
+      "External Pricing",
+      "Internal Pricing",
+      "Dual Pricing Configuration",
+      "Pricing Layers"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New",
+      "What This Means For You",
+      "What’s Next"
+    ],
+    "related": [
+      "Financial Models",
+      "Pricing Strategy",
+      "Network Economics"
+    ],
+    "benefits": [
+      "Independent margin and cost control",
+      "Safer and clearer pricing logic",
+      "Future-ready financial models",
+      "Reduced operational complexity"
+    ],
+    "how_to_use": "Define External Price (what you charge) and Internal Price (what you pay) in all pricing screens, including Base Pricing, Surge Pricing, and other sections.",
+    "documents": [
+      "💥⚡️ What’s New_ Smarter Pricing Controls in Network.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/e01163fd-9aab-50ae-94a4-f74c158bde81.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/143ad708-0433-3c3c-28d6-26f2eea2329a.png"
+    ],
+    "available_for": "Network owners and managers"
+  },
+  "whats_new__systematic_order_network_matching": {
+    "title": "What’s New_ Systematic Order & Network Matching",
+    "module": "Systematic Order & Network Matching",
+    "purpose": "Enhance order and network matching by aligning order properties with network capabilities to prevent incompatible routing.",
+    "summary": "This release introduces systematic use of order properties in network matching, ensuring only compatible networks are considered during allocation, reducing manual intervention and operational delays.",
+    "keywords": [
+      "Order Properties",
+      "Network Matching",
+      "Movement Type",
+      "Flow Type",
+      "Allocation",
+      "Compatibility"
+    ],
+    "navigation": [],
+    "related": [
+      "Why We Built This",
+      "What’s New",
+      "What This Means To You"
+    ],
+    "benefits": [
+      "Cleaner and faster network selection",
+      "Stronger alignment between order configuration and network capability",
+      "Improved operational accuracy at scale"
+    ],
+    "how_to_use": "During order allocation, the system evaluates order properties and filters networks incompatible with Movement and Flow Type requirements, ensuring constraint-driven allocation decisions.",
+    "documents": [
+      "💥⚡️ What’s New_ Systematic Order & Network Matching.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/ccaae2d0-c7df-af9d-4164-6c1965f269c4.png"
+    ],
+    "available_for": []
+  },
+  "whats_new__the_future_of_proactive_fleet_management": {
+    "title": "What’s New_ The Future of Proactive Fleet Management",
+    "module": "Fleets and Trace",
+    "purpose": "Integration of AI-powered computer vision and crowdsourced video data for proactive fleet management",
+    "summary": "New dashcam integration provides real-time visibility of location and video for fleets, with features like live video streaming and dual-channel front/back visibility to monitor road conditions, driver behavior, and cargo security.",
+    "keywords": [
+      "AI-powered",
+      "computer vision",
+      "fleet management",
+      "dashcam integration",
+      "real-time tracking",
+      "driver behavior",
+      "cargo security"
+    ],
+    "navigation": [
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoiR2c1dHpTUGlhSjF1N2JnQ1o1LWdBUE5nbFljIiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwcyUzQSUyRiUyRnNhbG9uaS5sYWtob3RpYSU0MHBpZGdlLmluJnhpZD0zMmE1YWY2NmFhJnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDcxJnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcyNTMzMzcxJmg9NWJhNzlhYjcxYmVlYTI2MzdmMTAzYmMwYjQwYmJmNWE4ZmNhNDM2ZDk0MzgyYmVkMDI3ODY2YjRmYjRmZWM4Y1wiLFwiaWRcIjpcIjg5MmQ5NTM2MjViODQ4N2JhNTY4MTk3Y2FjODg3NmUwXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzI1MzMzNzJ9In0",
+      "https://click.mailchimp.com/track/click/30010842/us3.mailchimp.com?p=eyJzIjoiNUwyQl9qMmE0NFB5Smc4d1Q2ZFJ4NjNMNTZJIiwidiI6MiwicCI6IntcInVcIjozMDAxMDg0MixcInZcIjoyLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3VzMy5tYWlsY2hpbXAuY29tXFxcL21jdHhcXFwvY2xpY2tzP3VybD1odHRwJTNBJTJGJTJGd3d3LnBpZGdlLmluJnhpZD0zMmE1YWY2NmFhJnVpZD0yNDc3NDEwNTMmaWlkPTEwMDAxNDcxJnBvb2w9dGVtcGxhdGVfdGVzdCZ2PTImYz0xNzcyNTMzMzcxJmg9ODA2MWI3M2E2Yjk0YjY1NDcxMTYzMWE2OTYyNGU3YTI1Y2ZjZjU4YjY0ZmMzZTFiOWEzOGVlNjg1ZTQ5YjA4M1wiLFwiaWRcIjpcIjg5MmQ5NTM2MjViODQ4N2JhNTY4MTk3Y2FjODg3NmUwXCIsXCJ1cmxfaWRzXCI6W1wiZDNlMDBlYzk3NmQ1YjcwZDYwOTUyOGFiNmIxODI3ZjIyOTNlMDA3NVwiXSxcIm1zZ190c1wiOjE3NzI1MzMzNzJ9In0"
+    ],
+    "related": [],
+    "benefits": [
+      "Live Vehicle Tracking for real-time location and environment visibility",
+      "Monitoring Rider Behaviour with geo-tagged video evidence",
+      "Last-Mile Clarity for urban delivery environment confirmation"
+    ],
+    "how_to_use": [
+      "Use Live Video Streaming for high-risk maneuvers and emergency situations",
+      "Utilize Dual-Channel Dashcams for simultaneous front/back visibility",
+      "Access real-time video feeds through Fleets and Trace platforms"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ The Future of Proactive Fleet Management.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://dim.mcusercontent.com/cs/76169e41390206a9f7af2955a/images/7d37c266-65b3-f133-0ecb-b9b5e7935833.png?dpr=2&amp;rect=335%2C291%2C2465%2C1520&amp;w=566&amp;h=349"
+    ],
+    "available_for": [
+      "Fleets",
+      "Trace"
+    ]
+  },
+  "whats_new__unlock_faster_warehouse_inwarding": {
+    "title": "What’s New_ Unlock Faster Warehouse Inwarding",
+    "module": "Unlock Faster Warehouse Inwarding",
+    "purpose": "Integrate warehouse inwarding workflows into the Dashboard for seamless daily operations and end-to-end process continuity",
+    "summary": "Warehouse inwarding workflows are now available directly in the Dashboard, enabling warehouse teams to manage order verification and processing without switching tools",
+    "keywords": [
+      "Warehouse Inwarding",
+      "Dashboard Integration",
+      "Rider Handovers",
+      "Bulk Inwarding",
+      "Operational Efficiency"
+    ],
+    "navigation": [
+      "Why this matters?",
+      "What’s new?"
+    ],
+    "related": [
+      "Admin App",
+      "Tool switching"
+    ],
+    "benefits": [
+      "Seamless Rider --> Warehouse Handshakes",
+      "Reduced Manual Effort",
+      "Better Reconciliation",
+      "Smoother Warehouse Operations",
+      "Bulk Inwarding for Rider Handovers",
+      "Faster Inwarding",
+      "Smoother Warehouse Flow"
+    ],
+    "how_to_use": [
+      "Use Dashboard for bulk inwarding of orders",
+      "Complete inwarding actions without switching platforms"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Unlock Faster Warehouse Inwarding.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/76169e41390206a9f7af2955a/images/3af9e3ac-ed9c-5cac-97b9-2a022a821cdc.png",
+      "https://mcusercontent.com/76169e41390206a9f7af2955a/images/ff7919df-97b6-a73a-5a8e-7ebd86513b7e.png"
+    ],
+    "available_for": [
+      "Warehouse admins",
+      "Warehouse teams handling inwarding processes"
+    ]
+  },
+  "whats_new__vas_charge_mis_report": {
+    "title": "What’s New_ VAS Charge MIS Report",
+    "module": "VAS Charge MIS Report",
+    "purpose": "Introducing the VAS Charges Report",
+    "summary": "The new VAS Charges Report provides an order-level breakdown of all VAS charges applied during the selected period.",
+    "keywords": [
+      "VAS Charges Report",
+      "order-level breakdown",
+      "audit",
+      "traceability"
+    ],
+    "navigation": [
+      "VISIT WEBSITE"
+    ],
+    "related": [],
+    "benefits": [
+      "precise insight into how VAS charges are applied across orders",
+      "no more guesswork around daily VAS costs",
+      "faster reconciliation and billing validation",
+      "clear justification of charges to internal teams or end clients",
+      "better control over communication-related expenses"
+    ],
+    "how_to_use": [
+      "Access the VAS Charges Report via the provided website link."
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ VAS Charge MIS Report.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/946c052c-974e-3762-0087-358e000854f2.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/2b4c901b-9c34-1e45-ab1f-e5e3e2035c45.png"
+    ],
+    "available_for": "https://www.pidge.in"
+  },
+  "whats_new__weekly_digest_1": {
+    "title": "What’s New_ Weekly Digest (1)",
+    "module": "Weekly Digest",
+    "purpose": "Operational resilience and user experience improvements across rider, customer, and order management workflows",
+    "summary": "Updates include rider logout restrictions during active tasks, COD order state protection, AmazonSelfShip ID visibility, Ref ID in SMS, enhanced package code visibility, and blacklisted rider exclusion.",
+    "keywords": [
+      "operational resilience",
+      "user experience",
+      "rider logout restriction",
+      "COD order state protection",
+      "AmazonSelfShip ID",
+      "Ref ID",
+      "package code visibility",
+      "blacklisted rider exclusion"
+    ],
+    "navigation": [
+      "What’s New",
+      "What’s Next"
+    ],
+    "related": [
+      "Rider Logout Restriction During Active Tasks",
+      "COD Order State Protection After Payment Collection",
+      "Amazon Self-Ship ID Visibility",
+      "Ref ID Replaces PBID in SMS Communications",
+      "Enhanced Package Code Visibility in Rider App",
+      "Ignore Allocation to Blacklisted Riders"
+    ],
+    "benefits": [
+      "Prevents accidental rider logout during ongoing deliveries",
+      "Maintains task continuity and operational visibility",
+      "Reduces disruption to active order fulfillment",
+      "Prevents financial reconciliation mismatches",
+      "Ensures consistency between payment and delivery status",
+      "Eliminates dependency on support teams for ID retrieval",
+      "Improves operational efficiency and auditability",
+      "Provides consistent visibility of AmazonSelfShip ID",
+      "Improves consistency between customer-facing communications and operational workflows",
+      "Reduces dependency on multiple order references to verify packages",
+      "Ensures orders are only sent to eligible riders",
+      "Minimizes manual operational corrections and investigations"
+    ],
+    "how_to_use": [
+      "System blocks rider logout during active tasks with error popup",
+      "COD orders cannot be marked as Failed/Undelivered after payment collection",
+      "AmazonSelfShip ID visible in Order Details modal for completed orders",
+      "SMS notifications use Ref ID instead of PBID",
+      "Package details displayed in structured format with key identifiers",
+      "Blacklisted riders excluded from allocation"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Weekly Digest (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/97c08521-9189-7849-a013-61036b1d21b7.png"
+    ],
+    "available_for": [
+      "riders",
+      "customers",
+      "admins"
+    ]
+  },
+  "whats_new__weekly_digest": {
+    "title": "What’s New_ Weekly Digest",
+    "module": "Weekly Digest",
+    "purpose": "Operational resilience and user experience improvements across rider, customer, and order management workflows",
+    "summary": "Updates include rider logout restrictions during active tasks, COD order state protection, AmazonSelfShip ID visibility, Ref ID in SMS, enhanced package code visibility, and blacklisted rider exclusion.",
+    "keywords": [
+      "operational resilience",
+      "user experience",
+      "rider logout restriction",
+      "COD order state protection",
+      "AmazonSelfShip ID",
+      "Ref ID",
+      "package code visibility",
+      "blacklisted rider exclusion"
+    ],
+    "navigation": [
+      "What’s New",
+      "What’s Next"
+    ],
+    "related": [
+      "Rider Logout Restriction During Active Tasks",
+      "COD Order State Protection After Payment Collection",
+      "Amazon Self-Ship ID Visibility",
+      "Ref ID Replaces PBID in SMS Communications",
+      "Enhanced Package Code Visibility in Rider App",
+      "Ignore Allocation to Blacklisted Riders"
+    ],
+    "benefits": [
+      "Prevents accidental rider logout during ongoing deliveries",
+      "Maintains task continuity and operational visibility",
+      "Reduces disruption to active order fulfillment",
+      "Prevents financial reconciliation mismatches",
+      "Ensures consistency between payment and delivery status",
+      "Eliminates dependency on support teams for ID retrieval",
+      "Improves operational efficiency and auditability",
+      "Provides consistent visibility of AmazonSelfShip ID",
+      "Improves consistency between customer-facing communications and operational workflows",
+      "Reduces dependency on multiple order references to verify packages",
+      "Ensures orders are only sent to eligible riders",
+      "Minimizes manual operational corrections and investigations"
+    ],
+    "how_to_use": [
+      "System blocks rider logout during active tasks with error popup",
+      "COD order state is protected from invalid status transitions",
+      "AmazonSelfShip ID is visible in Order Details modal for completed orders",
+      "SMS notifications use Ref ID instead of PBID",
+      "Package details in Rider App are structured with key identifiers",
+      "Blacklisted riders are excluded from allocation"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Weekly Digest.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/97c08521-9189-7849-a013-61036b1d21b7.png"
+    ],
+    "available_for": [
+      "riders",
+      "customers",
+      "admins"
+    ]
+  },
+  "whats_new__whitelabelled_admin_application": {
+    "title": "What’s New_ Whitelabelled Admin Application",
+    "module": "Whitelabelled Admin Application",
+    "purpose": "Scale Your Brand with our Infrastructure",
+    "summary": "Businesses and vendors can offer professional, brand-forward solutions with multi-language support to deliver world-class services under their own theme and logo.",
+    "keywords": [
+      "whitelabeled",
+      "admin app",
+      "brand scaling",
+      "multi-language support",
+      "brand-forward solutions"
+    ],
+    "navigation": [
+      "What Will you Get?",
+      "Why It’s Good for you!",
+      "What’s Next"
+    ],
+    "related": [
+      "VISIT WEBSITE <https://pidge.in/>"
+    ],
+    "benefits": [
+      "Scale business instantly without massive capital investment",
+      "Brand-centric execution",
+      "Unified landing page with holistic brand data",
+      "Flexible order management",
+      "Rider management tools",
+      "Cash flow and COD settlement management"
+    ],
+    "how_to_use": [
+      "Access unified landing page for trip/revenue data",
+      "Manage orders via flexible order management system",
+      "Monitor rider attendance/location/leaves",
+      "Use cash management tools for COD settlements"
+    ],
+    "documents": [
+      "💥⚡️ What’s New_ Whitelabelled Admin Application.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/5a028ad6-d0de-3c60-734b-371aa090cf48.gif"
+    ],
+    "available_for": [
+      "Businesses",
+      "Vendors",
+      "Service providers"
+    ]
+  },
+  "cod_limit_for_riders": {
+    "title": "COD Limit for Riders",
+    "module": "COD Management System",
+    "purpose": "Give full control over who handles cash, how much they carry, and breach handling with flexible order allocation.",
+    "summary": "Introduces a comprehensive COD management system with controlled allocation, cash limits, enforcement flexibility, and smart alerts for risk control and operational continuity.",
+    "keywords": [
+      "COD management",
+      "rider limits",
+      "cash control",
+      "order allocation",
+      "alert system"
+    ],
+    "navigation": [],
+    "related": [
+      "Earnings & Incentives module"
+    ],
+    "benefits": [
+      "Assign COD orders only to qualified riders",
+      "Control cash in the field",
+      "Choose strict or partial restriction enforcement",
+      "Automate enforcement and reduce manual monitoring",
+      "Improve cash reconciliation and reduce leakage risk"
+    ],
+    "how_to_use": [
+      "Define rider eligibility criteria (lifetime orders, recent performance)",
+      "Set cash limits (max outstanding, excess over earnings)",
+      "Configure enforcement rules (block all orders or only COD)",
+      "Enable smart alerts for threshold breaches",
+      "Use automated actions like logging out riders or assigning admin tasks"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ COD Limit for Riders.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/c26fcebb-f10c-05f8-7e34-619bc3dd8938.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/a98b9c58-0188-c0c7-e948-3e97e6951ab4.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0e7fdad3-d311-2bb8-f22a-096d57e5c897.png"
+    ],
+    "available_for": [
+      "M3M Urbana Business Park, Sector 67, Gurugram, Haryana (122101)",
+      "Visit website: https://pidge.in/"
+    ]
+  },
+  "dynamic_rider_management_in_networks_1": {
+    "title": "Dynamic Rider Management in Networks (1)",
+    "module": "Dynamic Rider Management in Networks",
+    "purpose": "Automate adding/removing riders in networks using Rider Tags to reduce administrative burden.",
+    "summary": "Introduces tag-based network mapping, automatic offboarding, loaned rider management, and flexi shifts to streamline delivery network operations.",
+    "keywords": [
+      "Rider Tags",
+      "Dynamic Management",
+      "Automation",
+      "Network Mapping",
+      "Flexi Shifts"
+    ],
+    "navigation": [
+      "Tag-Based Network Mapping",
+      "Automatic Offboarding & Cleanup",
+      "Loaned Riders",
+      "Flexi Shifts"
+    ],
+    "related": [
+      "Admin Work Reduction",
+      "Error Elimination",
+      "Operational Flexibility"
+    ],
+    "benefits": [
+      "Save hours of admin work",
+      "Eliminate human error in rider assignments",
+      "Operational flexibility for fleet scenarios"
+    ],
+    "how_to_use": "1. Assign tags to riders and link them to networks. 2. Use tags for automatic onboarding/offboarding. 3. Apply loaned rider tags for temporary network access. 4. Manage flexi shifts with tag-based network suspension.",
+    "documents": [
+      "🔔 Coming Soon_ Dynamic Rider Management in Networks (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/9cc2ad62-a1e4-fd98-191e-5c976f80351d.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/4d988e0e-db58-eb54-89c7-f933e7053fa2.png"
+    ],
+    "available_for": []
+  },
+  "dynamic_rider_management_in_networks": {
+    "title": "Dynamic Rider Management in Networks",
+    "module": "Dynamic Rider Management in Networks",
+    "purpose": "Automate adding/removing riders in networks using Rider Tags to reduce administrative burden.",
+    "summary": "Introduces tag-based network mapping, automatic offboarding, loaned rider management, and flexi shifts for streamlined delivery network operations.",
+    "keywords": [
+      "Rider Tags",
+      "Dynamic Management",
+      "Network Mapping",
+      "Automatic Offboarding",
+      "Loaned Riders",
+      "Flexi Shifts"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You"
+    ],
+    "related": [
+      "Tag-Based Network Mapping",
+      "Automatic Offboarding & Cleanup",
+      "Loaned Riders",
+      "Flexi Shifts"
+    ],
+    "benefits": [
+      "Save Hours of Admin Work",
+      "Eliminate Human Error",
+      "Operational Flexibility"
+    ],
+    "how_to_use": [
+      "Link tags to networks; riders are auto-added when tagged",
+      "Unassign tags to automatically remove riders from networks",
+      "Apply loaned rider tags to temporarily include riders in networks",
+      "Flexi Shifts pause tag-bound networks until shifts end"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Dynamic Rider Management in Networks.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/9cc2ad62-a1e4-fd98-191e-5c976f80351d.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/4d988e0e-db58-eb54-89c7-f933e7053fa2.png"
+    ],
+    "available_for": "Businesses managing delivery networks via Pidge platform"
+  },
+  "rider_breaks_1": {
+    "title": "Rider Breaks (1)",
+    "module": "Rider Breaks",
+    "purpose": "Allow riders to notify businesses when they need breaks, pausing order assignments temporarily to avoid delivery delays and ensure smoother operations.",
+    "summary": "Rider Breaks enable riders to request short breaks (e.g., meals, rest) during shifts, pausing their order assignments and resuming automatically upon return. This reduces manual intervention, improves rider availability tracking, and enhances operational efficiency.",
+    "keywords": [
+      "Rider Breaks",
+      "Shift Management",
+      "Break Requests",
+      "Roster Creation",
+      "Peak Hours",
+      "Operational Efficiency"
+    ],
+    "navigation": [
+      "How to Request a Break",
+      "Different Business, Different Needs",
+      "Peak Hour Configuration"
+    ],
+    "related": [
+      "Things to note!",
+      "What This Means To YouGemini said"
+    ],
+    "benefits": [
+      "No more order delays or reassignments due to rider unavailability",
+      "Reduced manual operational intervention by admins",
+      "Positive impact on rider performance metrics (e.g., acceptance rate)",
+      "Accurate rider availability in allocation systems"
+    ],
+    "how_to_use": [
+      "Set up breaks during roster creation in Riders > Roster & Attendance > Create Roster",
+      "Riders request breaks via Executive App: Shift Management > Request Break",
+      "Configure peak hours to restrict breaks during high-order-volume periods"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider Breaks (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/27f251a2-e415-e7d2-33d8-02dd8f5368b9.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/548ec863-1546-a213-fa14-d472f6c2fb0a.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f87ba13d-5464-d762-d39a-b89068d0aa5e.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/19503ede-de3c-411d-2856-1f06523c5829.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/ad947528-dc9f-1e5f-f0fc-83dadcb6d43c.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60"
+    ],
+    "available_for": [
+      "Captive rider fleet (Project Dedicated riders not included in this release)"
+    ]
+  },
+  "rider_breaks": {
+    "title": "Rider Breaks",
+    "module": "Rider Breaks",
+    "purpose": "Allow riders to notify the business when they need a break, pausing order assignments temporarily and resuming automatically.",
+    "summary": "Rider Breaks enable riders to take scheduled breaks without disrupting delivery operations. Breaks pause order assignments and resume automatically, improving efficiency and rider experience.",
+    "keywords": [
+      "Rider Breaks",
+      "Shift Management",
+      "Break Requests",
+      "Rider Availability"
+    ],
+    "navigation": [
+      "Shift Management > Request Break",
+      "Riders > Roster & Attendance > Create Roster"
+    ],
+    "related": [
+      "Peak Hour Configuration",
+      "Rider Performance Report"
+    ],
+    "benefits": [
+      "No order delays or reassignments due to rider unavailability",
+      "Reduced manual admin intervention during rider unavailability",
+      "Improved rider performance metrics (e.g., acceptance rate)",
+      "Accurate rider availability in allocation systems"
+    ],
+    "how_to_use": [
+      "Riders request breaks via Executive App: Shift Management > Request Break",
+      "Set up breaks during roster creation: Riders > Roster & Attendance > Create Roster",
+      "Break duration is set in 5-minute increments based on shift timing"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider Breaks.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/27f251a2-e415-e7d2-33d8-02dd8f5368b9.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/548ec863-1546-a213-fa14-d472f6c2fb0a.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f87ba13d-5464-d762-d39a-b89068d0aa5e.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/19503ede-de3c-411d-2856-1f06523c5829.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/ad947528-dc9f-1e5f-f0fc-83dadcb6d43c.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/75796a3c-4a68-ed3c-86fa-2d6f928ce8e6.jpg?dpr=2&amp;rect=5207%2C3889%2C3337%2C1281&amp;w=157&amp;h=60"
+    ],
+    "available_for": [
+      "Captive rider fleet",
+      "Shared riders (Project Dedicated) not supported in this release"
+    ]
+  },
+  "rider_flexi_shifts_1": {
+    "title": "Rider Flexi Shifts (1)",
+    "module": "Rider Flexi Shifts",
+    "purpose": "Introduce a new shift management model for on-demand flexibility",
+    "summary": "Flexi Shifts allows admins to broadcast open shift slots, enabling riders to opt-in based on real-time availability, reducing manual effort and improving supply activation during demand spikes.",
+    "keywords": [
+      "Flexi Shifts",
+      "on-demand flexibility",
+      "shift management",
+      "riders",
+      "admins",
+      "dynamic scheduling"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New!",
+      "What This Means To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Roster & Shifts",
+      "Smart Urgency Tags",
+      "Order Properties Transparency",
+      "Frictionless Cancelation"
+    ],
+    "benefits": [
+      "Reduces manual effort for fleet admins",
+      "Enables dynamic scheduling for riders",
+      "Accelerates shift fulfillment with real-time indicators",
+      "Improves supply activation during demand spikes"
+    ],
+    "how_to_use": [
+      "Riders can book open slots up to 4 days in advance via the Rider App",
+      "Use Smart Urgency Tags to prioritize shifts",
+      "Review order properties (movement type, payment limits, hub distance) before booking",
+      "Cancel shifts instantly via the app drawer before logging in"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider Flexi Shifts (1).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/d0d50d39-2de9-413b-5b1c-208ec8c7b014.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/e07b68a6-13ac-07e4-9678-ccb3c9fc21f0.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f6da1f8a-813b-6334-b067-6da56805eedb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/7a7b85fa-970a-b06b-5519-c31b0d5f1d37.png"
+    ],
+    "available_for": [
+      "Admins",
+      "Riders"
+    ]
+  },
+  "rider_flexi_shifts_2": {
+    "title": "Rider Flexi Shifts (2)",
+    "module": "Rider Flexi Shifts",
+    "purpose": "Introduce a brand-new shift management model for on-demand flexibility in workforce scheduling",
+    "summary": "Flexi Shifts allows admins to broadcast open shift slots for eligible riders to opt-in based on real-time availability, addressing operational bottlenecks and enhancing agility for both admins and riders.",
+    "keywords": [
+      "Flexi Shifts",
+      "shift management",
+      "on-demand flexibility",
+      "riders",
+      "admins",
+      "dynamic scheduling"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New!",
+      "What This Means To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Roster & Shifts",
+      "Smart Urgency Tags",
+      "Order Properties",
+      "Frictionless Cancelation"
+    ],
+    "benefits": [
+      "Provides flexibility for riders with dynamic working hours",
+      "Reduces manual effort for fleet admins",
+      "Enables rapid supply activation during demand spikes"
+    ],
+    "how_to_use": [
+      "Riders can book open slots up to 4 days in advance via the Rider App",
+      "View real-time urgency tags like 'Filling Fast' or 'Almost Full'",
+      "Access shift details including order types, payment limitations, and hub distances",
+      "Cancel shifts instantly via the app before logging in"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider Flexi Shifts (2).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/d0d50d39-2de9-413b-5b1c-208ec8c7b014.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/e07b68a6-13ac-07e4-9678-ccb3c9fc21f0.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f6da1f8a-813b-6334-b067-6da56805eedb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/7a7b85fa-970a-b06b-5519-c31b0d5f1d37.png"
+    ],
+    "available_for": [
+      "Admins",
+      "Riders"
+    ]
+  },
+  "rider_flexi_shifts": {
+    "title": "Rider Flexi Shifts",
+    "module": "Rider Flexi Shifts",
+    "purpose": "Introduce a new shift management model for on-demand flexibility",
+    "summary": "Flexi Shifts allows admins to broadcast open shift slots, enabling riders to opt-in based on real-time availability, reducing manual effort and improving supply activation during demand spikes.",
+    "keywords": [
+      "Flexi Shifts",
+      "shift management",
+      "on-demand flexibility",
+      "riders",
+      "admins",
+      "dynamic scheduling"
+    ],
+    "navigation": [
+      "Why We Built This",
+      "What’s New!",
+      "What This Means To You",
+      "What’s Next"
+    ],
+    "related": [
+      "Roster & Shifts",
+      "Smart Urgency Tags",
+      "Order Properties Transparency",
+      "Frictionless Cancelation"
+    ],
+    "benefits": [
+      "Reduces manual effort for fleet admins",
+      "Enables quick supply activation during demand spikes",
+      "Provides riders with autonomy over earning opportunities",
+      "Improves operational scalability for admins",
+      "Enhances rider access to open slots without admin intervention"
+    ],
+    "how_to_use": [
+      "Admins broadcast open shift slots to eligible riders",
+      "Riders view and book open slots via the Rider App up to 4 days in advance",
+      "Riders receive real-time urgency tags for shift fulfillment",
+      "Riders can cancel accepted shifts instantly via the app",
+      "Admins scale operations by simultaneously notifying entire rider bases"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider Flexi Shifts.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/d0d50d39-2de9-413b-5b1c-208ec8c7b014.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/e07b68a6-13ac-07e4-9678-ccb3c9fc21f0.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/f6da1f8a-813b-6334-b067-6da56805eedb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/7a7b85fa-970a-b06b-5519-c31b0d5f1d37.png"
+    ],
+    "available_for": [
+      "Admins",
+      "Riders"
+    ]
+  },
+  "rider_kyc_verification": {
+    "title": "Rider KYC Verification",
+    "module": "Rider KYC Verification",
+    "purpose": "Introducing rider verification directly within the Rider App for streamlined document verification processes",
+    "summary": "Rider verification is now integrated into the Rider App, allowing riders to complete Aadhaar, Driving License, and Bank verification with real-time status updates on the dashboard. Admins gain control over verification workflows while reducing manual entry loopholes.",
+    "keywords": [
+      "KYC",
+      "verification",
+      "Rider App",
+      "DigiLocker",
+      "Penny drop"
+    ],
+    "navigation": [
+      "Dashboard Updates",
+      "Rider App Features",
+      "Operational Impact",
+      "Business Benefits"
+    ],
+    "related": [
+      "Verification Requirements",
+      "Document Validation Methods",
+      "Compliance and Risk Reduction"
+    ],
+    "benefits": [
+      "Reduces operational risk and compliance exposure",
+      "Strengthens customer confidence",
+      "Enables scalable workforce management",
+      "Simplifies admin verification workflows"
+    ],
+    "how_to_use": [
+      "Riders complete verification via Rider App profile section",
+      "Aadhaar verified through DigiLocker",
+      "Driving License verified via document upload",
+      "Bank verification via Penny drop",
+      "Admins approve/reject documents with manual controls"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Rider KYC Verification.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/a15f3dd3-f537-e7a1-d923-1ddb32c38037.jpg",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/1a8c1f00-7297-7cd6-9433-0022de51a100.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/3bc329b4-5cbf-0518-5fc7-172e29ed4684.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/d3db1d34-e289-dfd9-91dd-68a1ff4e8589.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/4d9b0c2b-9934-e5c2-dcc5-61571eb09da4.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/63ee8faa-44fe-1b3f-087f-9be1f59efd23.png",
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/1a692c5f-14fe-b0e8-dd7e-950a3b3f6c2b.png"
+    ],
+    "available_for": [
+      "Businesses using Pidge platform",
+      "Riders assigned to business accounts",
+      "Admins managing rider verification workflows"
+    ]
+  },
+  "scan___swipe___done_simplified_qr_fifo_journey": {
+    "title": "Scan -_ Swipe -_ Done (Simplified QR FIFO Journey)",
+    "module": "QR FIFO Flow",
+    "purpose": "Simplify the rider's package pickup process to save time and improve efficiency",
+    "summary": "The QR FIFO Flow has been revamped to eliminate redundant steps, providing a faster and more intuitive experience for riders.",
+    "keywords": [
+      "QR FIFO",
+      "simplified workflow",
+      "efficiency",
+      "riders",
+      "package pickup"
+    ],
+    "navigation": [],
+    "related": [],
+    "benefits": [
+      "Higher productivity",
+      "Better earnings per hour",
+      "Reduced on-ground errors",
+      "Faster package pickup"
+    ],
+    "how_to_use": [
+      "Swipe 'Complete Pickup' to skip intermediate screens",
+      "Manually enter order ID if QR code fails",
+      "Receive specific error messages for scan issues"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Scan -_ Swipe -_ Done (Simplified QR FIFO Journey).eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/619eebdd-376d-2e84-2ca2-1672d3424163.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0b4b2d2a-a1c3-4cde-8c6c-79ea1bd5273c.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/211ef322-b1cb-9381-886d-b5356f3188b6.png",
+      "https://dim.mcusercontent.com/cs/f4a2f12a3f8b84b83bf6bc401/images/e5824d17-3d96-80d9-375f-971b77d3ee68.png?dpr=2&amp;rect=0%2C0%2C2393%2C4023&amp;w=628&amp;h=1055"
+    ],
+    "available_for": "Riders and delivery personnel"
+  },
+  "smart_routing_and_allocation": {
+    "title": "Smart Routing and Allocation",
+    "module": "Smart Routing and Allocation",
+    "purpose": "Enhance routing efficiency and rider task management through intelligent order merging, dynamic prioritization, and optimized rider allocation.",
+    "summary": "Introduces forward/reverse order merging, task reprioritization, and Top Rider enhancements to improve operational efficiency and rider flexibility.",
+    "keywords": [
+      "Smart Routing",
+      "Order Merging",
+      "Task Prioritization",
+      "Top Rider Algorithm",
+      "Route Optimization"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You"
+    ],
+    "related": [
+      "Cost & Route Optimization",
+      "Maximizing Rider Flexibility",
+      "Faster, Friction-Free Allocation"
+    ],
+    "benefits": [
+      "Reduce total distance traveled and operational costs",
+      "Enable dynamic task reordering while maintaining SLA compliance",
+      "Ensure equitable order distribution through rider-free-time filtering"
+    ],
+    "how_to_use": [
+      "Combine forward and reverse orders into unified routes",
+      "Rearrange live tasks within merged routes",
+      "Use 15-minute free-time filter for Top Rider allocation",
+      "Prioritize tasks while adhering to guardrails (e.g., no drop before pickup)"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Smart Routing and Allocation.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/599141cc-a595-258c-a456-e57680518235.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/c1f1d64d-b78d-b2c7-1de2-eb6f85c6bce1.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/8fa2ad6a-a5fd-3c14-e390-5bad501e6a11.png"
+    ],
+    "available_for": [
+      "Riders",
+      "Businesses"
+    ]
+  },
+  "system_changes_effective_from_july_1": {
+    "title": "System Changes effective from July 1",
+    "module": "System Changes",
+    "purpose": "Enforce rules to ensure money, identity, and account hierarchy point to a single verifiable source of truth",
+    "summary": "10 changes across Verification & KYC, Account Structure, Billing & Invoicing, and Cash Automation take effect on 1 July to address operational grey areas.",
+    "keywords": [
+      "Verification & KYC",
+      "Account Structure",
+      "Billing & Invoicing",
+      "Cash Automation",
+      "GST verification",
+      "Aadhaar verification"
+    ],
+    "navigation": [
+      "Verification & KYC",
+      "Account Structure & Hierarchy",
+      "Billing & Invo, Cash & Wallet Automation"
+    ],
+    "related": [
+      "Enterprise Accounts",
+      "Riders",
+      "Business KYC",
+      "COD Cash",
+      "Wallet Automation"
+    ],
+    "benefits": [
+      "Prevent operational grey areas",
+      "Ensure verified sources of truth",
+      "Automate fee deductions",
+      "Streamline invoicing processes",
+      "Enhance account hierarchy clarity"
+    ],
+    "how_to_use": [
+      "Verify Aadhaar for public network riders",
+      "Set up GST and bank verification for Enterprise accounts",
+      "Configure invoicing periods per hierarchy",
+      "Enable automatic cash handling fee deductions",
+      "Update child account settings to inherit parent rate cards"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ System Changes effective from July 1.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/81fa7969-1754-4147-73f3-ef9f61c869e7.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png"
+    ],
+    "available_for": [
+      "Businesses",
+      "Riders",
+      "Enterprise Accounts",
+      "Admin Panel",
+      "Parent Accounts",
+      "Child Accounts"
+    ]
+  },
+  "unified_earnings_view_reports_and_gamified_rider_experience": {
+    "title": "Unified Earnings View, Reports and Gamified Rider Experience",
+    "module": "Unified Earnings View, Reports and Gamified Rider Experience",
+    "purpose": "To make admins' lives easier and riders earn more by consolidating data and improving app experience",
+    "summary": "This update connects rider earnings, incentives, and penalties into a unified view, provides reporting tools for admins, and introduces gamification to motivate riders.",
+    "keywords": [
+      "Unified Earnings View",
+      "Gamified Rider Experience",
+      "Reports",
+      "Incentives",
+      "Payouts",
+      "Gamification"
+    ],
+    "navigation": [
+      "What’s New",
+      "What This Means To You"
+    ],
+    "related": [
+      "Combined View",
+      "Earning and Incentives Report",
+      "Rider Incentive gamified version"
+    ],
+    "benefits": [
+      "Eliminates fragmentation by consolidating data",
+      "Optimizes costs with clear reports",
+      "Boosts motivation through gamification"
+    ],
+    "how_to_use": [
+      "Admins create reports for daily summaries and incentive effectiveness",
+      "Riders engage with gamified incentives to track progress and earn rewards"
+    ],
+    "documents": [
+      "🔔 Coming Soon_ Unified Earnings View, Reports and Gamified Rider Experience.eml"
+    ],
+    "images": [
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png",
+      "https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0795.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/426446bb-cca2-9961-d2d8-64bf2595248d.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/6e30348f-2dc5-3b48-547e-c0783a03bbeb.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/49ff4738-241f-2ac4-6837-90da7f3a8283.png",
+      "https://mcusercontent.com/f4a2f12a3f8b84b83bf6bc401/images/0ff490d0-a7d9-2fa6-6a09-c5305491764a.png"
+    ],
+    "available_for": [
+      "Admins",
+      "Riders"
+    ]
+  }
+}

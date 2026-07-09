@@ -1,0 +1,512 @@
+MIME-Version: 1.0
+Date: Thu, 5 Mar 2026 14:30:00 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>
+Message-ID: <CAFuJ3p6WX2JQZSwS-OTN1Leq6XXPByt-M+o42eKZVM85PbiNJw@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IFN5c3RlbWF0aWMgT3JkZXIgJiBOZXR3b3JrIA==?=
+	=?UTF-8?B?TWF0Y2hpbmc=?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000253f3f064c430584"
+
+--000000000000253f3f064c430584
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+
+*Systematic Order **and **Network **Matching*
+
+
+As fulfilment models evolve, not all networks can handle all types of
+orders. Some support *Forward movement*, others only *Reverse*. Some
+operate on *QR FIFO*, others on *Update FIFO* or *Partial flows*.
+
+
+Until now, allocation visibility did not fully align with these order-level
+properties, increasing the risk of incorrect routing or manual filtering.
+With this release, *Order Properties are now systematically used din
+network matching* during allocation.
+Why We Built This
+
+
+When movement type or flow capability mismatches occur:
+
+   -
+
+   Orders are routed to incompatible networks
+   -
+
+   Manual reallocation becomes necessary
+   -
+
+   Operational delays increase
+
+
+This enhancement ensures that only compatible networks are available &
+considered during allocation (manual and automated)
+What=E2=80=99s New
+
+Order properties now have defined Movement and Flow types, and that same
+structure is also available at networks, making matchmaking the correct
+next step.
+
+
+During order allocation:
+
+   -
+
+   The system evaluates order properties
+   -
+
+   Only networks that satisfy both *Movement* and *Flow Type* are shown
+   -
+
+   Incompatible networks are automatically filtered out
+
+
+This ensures:
+
+   -
+
+   No reverse orders are shown to forward-only networks
+   -
+
+   No partial-flow orders are routed to unsupported networks
+   -
+
+   Allocation decisions are constraint-driven, not manual
+
+What This Means To You
+
+   -
+
+   Cleaner and faster network selection
+   -
+
+   Stronger alignment between order configuration and network capability
+   -
+
+   Improved operational accuracy at scale
+
+What=E2=80=99s Next?
+
+
+Something exciting is coming soon, stay tuned !!
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE
+<https://us17.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&xid=
+=3Daaf386cc2e&uid=3D248089116&iid=3D253ca9b468&pool=3Dcts&v=3D2&c=3D1772532=
+541&h=3D11670be7aca05b7e95c9efc6291d1391f3c22e865bb4bf4f46d8f2e391aefe03>
+
+--000000000000253f3f064c430584
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table id=3D"m_-3127088209697406506root" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center=
+" style=3D"word-break:break-word;background-color:transparent"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presenta=
+tion" style=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td val=
+ign=3D"top" style=3D"word-break:break-word"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentat=
+ion" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=
+=3D"word-break:break-word;background-position:center center;background-repe=
+at:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-3127088209697406506=
+mceColumn" id=3D"m_-3127088209697406506mceColumnId--6" colspan=3D"12" width=
+=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px=
+"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ro=
+le=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valig=
+n=3D"top" align=3D"center" id=3D"m_-3127088209697406506b38" style=3D"word-b=
+reak:break-word;padding:0px;border:0px;border-radius:0px"><div></div><table=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-wid=
+th:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"wor=
+d-break:break-word;border:0px;border-radius:0px"><img alt=3D"image placehol=
+der" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3=
+298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" class=
+=3D"m_-3127088209697406506mceImage gmail-CToWUd" style=3D"border: 0px; heig=
+ht: auto; outline: none; display: block; max-width: 100%; border-radius: 0p=
+x;"></td></tr></tbody></table><div></div><div></div></td></tr><tr><td valig=
+n=3D"top" align=3D"center" id=3D"m_-3127088209697406506b39" style=3D"word-b=
+reak:break-word;padding:0px;border:0px;border-radius:0px"><div></div><table=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" role=3D"presentation" style=3D"margin:0px;vertical-align:top;max-wid=
+th:100%;width:660px;height:auto"><tbody><tr><td valign=3D"top" style=3D"wor=
+d-break:break-word;border:0px;border-radius:0px"><img alt=3D"image placehol=
+der" src=3D"https://mcusercontent.com/224f42470f71ae12c1de16d6c/images/0534=
+2ccc-bd0f-dfd4-6832-7a28b8cc0795.png" width=3D"660" height=3D"auto" class=
+=3D"m_-3127088209697406506mceImage gmail-CToWUd gmail-a6T" tabindex=3D"0" s=
+tyle=3D"cursor: pointer; outline: none; border: 0px; height: auto; display:=
+ block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table><di=
+v></div><div></div></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><tbody><t=
+r><td valign=3D"top" align=3D"center" style=3D"word-break:break-word;backgr=
+ound-color:transparent"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:break=
+-word"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background=
+-position:center center;background-repeat:no-repeat;background-size:cover">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" class=3D"m_-3127088209697406506mceColumn" id=3D"m_-312708820969740=
+6506mceColumnId--7" colspan=3D"12" width=3D"100%" style=3D"word-break:break=
+-word;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-31270882096974=
+06506gutterContainerId-33" style=3D"word-break:break-word;padding:0px"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"=
+presentation"><tbody><tr><td valign=3D"top" id=3D"m_-3127088209697406506b33=
+" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px">=
+<table width=3D"100%" style=3D"border:0px;background-color:transparent;bord=
+er-radius:0px"><tbody><tr><td class=3D"m_-3127088209697406506mceTextBlockCo=
+ntainer" style=3D"word-break:break-word;padding:12px 16px"><div class=3D"m_=
+-3127088209697406506mceText" id=3D"m_-3127088209697406506d33" style=3D"font=
+-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color=
+:rgb(0,0,0);width:624.258px"><p class=3D"m_-3127088209697406506mcePastedCon=
+tent" style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;=
+line-height:1.5;letter-spacing:0px;direction:ltr"><strong><span style=3D"fo=
+nt-size:26px">Systematic Order=C2=A0</span></strong><strong style=3D"backgr=
+ound-color:transparent"><span style=3D"font-size:26px">and=C2=A0</span></st=
+rong><strong style=3D"letter-spacing:0px;background-color:transparent"><spa=
+n style=3D"font-size:26px">Network </span></strong><strong style=3D"letter-=
+spacing:0px;background-color:transparent"><span style=3D"font-size:26px">Ma=
+tching</span></strong></p><p style=3D"margin:0px;padding:0px;word-break:bre=
+ak-word;font-size:16px;line-height:0;letter-spacing:0px;direction:ltr"><br>=
+</p><p style=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break-word;fo=
+nt-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,=
+71)">As fulfilment models evolve, not all networks can handle all types of =
+orders. Some support </span><strong><span style=3D"color:rgb(41,42,46)">For=
+ward movement</span></strong><span style=3D"color:rgb(71,71,71)">, others o=
+nly </span><strong><span style=3D"color:rgb(41,42,46)">Reverse</span></stro=
+ng><span style=3D"color:rgb(71,71,71)">. Some operate on </span><strong><sp=
+an style=3D"color:rgb(41,42,46)">QR FIFO</span></strong><span style=3D"colo=
+r:rgb(71,71,71)">, others on </span><strong><span style=3D"color:rgb(41,42,=
+46)">Update FIFO</span></strong><span style=3D"color:rgb(71,71,71)"> or </s=
+pan><strong><span style=3D"color:rgb(41,42,46)">Partial flows</span></stron=
+g><span style=3D"color:rgb(71,71,71)">.</span></p><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:lt=
+r"><br></p><p style=3D"margin:0px;padding:0px;word-break:break-word;font-si=
+ze:16px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">=
+Until now, allocation visibility did not fully align with these order-level=
+ properties, increasing the risk of incorrect routing or manual filtering. =
+With this release,=C2=A0</span><strong><span style=3D"color:rgb(41,42,46)">=
+Order Properties are now systematically used <span class=3D"Asgive ng">din<=
+/span> network matching</span></strong><span style=3D"color:rgb(71,71,71)">=
+=C2=A0during allocation.</span></p></div></td></tr></tbody></table></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td>=
+</tr></tbody></table></td></tr></tbody></table></td></tr></tbody><tbody><tr=
+><td valign=3D"top" align=3D"center" style=3D"word-break:break-word;backgro=
+und-color:transparent"><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse;=
+max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-break:break-wo=
+rd"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" style=3D"word-break:break-word;background-posi=
+tion:center center;background-repeat:no-repeat;background-size:cover"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"p=
+resentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"to=
+p" class=3D"m_-3127088209697406506mceColumn" id=3D"m_-3127088209697406506mc=
+eColumnId--8" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;=
+padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-colla=
+pse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-3127088209697406506gut=
+terContainerId-46" style=3D"word-break:break-word"><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody=
+><tr><td valign=3D"top" id=3D"m_-3127088209697406506b46" style=3D"word-brea=
+k:break-word;padding:0px;border:0px;border-radius:0px"><table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" id=3D"m_-3127088209697406506section_21b37f04f8973b9693d0862d=
+cb268e9f" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+style=3D"word-break:break-word;background-position:center center;background=
+-repeat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-=
+collapse:collapse"><tbody><tr><td valign=3D"top" class=3D"m_-31270882096974=
+06506mceColumn" id=3D"m_-3127088209697406506mceColumnId--9" colspan=3D"12" =
+width=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"b=
+order-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=
+=3D"m_-3127088209697406506b-5" style=3D"word-break:break-word;border:0px;bo=
+rder-radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collaps=
+e:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;ba=
+ckground-position:center center;background-repeat:no-repeat;background-size=
+:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" class=3D"m_-3127088209697406506mceColumn" id=3D"m_-31270882=
+09697406506mceColumnId--11" colspan=3D"12" width=3D"100%" style=3D"word-bre=
+ak:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody>=
+<tr><td valign=3D"top" id=3D"m_-3127088209697406506b45" style=3D"word-break=
+:break-word;border:0px;border-radius:0px"><table align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation=
+" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D=
+"word-break:break-word;background-position:center center;background-repeat:=
+no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"24" width=3D"100%" role=3D"presentation" style=3D"border-collaps=
+e:collapse"><tbody><tr><td valign=3D"center" class=3D"m_-312708820969740650=
+6mceColumn" id=3D"m_-3127088209697406506mceColumnId-44" colspan=3D"12" widt=
+h=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0p=
+x"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" r=
+ole=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td vali=
+gn=3D"top" align=3D"center" id=3D"m_-3127088209697406506b119" style=3D"word=
+-break:break-word;background-color:transparent;padding:12px 24px;border:0px=
+;border-radius:0px"><div></div><table align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"=
+margin:0px;vertical-align:top;max-width:100%;width:612.012px;height:auto"><=
+tbody><tr><td valign=3D"top" style=3D"word-break:break-word;border:0px;bord=
+er-radius:0px"><img alt=3D"" src=3D"https://mcusercontent.com/f54e0edc5d9dc=
+e9d8cd226873/images/ccaae2d0-c7df-af9d-4164-6c1965f269c4.png" width=3D"612"=
+ height=3D"auto" class=3D"m_-3127088209697406506mceImage gmail-CToWUd gmail=
+-a6T" tabindex=3D"0" style=3D"cursor: pointer; outline: none; border: 0px; =
+height: auto; display: block; max-width: 100%; border-radius: 0px;"></td></=
+tr></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top" i=
+d=3D"m_-3127088209697406506gutterContainerId-20" style=3D"word-break:break-=
+word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-=
+3127088209697406506b20" style=3D"word-break:break-word;padding:0px;border:0=
+px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;background-=
+color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_-31270882096=
+97406506mceTextBlockContainer" style=3D"word-break:break-word;padding:0px 2=
+4px 8px 16px"><div class=3D"m_-3127088209697406506mceText" id=3D"m_-3127088=
+209697406506d20" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,=
+Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_-3=
+127088209697406506mcePastedContent" id=3D"m_-3127088209697406506What=E2=80=
+=99s-New" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:20px;line=
+-height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)"><span style=
+=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian Sans&quot=
+;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubunt=
+u,&quot;Helvetica Neue&quot;,sans-serif">Why We Built This</span></span></s=
+pan></h3><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size=
+:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"colo=
+r:rgb(41,42,46)"><br></span><span style=3D"color:rgb(71,71,71)">When moveme=
+nt type or flow capability mismatches occur:</span></p><ul style=3D"margin-=
+bottom:0px"><li class=3D"m_-3127088209697406506mcePastedContent" style=3D"m=
+argin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-3127088209697406506mceP=
+astedContent" style=3D"margin:0px;padding:0px;word-break:break-word;color:r=
+gb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<span style=3D"color:rgb(71,71,71)">Orders are routed to incompatible netwo=
+rks</span></p></li><li class=3D"m_-3127088209697406506mcePastedContent" sty=
+le=3D"margin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-3127088209697406=
+506mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;=
+color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;directio=
+n:ltr"><span style=3D"color:rgb(71,71,71)">Manual reallocation becomes nece=
+ssary</span></p></li><li class=3D"m_-3127088209697406506mcePastedContent" s=
+tyle=3D"margin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-31270882096974=
+06506mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-wor=
+d;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direct=
+ion:ltr"><span style=3D"color:rgb(71,71,71)">Operational delays increase</s=
+pan></p></li></ul><p style=3D"margin:0px;padding:0px;word-break:break-word;=
+font-size:16px;line-height:1.5;direction:ltr"><br></p><p style=3D"margin:0p=
+x;padding:0px;word-break:break-word;font-size:16px;line-height:1.5;directio=
+n:ltr"><span style=3D"color:rgb(71,71,71)">This enhancement ensures that on=
+ly compatible networks are available &amp; considered during allocation (ma=
+nual and automated)</span></p></div></td></tr></tbody></table></td></tr></t=
+body></table></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209697406506g=
+utterContainerId-117" style=3D"word-break:break-word;padding:0px"><table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"prese=
+ntation"><tbody><tr><td valign=3D"top" id=3D"m_-3127088209697406506b117" st=
+yle=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><tab=
+le width=3D"100%" style=3D"border:0px;background-color:transparent;border-r=
+adius:0px"><tbody><tr><td class=3D"m_-3127088209697406506mceTextBlockContai=
+ner" style=3D"word-break:break-word;padding:0px 24px 8px 16px"><div class=
+=3D"m_-3127088209697406506mceText" id=3D"m_-3127088209697406506d117" style=
+=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-ser=
+if;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_-3127088209697406506mceP=
+astedContent" id=3D"m_-3127088209697406506What=E2=80=99s-New" style=3D"marg=
+in:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:l=
+tr"><span style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"><=
+span style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-s=
+ystem,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&q=
+uot;,sans-serif">What=E2=80=99s New</span></span></span></h3></div></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td>=
+</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></ta=
+ble></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209697406506gutterCont=
+ainerId-103" style=3D"word-break:break-word;padding:0px"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation">=
+<tbody></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209=
+697406506gutterContainerId-118" style=3D"word-break:break-word;padding:0px"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-31270882096974065=
+06b118" style=3D"word-break:break-word;padding:0px;border:0px;border-radius=
+:0px"><table width=3D"100%" style=3D"border:0px;background-color:transparen=
+t;border-radius:0px"><tbody><tr><td class=3D"m_-3127088209697406506mceTextB=
+lockContainer" style=3D"word-break:break-word;padding:0px 24px 8px 16px"><d=
+iv class=3D"m_-3127088209697406506mceText" id=3D"m_-3127088209697406506d118=
+" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,s=
+ans-serif;color:rgb(0,0,0);width:616.26px"><p style=3D"margin:0px;padding:0=
+px;word-break:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;=
+direction:ltr"><span style=3D"color:rgb(71,71,71)">Order properties now hav=
+e defined Movement and Flow types, and that same structure is also availabl=
+e at networks, making matchmaking the correct next step.</span></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">=
+<br></span></p><p style=3D"margin:0px;padding:0px;word-break:break-word;fon=
+t-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=
+=3D"color:rgb(71,71,71)">During order allocation:</span></p><ul style=3D"ma=
+rgin-bottom:0px"><li class=3D"m_-3127088209697406506mcePastedContent" style=
+=3D"margin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-312708820969740650=
+6mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;co=
+lor:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:=
+ltr"><span style=3D"color:rgb(71,71,71)">The system evaluates order propert=
+ies</span></p></li><li class=3D"m_-3127088209697406506mcePastedContent" sty=
+le=3D"margin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-3127088209697406=
+506mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word;=
+color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;directio=
+n:ltr"><span style=3D"color:rgb(71,71,71)">Only networks that satisfy both=
+=C2=A0</span><strong><span style=3D"color:rgb(41,42,46)">Movement</span></s=
+trong><span style=3D"color:rgb(71,71,71)">=C2=A0and=C2=A0</span><strong><sp=
+an style=3D"color:rgb(41,42,46)">Flow Type</span></strong><span style=3D"co=
+lor:rgb(71,71,71)">=C2=A0are shown</span></p></li><li class=3D"m_-312708820=
+9697406506mcePastedContent" style=3D"margin-left:15px;color:rgb(71,71,71)">=
+<p class=3D"m_-3127088209697406506mcePastedContent" style=3D"margin:0px;pad=
+ding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:=
+1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">I=
+ncompatible networks are automatically filtered out</span></p></li></ul><p =
+style=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-h=
+eight:1.5;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-br=
+eak:break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D=
+"color:rgb(71,71,71)">This ensures:</span></p><ul style=3D"margin-bottom:0p=
+x"><li class=3D"m_-3127088209697406506mcePastedContent" style=3D"margin-lef=
+t:15px;color:rgb(71,71,71)"><p class=3D"m_-3127088209697406506mcePastedCont=
+ent" style=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0)=
+;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span sty=
+le=3D"color:rgb(71,71,71)">No reverse orders are shown to forward-only netw=
+orks</span></p></li><li class=3D"m_-3127088209697406506mcePastedContent" st=
+yle=3D"margin-left:15px;color:rgb(71,71,71)"><p class=3D"m_-312708820969740=
+6506mcePastedContent" style=3D"margin:0px;padding:0px;word-break:break-word=
+;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;directi=
+on:ltr"><span style=3D"color:rgb(71,71,71)">No partial-flow orders are rout=
+ed to unsupported networks</span></p></li><li class=3D"m_-31270882096974065=
+06mcePastedContent" style=3D"margin-left:15px;color:rgb(71,71,71)"><p class=
+=3D"m_-3127088209697406506mcePastedContent" style=3D"margin:0px;padding:0px=
+;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;lett=
+er-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Allocatio=
+n decisions are constraint-driven, not manual</span></p></li></ul></div></t=
+d></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td valign=
+=3D"top" id=3D"m_-3127088209697406506gutterContainerId-104" style=3D"word-b=
+reak:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top=
+" id=3D"m_-3127088209697406506b104" style=3D"word-break:break-word;padding:=
+0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px=
+;background-color:transparent;border-radius:0px"><tbody><tr><td class=3D"m_=
+-3127088209697406506mceTextBlockContainer" style=3D"word-break:break-word;p=
+adding:12px 24px 8px 16px"><div class=3D"m_-3127088209697406506mceText" id=
+=3D"m_-3127088209697406506d104" style=3D"font-family:&quot;Helvetica Neue&q=
+uot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h=
+3 class=3D"m_-3127088209697406506mcePastedContent" id=3D"m_-312708820969740=
+6506What=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;padding:0px;font-=
+size:20px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)=
+;font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,BlinkMa=
+cSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-ser=
+if"><span style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atla=
+ssian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe=
+ UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What This </span></=
+span><span style=3D"font-size:22.84px"><span style=3D"font-family:&quot;Atl=
+assian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Sego=
+e UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">Means To You</span=
+></span></span></h3><ul style=3D"margin-bottom:0px"><li style=3D"margin-lef=
+t:15px"><p style=3D"margin:0px;padding:0px;word-break:break-word;font-size:=
+16px;line-height:1.5;letter-spacing:0px;direction:ltr">Cleaner and faster n=
+etwork selection</p></li><li style=3D"margin-left:15px"><p class=3D"m_-3127=
+088209697406506mcePastedContent" style=3D"margin:0px;padding:0px;word-break=
+:break-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr=
+">Stronger alignment between order configuration and network capability</p>=
+</li><li style=3D"margin-left:15px"><p class=3D"m_-3127088209697406506mcePa=
+stedContent" style=3D"margin:0px;padding:0px;word-break:break-word;font-siz=
+e:16px;line-height:1.5;letter-spacing:0px;direction:ltr">Improved operation=
+al accuracy at scale</p></li></ul></div></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209697406=
+506gutterContainerId-108" style=3D"word-break:break-word;padding:0px"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"p=
+resentation"><tbody><tr><td valign=3D"top" id=3D"m_-3127088209697406506b108=
+" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px">=
+<table width=3D"100%" style=3D"border:0px;background-color:transparent;bord=
+er-radius:0px"><tbody><tr><td class=3D"m_-3127088209697406506mceTextBlockCo=
+ntainer" style=3D"word-break:break-word;padding:12px 24px 8px 16px"><div cl=
+ass=3D"m_-3127088209697406506mceText" id=3D"m_-3127088209697406506d108" sty=
+le=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-s=
+erif;color:rgb(0,0,0);width:616.26px"><h3 class=3D"m_-3127088209697406506mc=
+ePastedContent" id=3D"m_-3127088209697406506What=E2=80=99s-New" style=3D"ma=
+rgin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction=
+:ltr"><span style=3D"color:rgb(41,42,46);font-family:&quot;Atlassian Sans&q=
+uot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ub=
+untu,&quot;Helvetica Neue&quot;,sans-serif"><span style=3D"font-size:1.142e=
+m"><span style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-app=
+le-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Ne=
+ue&quot;,sans-serif">What=E2=80=99s Next?</span></span></span></h3><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(41,42,46)">=
+<br></span><span style=3D"color:rgb(71,71,71)">Something exciting is coming=
+ soon, stay tuned !!</span></p></div></td></tr></tbody></table></td></tr></=
+tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209697406506=
+b29" style=3D"word-break:break-word;background-color:transparent;border:0px=
+;border-radius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><t=
+body><tr><td valign=3D"top" height=3D"20" style=3D"word-break:break-word"><=
+/td></tr></tbody></table></td></tr><tr><td valign=3D"top" align=3D"center" =
+id=3D"m_-3127088209697406506b42" style=3D"word-break:break-word;padding:0px=
+;border:0px;border-radius:0px"><div></div><table align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation=
+" style=3D"margin:0px;vertical-align:top;max-width:100%;width:660px;height:=
+auto"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;border:0=
+px;border-radius:0px"><img alt=3D"image placeholder" src=3D"https://mcuserc=
+ontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a=
+4b0b1.png" width=3D"660" height=3D"auto" class=3D"m_-3127088209697406506mce=
+Image gmail-CToWUd" style=3D"border: 0px; height: auto; outline: none; disp=
+lay: block; max-width: 100%; border-radius: 0px;"></td></tr></tbody></table=
+><div></div><div></div></td></tr><tr><td valign=3D"top" id=3D"m_-3127088209=
+697406506b11" style=3D"word-break:break-word;padding:8px;border:0px;border-=
+radius:0px"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" role=3D"presentation" id=3D"m_-3127088209697406506=
+section_9fbc00a0d30eb4ff1fe3d55726529c58" class=3D"m_-3127088209697406506mc=
+eFooterSection" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D=
+"top" style=3D"word-break:break-word;background-position:center center;back=
+ground-repeat:no-repeat;background-size:cover;padding-top:0px;padding-botto=
+m:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"12" width=3D"10=
+0%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td=
+ valign=3D"top" class=3D"m_-3127088209697406506mceColumn" id=3D"m_-31270882=
+09697406506mceColumnId--3" colspan=3D"12" width=3D"100%" style=3D"word-brea=
+k:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D=
+"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-312708820=
+9697406506gutterContainerId-9" style=3D"word-break:break-word;padding:0px">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"m_-3=
+127088209697406506b9" style=3D"word-break:break-word;padding:0px;border:0px=
+;border-radius:0px"><table width=3D"100%" style=3D"border:0px;background-co=
+lor:transparent;border-radius:0px"><tbody><tr><td class=3D"m_-3127088209697=
+406506mceTextBlockContainer" style=3D"word-break:break-word;padding:12px 16=
+px"><div class=3D"m_-3127088209697406506mceText" id=3D"m_-31270882096974065=
+06d9" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verda=
+na,sans-serif;color:rgb(0,0,0);display:inline-block;width:608.262px"><p sty=
+le=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heig=
+ht:1.5;text-align:center;letter-spacing:0px;direction:ltr"><span style=3D"c=
+olor:rgb(71,71,71)"><span style=3D"font-size:11px">M3M Urbana Business Park=
+, Sector 67</span></span></p><p style=3D"margin:0px;padding:0px;word-break:=
+break-word;font-size:16px;line-height:1.5;text-align:center;letter-spacing:=
+0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"font-=
+size:11px">Gurugram , Haryana (122101)<br><br></span></span><a href=3D"http=
+s://us17.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&amp;xid=
+=3Daaf386cc2e&amp;uid=3D248089116&amp;iid=3D253ca9b468&amp;pool=3Dcts&amp;v=
+=3D2&amp;c=3D1772532541&amp;h=3D11670be7aca05b7e95c9efc6291d1391f3c22e865bb=
+4bf4f46d8f2e391aefe03" target=3D"_blank" style=3D"color:rgb(153,153,153);wo=
+rd-break:break-word;direction:ltr"><span style=3D"font-size:11px">VISIT WEB=
+SITE</span></a></p></div></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr></tbody></table></div>
+
+--000000000000253f3f064c430584--

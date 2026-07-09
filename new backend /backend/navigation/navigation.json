@@ -1,0 +1,322 @@
+[
+  {
+    "id": "rider_kyc",
+    "title": "Rider KYC",
+    "aliases": [
+      "rider kyc",
+      "kyc",
+      "verification"
+    ],
+    "path": [
+      "Settings",
+      "Users & Permissions",
+      "Onboarding & KYC",
+      "Rider"
+    ]
+  },
+
+  {
+    "id": "flexi_shift",
+    "title": "Flexi Shift",
+    "aliases": [
+      "flexi shift",
+      "rider flexi shift",
+      "shift"
+    ],
+    "path": [
+      "Riders",
+      "Roster & Attendance",
+      "Flexi Shifts"
+    ]
+  },
+
+  {
+    "id": "order_categories",
+    "title": "Order Categories",
+    "aliases": [
+      "order category",
+      "order categories"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Order Category"
+    ]
+  },
+
+  {
+    "id": "geo_location",
+    "title": "Geo Location & Fencing",
+    "aliases": [
+      "geo location",
+      "geo fencing",
+      "fencing"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Geo Location & Fencing"
+    ]
+  },
+
+  {
+    "id": "pop_pod",
+    "title": "POP & POD",
+    "aliases": [
+      "pod",
+      "pop",
+      "proof of delivery",
+      "proof of pickup"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "POP & POD"
+    ]
+  },
+
+  {
+    "id": "reverse_orders",
+    "title": "Reverse Orders",
+    "aliases": [
+      "reverse order",
+      "reverse pickup",
+      "reverse"
+    ],
+    "path": [
+      "Orders",
+      "Create Order",
+      "Reverse Order"
+    ]
+  },
+
+  {
+    "id": "package_scan",
+    "title": "Package Scan",
+    "aliases": [
+      "package scan",
+      "scan package"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Barcodes",
+      "Package Scan"
+    ]
+  },
+
+  {
+    "id": "calling",
+    "title": "Calling",
+    "aliases": [
+      "calling",
+      "call"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Calling"
+    ]
+  },
+
+  {
+    "id": "barcodes",
+    "title": "Barcodes",
+    "aliases": [
+      "barcode",
+      "barcodes"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Barcodes"
+    ]
+  },
+
+  {
+    "id": "pickup_failures",
+    "title": "Pickup Failures",
+    "aliases": [
+      "pickup failure",
+      "pickup failures"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Pickup Failures"
+    ]
+  },
+
+  {
+    "id": "delivery_failures",
+    "title": "Delivery Failures",
+    "aliases": [
+      "delivery failure",
+      "delivery failures"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Order Settings",
+      "Delivery Failures"
+    ]
+  },  {
+    "id": "smart_allocation",
+    "title": "Smart Allocation",
+    "aliases": [
+      "smart allocation",
+      "allocation"
+    ],
+    "path": [
+      "Settings",
+      "Smart Configurations",
+      "Smart Allocation"
+    ]
+  },
+
+  {
+    "id": "auto_manifest",
+    "title": "Auto Manifest",
+    "aliases": [
+      "auto manifest",
+      "manifest"
+    ],
+    "path": [
+      "Settings",
+      "Smart Configurations",
+      "Auto Manifest"
+    ]
+  },
+
+  {
+    "id": "rider_reprioritization",
+    "title": "Rider Reprioritization",
+    "aliases": [
+      "reprioritize",
+      "rider reprioritization",
+      "reprioritization"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Delivery Executive Settings",
+      "Reprioritize"
+    ]
+  },
+
+  {
+    "id": "whitelabelling",
+    "title": "Whitelabelling",
+    "aliases": [
+      "white label",
+      "whitelabelling",
+      "whitelabeling"
+    ],
+    "path": [
+      "Settings",
+      "General",
+      "Whitelabelling"
+    ]
+  },
+
+  {
+    "id": "channel_integration",
+    "title": "Channel Integration",
+    "aliases": [
+      "channel integration",
+      "channel"
+    ],
+    "path": [
+      "Settings",
+      "Channel Integration"
+    ]
+  },
+
+  {
+    "id": "alerts",
+    "title": "Alerts",
+    "aliases": [
+      "alerts",
+      "alert"
+    ],
+    "path": [
+      "Settings",
+      "Alerts"
+    ]
+  },
+
+  {
+    "id": "communications",
+    "title": "Communications",
+    "aliases": [
+      "communication",
+      "communications"
+    ],
+    "path": [
+      "Settings",
+      "Communications"
+    ]
+  },
+
+  {
+    "id": "zones",
+    "title": "Zones",
+    "aliases": [
+      "zone",
+      "zones"
+    ],
+    "path": [
+      "Settings",
+      "Locations & Addresses",
+      "Zones"
+    ]
+  },
+
+  {
+    "id": "hubs",
+    "title": "Hubs",
+    "aliases": [
+      "hub",
+      "hubs"
+    ],
+    "path": [
+      "Settings",
+      "Locations & Addresses",
+      "Hubs"
+    ]
+  },
+
+  {
+    "id": "saved_addresses",
+    "title": "Saved Addresses",
+    "aliases": [
+      "saved address",
+      "saved addresses"
+    ],
+    "path": [
+      "Settings",
+      "Locations & Addresses",
+      "Saved Addresses"
+    ]
+  },
+
+  {
+    "id": "fleet_management",
+    "title": "Fleet Management",
+    "aliases": [
+      "fleet",
+      "fleet management",
+      "vehicle"
+    ],
+    "path": [
+      "Fleets"
+    ]
+  }
+]

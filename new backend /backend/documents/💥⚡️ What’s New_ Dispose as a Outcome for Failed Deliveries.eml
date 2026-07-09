@@ -1,0 +1,544 @@
+MIME-Version: 1.0
+Date: Thu, 26 Feb 2026 10:23:57 +0530
+Bcc: Product Updates <product-updates@r-indventures.com>, Pidge Tech <pidge.tech@pidge.in>, 
+	Rohan Paliwal <rohan.paliwal@pidge.in>, Bhanuja Dass <bhanuja.dass@pidge.in>
+Message-ID: <CAFuJ3p65eydyyQaMPPPiMHT5wL+rUbGSiA_m-1wumFU24E=_Cw@mail.gmail.com>
+Subject: =?UTF-8?B?8J+SpeKaoe+4jyBXaGF04oCZcyBOZXc6IERpc3Bvc2UgYXMgYSBPdXRjb21lIGZvciBGYQ==?=
+	=?UTF-8?B?aWxlZCBEZWxpdmVyaWVz?=
+From: Saarthak Jain <saarthak.jain@pidge.in>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000891981064bb2e8f5"
+
+--000000000000891981064bb2e8f5
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+[image: image placeholder]
+[image: image placeholder]
+*Dispose as a Outcome for Failed Deliveries*
+
+
+Not every undelivered order should come back.
+
+
+We=E2=80=99re introducing *Dispose* as a configurable, controlled outcome a=
+cross
+the platform, spanning business settings, network capabilities, APIs and
+the rider app, while ensuring responsibility and decision-making remain
+clearly defined.
+
+
+Until now, failed deliveries were forced into a limited set of outcomes
+like *Reattempt* or *RTO*, even when disposal was the correct business
+decision.
+Why We Built This
+
+Failed deliveries sit at the intersection of operations, cost, and
+accountability. The lack of a formal =E2=80=9CDispose=E2=80=9D option led t=
+o:
+
+   -
+
+   Forced RTOs where disposal was intended
+   -
+
+   Manual interventions and inconsistencies
+   -
+
+   Ambiguity in business intent
+   -
+
+   Rider responsibility on undelivered orders
+
+What=E2=80=99s New
+
+Businesses can now configure Dispose as a default action for undelivered
+orders.
+
+
+When selected:
+
+   -
+
+   The delivery task is completed as disposed
+   -
+
+   No RTO task is created
+   -
+
+   Rider can simply dispose off the order
+   -
+
+   Disposed will be a new terminal status & same would be updated in webhoo=
+k
+
+New parameter =E2=80=9Cforce_dispose=E2=80=9D has been introduced in the AP=
+I to support
+this.
+View API Documentation
+<https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3c63-e0d2-4=
+e3f-9ac3-ca677ea8f6a8>
+
+
+Note: Same is supported at Network level configuration.
+What This Means For You
+
+   -
+
+   Businesses can explicitly decide when an order should be disposed
+   -
+
+   Networks can declare whether they *support* disposal, without owning the
+   decision
+   -
+
+   Orders can carry disposal intent directly via APIs
+   -
+
+   Riders see clear, unambiguous actions in the app
+   -
+
+   Applicable only for riders on Pidge application
+
+
+Dispose is now a *controlled capability*, not an accidental outcome.
+What=E2=80=99s Next
+
+Something exciting is coming soon - Stay tuned !!
+[image: image placeholder]
+
+M3M Urbana Business Park, Sector 67
+
+Gurugram , Haryana (122101)
+
+VISIT WEBSITE
+<https://us17.mailchimp.com/mctx/clicks?url=3Dhttp%3A%2F%2Fwww.pidge.in&xid=
+=3D044841993c&uid=3D248089116&iid=3D56cf6bfe87&pool=3Dcts&v=3D2&c=3D1771229=
+379&h=3D92fafd06bde3ef95dad741e7b0eff4f6ddaae30955f2276bfc1701d5bb4aaa11>
+
+--000000000000891981064bb2e8f5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><table id=3D"m_-8407962820838682929m_7427=
+668430202548263root" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" =
+align=3D"center" style=3D"word-break:break-word;background-color:transparen=
+t"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" r=
+ole=3D"presentation" style=3D"border-collapse:collapse;max-width:660px"><tb=
+ody><tr><td valign=3D"top" style=3D"word-break:break-word"><table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" rol=
+e=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=
+=3D"top" style=3D"word-break:break-word;background-position:center center;b=
+ackground-repeat:no-repeat;background-size:cover"><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-840796=
+2820838682929m_7427668430202548263mceColumnId--6" colspan=3D"12" width=3D"1=
+00%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0px"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D=
+"presentation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"=
+top" align=3D"center" id=3D"m_-8407962820838682929m_7427668430202548263b38"=
+ style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0px"><=
+div></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"margin:0px;vertical-a=
+lign:top;max-width:100%;width:660px;height:auto"><tbody><tr><td valign=3D"t=
+op" style=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=
+=3D"image placeholder" src=3D"https://mcusercontent.com/224f42470f71ae12c1d=
+e16d6c/images/a6a3298b-8cce-7cf6-b4cf-c48a94a4b0b1.png" width=3D"660" heigh=
+t=3D"auto" style=3D"border:0px;height:auto;outline:none;display:block;max-w=
+idth:100%;border-radius:0px"></td></tr></tbody></table><div></div><div></di=
+v></td></tr><tr><td valign=3D"top" align=3D"center" id=3D"m_-84079628208386=
+82929m_7427668430202548263b39" style=3D"word-break:break-word;padding:0px;b=
+order:0px;border-radius:0px"><div></div><table align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" =
+style=3D"margin:0px;vertical-align:top;max-width:100%;width:660px;height:au=
+to"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;border:0px=
+;border-radius:0px"><img alt=3D"image placeholder" src=3D"https://mcusercon=
+tent.com/224f42470f71ae12c1de16d6c/images/05342ccc-bd0f-dfd4-6832-7a28b8cc0=
+795.png" width=3D"660" height=3D"auto" style=3D"outline:none;border:0px;hei=
+ght:auto;display:block;max-width:100%;border-radius:0px"></td></tr></tbody>=
+</table><div></div><div></div></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbod=
+y><tbody><tr><td valign=3D"top" align=3D"center" style=3D"word-break:break-=
+word;background-color:transparent"><table border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collap=
+se:collapse;max-width:660px"><tbody><tr><td valign=3D"top" style=3D"word-br=
+eak:break-word"><table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse=
+:collapse"><tbody><tr><td valign=3D"top" style=3D"word-break:break-word;bac=
+kground-position:center center;background-repeat:no-repeat;background-size:=
+cover"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td =
+valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263mceColumnId=
+--7" colspan=3D"12" width=3D"100%" style=3D"word-break:break-word;padding-t=
+op:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:colla=
+pse"><tbody><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7427668430=
+202548263gutterContainerId-33" style=3D"word-break:break-word;padding:0px">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-840796282083868292=
+9m_7427668430202548263b33" style=3D"word-break:break-word;padding:0px;borde=
+r:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;backgrou=
+nd-color:transparent;border-radius:0px"><tbody><tr><td style=3D"word-break:=
+break-word;padding:12px 16px"><div id=3D"m_-8407962820838682929m_7427668430=
+202548263d33" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Ari=
+al,Verdana,sans-serif;color:rgb(0,0,0);width:624.258px"><h1 style=3D"margin=
+:0px;padding:0px;font-size:31px;line-height:1.5;letter-spacing:0px;directio=
+n:ltr"><strong><span style=3D"font-size:26px">Dispose as a Outcome for Fail=
+ed Deliveries</span></strong></h1><p style=3D"margin:0px;padding:0px;word-b=
+reak:break-word;font-size:16px;line-height:0;letter-spacing:0px;direction:l=
+tr"><br></p><p style=3D"margin:0.75rem 0px 0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"color:rg=
+b(71,71,71)">Not every undelivered order should come back.</span></p><p sty=
+le=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heig=
+ht:1.5;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break=
+:break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"co=
+lor:rgb(71,71,71)">We=E2=80=99re introducing=C2=A0</span><strong>Dispose</s=
+trong><span style=3D"color:rgb(71,71,71)">=C2=A0as a configurable, controll=
+ed outcome across the platform, spanning business settings, network capabil=
+ities, APIs and the rider app, while ensuring responsibility and decision-m=
+aking remain clearly defined.</span></p><p style=3D"margin:0px;padding:0px;=
+word-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><span s=
+tyle=3D"color:rgb(71,71,71)"><br></span></p><p style=3D"margin:0px;padding:=
+0px;word-break:break-word;font-size:16px;line-height:1.5;direction:ltr"><sp=
+an style=3D"color:rgb(71,71,71)">Until now, failed deliveries were forced i=
+nto a limited set of outcomes like=C2=A0</span><strong>Reattempt</strong><s=
+pan style=3D"color:rgb(71,71,71)">=C2=A0or=C2=A0</span><strong>RTO</strong>=
+<span style=3D"color:rgb(71,71,71)">, even when disposal was the correct bu=
+siness decision.</span><span style=3D"color:rgb(71,71,71)"></span></p></div=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td vali=
+gn=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263b41" style=3D"w=
+ord-break:break-word;background-color:transparent;border:0px;border-radius:=
+0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td va=
+lign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr></tbod=
+y></table></td></tr><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_74=
+27668430202548263b23" style=3D"word-break:break-word;background-color:trans=
+parent;border:0px;border-radius:0px"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-coll=
+apse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" style=3D"word-br=
+eak:break-word"></td></tr></tbody></table></td></tr><tr><td valign=3D"top" =
+align=3D"center" id=3D"m_-8407962820838682929m_7427668430202548263b4" style=
+=3D"word-break:break-word;padding:12px 0px;border:0px;border-radius:0px"><d=
+iv></div><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"95%" role=3D"presentation" style=3D"margin:0px;vertical-ali=
+gn:top;max-width:95%;width:626.992px;height:auto"><tbody><tr><td valign=3D"=
+top" style=3D"word-break:break-word;border:0px;border-radius:0px"><img alt=
+=3D"" src=3D"https://mcusercontent.com/f54e0edc5d9dce9d8cd226873/images/c3c=
+75e15-eb8b-dc51-9441-2ae9e50e45e8.png" width=3D"627" height=3D"auto" style=
+=3D"outline:none;border:0px;height:auto;display:block;max-width:100%;border=
+-radius:0px"></td></tr></tbody></table><div></div><div></div></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr></tbody><tbody><tr><td valign=3D"top" align=3D"cen=
+ter" style=3D"word-break:break-word;background-color:transparent"><table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"prese=
+ntation" style=3D"border-collapse:collapse;max-width:660px"><tbody><tr><td =
+valign=3D"top" style=3D"word-break:break-word"><table align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"present=
+ation" style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" sty=
+le=3D"word-break:break-word;background-position:center center;background-re=
+peat:no-repeat;background-size:cover"><table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-col=
+lapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-8407962820838682929m=
+_7427668430202548263mceColumnId--8" colspan=3D"12" width=3D"100%" style=3D"=
+word-break:break-word;padding-top:0px;padding-bottom:0px"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+ style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-=
+8407962820838682929m_7427668430202548263gutterContainerId-18" style=3D"word=
+-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"t=
+op" id=3D"m_-8407962820838682929m_7427668430202548263b18" style=3D"word-bre=
+ak:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100=
+%" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbo=
+dy><tr><td style=3D"word-break:break-word;padding:12px 24px 12px 16px"><div=
+ id=3D"m_-8407962820838682929m_7427668430202548263d18" style=3D"font-family=
+:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,=
+0,0);width:616.26px"><h3 id=3D"m_-8407962820838682929m_7427668430202548263W=
+hy-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:2=
+0px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(41,42,46)"><spa=
+n style=3D"font-size:1.142em"><span style=3D"font-family:&quot;Atlassian Sa=
+ns&quot;,ui-sans-serif,-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot=
+;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">Why We Built This</span></s=
+pan></span></h3><p style=3D"margin:0.75rem 0px 0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"colo=
+r:rgb(71,71,71)">Failed deliveries sit at the intersection of operations, c=
+ost, and accountability. The lack of a formal =E2=80=9CDispose=E2=80=9D opt=
+ion led to:</span></p><ul style=3D"margin-bottom:0px"><li style=3D"margin-l=
+eft:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break=
+:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:=
+0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Forced RTOs where di=
+sposal was intended</span></p></li><li style=3D"margin-left:15px;color:rgb(=
+71,71,71)"><p style=3D"margin:0px;padding:0px;word-break:break-word;color:r=
+gb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr">=
+<span style=3D"color:rgb(71,71,71)">Manual interventions and inconsistencie=
+s</span></p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-siz=
+e:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"col=
+or:rgb(71,71,71)">Ambiguity in business intent</span></p></li><li style=3D"=
+margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;wo=
+rd-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-=
+spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Rider respon=
+sibility on undelivered orders</span></p></li></ul></div></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_=
+-8407962820838682929m_7427668430202548263gutterContainerId-143" style=3D"wo=
+rd-break:break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"=
+m_-8407962820838682929m_7427668430202548263b143" style=3D"word-break:break-=
+word;padding:8px 0px;border:0px;border-radius:0px"><table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pre=
+sentation" id=3D"m_-8407962820838682929m_7427668430202548263section_595207a=
+8fb42a2a8368f6ba85efc66e4" style=3D"border-collapse:collapse"><tbody><tr><t=
+d valign=3D"top" style=3D"word-break:break-word;background-position:center =
+center;background-repeat:no-repeat;background-size:cover"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"=
+ style=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-=
+8407962820838682929m_7427668430202548263mceColumnId--9" colspan=3D"12" widt=
+h=3D"100%" style=3D"word-break:break-word"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse:collapse"><tbody><tr><td valign=3D"top" align=3D"center" id=3D"=
+m_-8407962820838682929m_7427668430202548263b-5" style=3D"word-break:break-w=
+ord;border:0px;border-radius:0px"><table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"word-b=
+reak:break-word;background-position:center center;background-repeat:no-repe=
+at;background-size:cover"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collap=
+se"><tbody><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_74276684302=
+02548263mceColumnId--11" colspan=3D"12" width=3D"100%" style=3D"word-break:=
+break-word"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><=
+tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263b142=
+" style=3D"word-break:break-word;border:0px;border-radius:0px"><table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td va=
+lign=3D"top" style=3D"word-break:break-word;background-position:center cent=
+er;background-repeat:no-repeat;background-size:cover"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"presentation" st=
+yle=3D"border-collapse:collapse"><tbody><tr><td valign=3D"center" id=3D"m_-=
+8407962820838682929m_7427668430202548263mceColumnId-141" colspan=3D"12" wid=
+th=3D"100%" style=3D"word-break:break-word;padding-top:0px;padding-bottom:0=
+px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><td val=
+ign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263gutterContaine=
+rId-136" style=3D"word-break:break-word;padding:0px"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbo=
+dy><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263=
+b136" style=3D"word-break:break-word;padding:0px;border:0px;border-radius:0=
+px"><table width=3D"100%" style=3D"border:0px;background-color:transparent;=
+border-radius:0px"><tbody><tr><td style=3D"word-break:break-word;padding:0p=
+x 24px 12px 16px"><div id=3D"m_-8407962820838682929m_7427668430202548263d13=
+6" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,=
+sans-serif;color:rgb(0,0,0);width:616.26px"><h3 id=3D"m_-840796282083868292=
+9m_7427668430202548263Why-We-Built-This" style=3D"margin:1.31249em 0px 0px;=
+padding:0px;font-size:20px;line-height:1.5;direction:ltr"><span style=3D"co=
+lor:rgb(41,42,46)"><span style=3D"font-size:1.142em"><span style=3D"font-fa=
+mily:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,BlinkMacSystemF=
+ont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,sans-serif">What=
+=E2=80=99s New</span></span></span></h3><p style=3D"margin:0.75rem 0px 0px;=
+padding:0px;word-break:break-word;font-size:16px;line-height:1.5;direction:=
+ltr"><span style=3D"color:rgb(71,71,71)">Businesses can now configure </spa=
+n>Dispose<span style=3D"color:rgb(71,71,71)"> as a default action for undel=
+ivered orders.</span></p><p style=3D"margin:0px;padding:0px;word-break:brea=
+k-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0px;di=
+rection:ltr"><br></p><h3 id=3D"m_-8407962820838682929m_7427668430202548263W=
+hy-We-Built-This" style=3D"margin:1.31249em 0px 0px;padding:0px;font-size:2=
+0px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)"><spa=
+n style=3D"font-size:16px"><span style=3D"font-weight:normal">When selected=
+:</span></span></span></h3><ul style=3D"margin-bottom:0px"><li style=3D"mar=
+gin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-=
+break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spa=
+cing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">The delivery ta=
+sk is completed as disposed</span></p></li><li style=3D"margin-left:15px;co=
+lor:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;word-break:break-word=
+;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-spacing:0px;directi=
+on:ltr"><span style=3D"color:rgb(71,71,71)">No RTO task is created</span></=
+p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margi=
+n:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;lin=
+e-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,=
+71,71)">Rider can simply dispose off the order</span></p></li><li style=3D"=
+margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;padding:0px;wo=
+rd-break:break-word;color:rgb(0,0,0);font-size:16px;line-height:1.5;letter-=
+spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">Disposed wil=
+l be a new terminal status &amp; same would be updated in=C2=A0webhook</spa=
+n></p></li></ul></div></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></tabl=
+e></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></t=
+able></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" align=3D=
+"center" id=3D"m_-8407962820838682929m_7427668430202548263b132" style=3D"wo=
+rd-break:break-word;background-color:transparent;padding:12px 16px;border:0=
+px;border-radius:0px"><div></div><table align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"88%" role=3D"presentation" style=3D=
+"margin:0px;vertical-align:top;max-width:88%;width:552.646px;height:auto"><=
+tbody><tr><td valign=3D"top" style=3D"word-break:break-word;border:0px;bord=
+er-radius:0px"><img alt=3D"" src=3D"https://mcusercontent.com/f54e0edc5d9dc=
+e9d8cd226873/images/e00b2bdf-b85a-f639-c8d6-d6f5e2fe5f8c.png" width=3D"552.=
+64" height=3D"auto" style=3D"outline:none;border:0px;height:auto;display:bl=
+ock;max-width:100%;border-radius:0px"></td></tr></tbody></table><div></div>=
+<div></div></td></tr><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7=
+427668430202548263gutterContainerId-116" style=3D"word-break:break-word;pad=
+ding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-84079628=
+20838682929m_7427668430202548263b116" style=3D"word-break:break-word;paddin=
+g:0px;border:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0=
+px;background-color:transparent;border-radius:0px"><tbody><tr><td style=3D"=
+word-break:break-word;padding:0px 24px 8px 16px"><div id=3D"m_-840796282083=
+8682929m_7427668430202548263d116" style=3D"font-family:&quot;Helvetica Neue=
+&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px">=
+<h3 id=3D"m_-8407962820838682929m_7427668430202548263m_-8378901049065617905=
+m_5654958329624272353What=E2=80=99s-New" style=3D"margin:1.31249em 0px 0px;=
+padding:0px;font-size:20px;line-height:1.5;direction:ltr"><span style=3D"co=
+lor:rgb(71,71,71)"><span style=3D"font-size:16px"><span style=3D"font-weigh=
+t:normal">New parameter</span></span></span><span style=3D"font-size:16px">=
+=C2=A0=E2=80=9Cforce_dispose=E2=80=9D</span><span style=3D"color:rgb(71,71,=
+71)"><span style=3D"font-size:16px"><span style=3D"font-weight:normal">=C2=
+=A0has been introduced in the API to support this.</span></span><br></span>=
+<a href=3D"https://documenter.getpostman.com/view/13758726/2s93RKzFtk#0aac3=
+c63-e0d2-4e3f-9ac3-ca677ea8f6a8" style=3D"color:rgb(116,167,255);word-break=
+:break-word;font-weight:inherit;text-decoration-line:none;direction:ltr" ta=
+rget=3D"_blank"><span style=3D"font-size:16px"><span style=3D"font-weight:n=
+ormal">View API Documentation</span></span></a></h3></div></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m=
+_-8407962820838682929m_7427668430202548263gutterContainerId-102" style=3D"w=
+ord-break:break-word;padding:0px"><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><tr><td valign=
+=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263b102" style=3D"wo=
+rd-break:break-word;padding:0px;border:0px;border-radius:0px"><table width=
+=3D"100%" style=3D"border:0px;background-color:transparent;border-radius:0p=
+x"><tbody><tr><td style=3D"word-break:break-word;padding:12px 24px 8px 16px=
+"><div id=3D"m_-8407962820838682929m_7427668430202548263d102" style=3D"font=
+-family:&quot;Helvetica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color=
+:rgb(0,0,0);width:616.26px"><p style=3D"margin:0px;padding:0px;word-break:b=
+reak-word;font-size:16px;line-height:0;text-align:center;letter-spacing:0px=
+;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:break=
+-word;font-size:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><spa=
+n style=3D"color:rgb(71,71,71)">Note: Same is supported at Network level co=
+nfiguration.</span></p></div></td></tr></tbody></table></td></tr></tbody></=
+table></td></tr><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_742766=
+8430202548263gutterContainerId-68" style=3D"word-break:break-word;padding:0=
+px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+role=3D"presentation"><tbody><tr><td valign=3D"top" id=3D"m_-84079628208386=
+82929m_7427668430202548263b68" style=3D"word-break:break-word;padding:0px;b=
+order:0px;border-radius:0px"><table width=3D"100%" style=3D"border:0px;back=
+ground-color:transparent;border-radius:0px"><tbody><tr><td style=3D"word-br=
+eak:break-word;padding:12px 24px 12px 16px"><div id=3D"m_-84079628208386829=
+29m_7427668430202548263d68" style=3D"font-family:&quot;Helvetica Neue&quot;=
+,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 id=
+=3D"m_-8407962820838682929m_7427668430202548263Why-We-Built-This" style=3D"=
+margin:1.31249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;directi=
+on:ltr"><span style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142e=
+m"><span style=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-app=
+le-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Ne=
+ue&quot;,sans-serif">What This Means For You</span></span></span></h3><ul s=
+tyle=3D"margin-bottom:0px"><li style=3D"margin-left:15px;margin-top:0.75rem=
+;margin-bottom:0px;padding:0px;color:rgb(71,71,71)"><p style=3D"margin:0.75=
+rem 0px 0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16=
+px;line-height:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">Busin=
+esses can explicitly decide when an order should be disposed</span></p></li=
+><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;=
+padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-heig=
+ht:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)=
+">Networks can declare whether they=C2=A0</span><strong>support</strong><sp=
+an style=3D"color:rgb(71,71,71)">=C2=A0disposal, without owning the decisio=
+n</span></p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-siz=
+e:16px;line-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"col=
+or:rgb(71,71,71)">Orders can carry disposal intent directly via APIs</span>=
+</p></li><li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"mar=
+gin:0px;padding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;l=
+ine-height:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(7=
+1,71,71)">Riders see clear, unambiguous actions in the app</span></p></li><=
+li style=3D"margin-left:15px;color:rgb(71,71,71)"><p style=3D"margin:0px;pa=
+dding:0px;word-break:break-word;color:rgb(0,0,0);font-size:16px;line-height=
+:1.5;letter-spacing:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)">=
+Applicable only for riders on Pidge application</span></p></li></ul><p styl=
+e=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-heigh=
+t:1.5;direction:ltr"><br></p><p style=3D"margin:0px;padding:0px;word-break:=
+break-word;font-size:16px;line-height:1.5;direction:ltr"><span style=3D"col=
+or:rgb(71,71,71)">Dispose is now a=C2=A0</span><strong>controlled capabilit=
+y</strong><span style=3D"color:rgb(71,71,71)">, not an accidental outcome.<=
+/span></p></div></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263=
+gutterContainerId-101" style=3D"word-break:break-word;padding:0px"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"pres=
+entation"><tbody><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_74276=
+68430202548263b101" style=3D"word-break:break-word;padding:0px;border:0px;b=
+order-radius:0px"><table width=3D"100%" style=3D"border:0px;background-colo=
+r:transparent;border-radius:0px"><tbody><tr><td style=3D"word-break:break-w=
+ord;padding:12px 24px 12px 16px"><div id=3D"m_-8407962820838682929m_7427668=
+430202548263d101" style=3D"font-family:&quot;Helvetica Neue&quot;,Helvetica=
+,Arial,Verdana,sans-serif;color:rgb(0,0,0);width:616.26px"><h3 id=3D"m_-840=
+7962820838682929m_7427668430202548263Why-We-Built-This" style=3D"margin:1.3=
+1249em 0px 0px;padding:0px;font-size:20px;line-height:1.5;direction:ltr"><s=
+pan style=3D"color:rgb(41,42,46)"><span style=3D"font-size:1.142em"><span s=
+tyle=3D"font-family:&quot;Atlassian Sans&quot;,ui-sans-serif,-apple-system,=
+BlinkMacSystemFont,&quot;Segoe UI&quot;,Ubuntu,&quot;Helvetica Neue&quot;,s=
+ans-serif">What=E2=80=99s Next</span></span></span></h3><p style=3D"margin:=
+0.75rem 0px 0px;padding:0px;word-break:break-word;font-size:16px;line-heigh=
+t:1.5;direction:ltr"><span style=3D"color:rgb(71,71,71)">Something exciting=
+ is coming soon - Stay tuned !!</span></p></div></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr><tr><td valign=3D"top" id=3D"m_-84079628=
+20838682929m_7427668430202548263b28" style=3D"word-break:break-word;backgro=
+und-color:transparent;border:0px;border-radius:0px"><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=
+=3D"border-collapse:collapse"><tbody><tr><td valign=3D"top" height=3D"20" s=
+tyle=3D"word-break:break-word"></td></tr></tbody></table></td></tr><tr><td =
+valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548263b29" style=
+=3D"word-break:break-word;background-color:transparent;border:0px;border-ra=
+dius:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" style=3D"border-collapse:collapse"><tbody><tr><=
+td valign=3D"top" height=3D"20" style=3D"word-break:break-word"></td></tr><=
+/tbody></table></td></tr><tr><td valign=3D"top" align=3D"center" id=3D"m_-8=
+407962820838682929m_7427668430202548263b42" style=3D"word-break:break-word;=
+padding:0px;border:0px;border-radius:0px"><div></div><table align=3D"center=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"p=
+resentation" style=3D"margin:0px;vertical-align:top;max-width:100%;width:66=
+0px;height:auto"><tbody><tr><td valign=3D"top" style=3D"word-break:break-wo=
+rd;border:0px;border-radius:0px"><img alt=3D"image placeholder" src=3D"http=
+s://mcusercontent.com/224f42470f71ae12c1de16d6c/images/a6a3298b-8cce-7cf6-b=
+4cf-c48a94a4b0b1.png" width=3D"660" height=3D"auto" style=3D"border:0px;hei=
+ght:auto;outline:none;display:block;max-width:100%;border-radius:0px"></td>=
+</tr></tbody></table><div></div><div></div></td></tr><tr><td valign=3D"top"=
+ id=3D"m_-8407962820838682929m_7427668430202548263b11" style=3D"word-break:=
+break-word;padding:8px;border:0px;border-radius:0px"><table align=3D"center=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"p=
+resentation" id=3D"m_-8407962820838682929m_7427668430202548263section_6918d=
+3eafa9729f0f8db2cb291e501d2" style=3D"border-collapse:collapse"><tbody><tr>=
+<td valign=3D"top" style=3D"word-break:break-word;background-position:cente=
+r center;background-repeat:no-repeat;background-size:cover;padding-top:0px;=
+padding-bottom:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"12=
+" width=3D"100%" role=3D"presentation" style=3D"border-collapse:collapse"><=
+tbody><tr><td valign=3D"top" id=3D"m_-8407962820838682929m_7427668430202548=
+263mceColumnId--3" colspan=3D"12" width=3D"100%" style=3D"word-break:break-=
+word;padding-top:0px;padding-bottom:0px"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-=
+collapse:collapse"><tbody><tr><td valign=3D"top" id=3D"m_-84079628208386829=
+29m_7427668430202548263gutterContainerId-9" style=3D"word-break:break-word;=
+padding:0px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" role=3D"presentation"><tbody><tr><td valign=3D"top" align=3D"cent=
+er" id=3D"m_-8407962820838682929m_7427668430202548263b9" style=3D"word-brea=
+k:break-word;padding:0px;border:0px;border-radius:0px"><table width=3D"100%=
+" style=3D"border:0px;background-color:transparent;border-radius:0px"><tbod=
+y><tr><td style=3D"word-break:break-word;padding:12px 16px"><div id=3D"m_-8=
+407962820838682929m_7427668430202548263d9" style=3D"font-family:&quot;Helve=
+tica Neue&quot;,Helvetica,Arial,Verdana,sans-serif;color:rgb(0,0,0);display=
+:inline-block;width:608.262px"><p style=3D"margin:0px;padding:0px;word-brea=
+k:break-word;font-size:16px;line-height:1.5;text-align:center;letter-spacin=
+g:0px;direction:ltr"><span style=3D"color:rgb(71,71,71)"><span style=3D"fon=
+t-size:11px">M3M Urbana Business Park, Sector 67</span></span></p><p style=
+=3D"margin:0px;padding:0px;word-break:break-word;font-size:16px;line-height=
+:1.5;text-align:center;letter-spacing:0px;direction:ltr"><span style=3D"col=
+or:rgb(71,71,71)"><span style=3D"font-size:11px">Gurugram , Haryana (122101=
+)<br><br></span></span><a href=3D"https://us17.mailchimp.com/mctx/clicks?ur=
+l=3Dhttp%3A%2F%2Fwww.pidge.in&amp;xid=3D044841993c&amp;uid=3D248089116&amp;=
+iid=3D56cf6bfe87&amp;pool=3Dcts&amp;v=3D2&amp;c=3D1771229379&amp;h=3D92fafd=
+06bde3ef95dad741e7b0eff4f6ddaae30955f2276bfc1701d5bb4aaa11" style=3D"color:=
+rgb(153,153,153);word-break:break-word;direction:ltr" target=3D"_blank"><sp=
+an style=3D"font-size:11px">VISIT WEBSITE</span></a></p></div></td></tr></t=
+body></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>=
+</tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></=
+tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr></tbody></table></div>
+</div>
+
+--000000000000891981064bb2e8f5--
