@@ -30,7 +30,7 @@ export default function DocumentViewer({
         setLoading(true);
 
         const response = await fetch(
-          `http://localhost:3000/document/${encodeURIComponent(filename)}`
+          `https://pidge-backend.onrender.com/document/${encodeURIComponent(filename)}`
         );
 
         const data: DocumentResponse = await response.json();
