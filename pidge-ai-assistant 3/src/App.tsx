@@ -53,7 +53,7 @@ export default function App() {
     // 2. Query our real backend /chat endpoint
     try {
       const response = await fetch(
-  "https://shanghai-about-gathered-inclusion.trycloudflare.com/chat",
+  "http://localhost:3000/chat",
   {
     method: "POST",
     headers: {

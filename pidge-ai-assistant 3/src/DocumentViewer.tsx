@@ -30,7 +30,7 @@ export default function DocumentViewer({
         setLoading(true);
 
         const response = await fetch(
-          `https://inc-jackie-immediate-dosage.trycloudflare.com/document/${encodeURIComponent(filename)}`
+          `http://localhost:3000/document/${encodeURIComponent(filename)}`
         );
 
         const data: DocumentResponse = await response.json();
