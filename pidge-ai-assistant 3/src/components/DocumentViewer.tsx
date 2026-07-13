@@ -29,7 +29,7 @@ export default function DocumentViewer({
         setLoading(true);
 
         const response = await fetch(
-          `http://localhost:3000/document/${encodeURIComponent(
+          `https://inc-jackie-immediate-dosage.trycloudflare.com/document/${encodeURIComponent(
             filename
           )}`
         );

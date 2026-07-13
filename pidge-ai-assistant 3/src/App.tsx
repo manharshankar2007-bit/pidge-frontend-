@@ -52,14 +52,16 @@ export default function App() {
 
     // 2. Query our real backend /chat endpoint
     try {
-      const response = await fetch("http://localhost:3000/chat", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ message: text })
-      });
-
+      const response = await fetch(
+  "https://shanghai-about-gathered-inclusion.trycloudflare.com/chat",
+  {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ message: text })
+  }
+);
       if (!response.ok) {
         throw new Error(`HTTP network exception error: status ${response.status}`);
       }
