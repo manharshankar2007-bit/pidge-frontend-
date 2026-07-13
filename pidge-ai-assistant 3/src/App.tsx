@@ -52,7 +52,7 @@ export default function App() {
 
     // 2. Query our real backend /chat endpoint
     try {
-      const response = await fetch(
+    const response = await fetch(
   "https://pidge-backend.onrender.com/chat",
   {
     method: "POST",
